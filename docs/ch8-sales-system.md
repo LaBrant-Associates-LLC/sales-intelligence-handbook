@@ -1,4 +1,4 @@
-# Chapter 8: Sales System & CRM
+# Chapter 7: Sales System & CRM
 
 **Financial Performance, Job Profitability, and Pricing**
 

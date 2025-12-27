@@ -1,4 +1,4 @@
-# Chapter 4: New Markets
+# Chapter 5: Market Segments
 
 **Religious Institutions, Self-Storage, Light Industrial, and Emerging Segments**
 

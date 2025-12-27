@@ -1,4 +1,4 @@
-# Chapter 4: Municipal Markets
+# Chapter 3: Municipal Markets
 
 **City of Milwaukee, Milwaukee County, WisDOT, and Regional Municipalities**
 

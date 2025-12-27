@@ -1,4 +1,4 @@
-# Chapter 7: Large Facility Owners
+# Chapter 6: Large Facility Owners
 
 **Direct Owner Relationships and Recurring Maintenance**
 

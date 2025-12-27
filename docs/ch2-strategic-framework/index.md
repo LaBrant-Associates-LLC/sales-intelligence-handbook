@@ -1,4 +1,4 @@
-# Chapter 2: Strategic Framework
+# Chapter 1: Strategic Framework
 
 Five-year growth strategy and market positioning for LaBrant & Associates.
 
@@ -8,9 +8,9 @@ Five-year growth strategy and market positioning for LaBrant & Associates.
 
 | This Chapter Consumes | To Produce |
 |-----------------------|------------|
-| [ATT-A: Financial Analysis](../attachments/att-a-financial.md) | GC tier classifications in [Chapter 3](../ch3-gc-intelligence/) |
-| [Multifamily Operators](../attachments/multifamily-operators.md) | Target developer list in [Chapter 5](../ch5-private-development.md) |
-| [SE Wisconsin Market Intel](../attachments/se-wisconsin-market-intel.md) | Segment priorities in [Chapter 6](../ch6-market-segments/) |
+| [ATT-A: Financial Analysis](../attachments/att-a-financial.md) | GC tier classifications in [Chapter 2](../ch3-gc-intelligence/) |
+| [Multifamily Operators](../attachments/multifamily-operators.md) | Target developer list in [Chapter 4](../ch5-private-development.md) |
+| [SE Wisconsin Market Intel](../attachments/se-wisconsin-market-intel.md) | Segment priorities in [Chapter 5](../ch6-market-segments/) |
 
 ---
 

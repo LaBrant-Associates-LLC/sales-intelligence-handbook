@@ -16,13 +16,13 @@ We currently derive most revenue from less than 10 GC relationships. This resear
 
 | Chapter | Chapter Detail | Market Size | 12-Month Opportunity |
 |---------|----------------|-------------|----------------------|
-| [1. Strategic Framework](ch1-strategic-framework/index.md) | Master strategy, market sizing, diversification | -- | -- |
+| [1. Strategy](ch1-strategic-framework/index.md) | Master strategy, market sizing, diversification | -- | -- |
 | [2. GC Intelligence](ch2-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | $15M-$25M | $2.8M-$5.2M |
 | [3. Municipal Markets](ch3-municipal/index.md) | City, County, WisDOT -- certification leverage | $7M-$12M | $1.0M-$2.2M |
 | [4. Private Development](ch4-private-development.md) | Direct developer relationships | $10M-$18M | $1.6M-$3.0M |
-| [5. Market Segments](ch5-market-segments/index.md) | Transit, food storage, automotive, etc. | $4M-$8M | $800K-$1.6M |
-| [6. Large Facility Owners](ch6-large-owners.md) | Direct owner & recurring maintenance | $3M-$7M | $400K-$1.1M |
-| [7. Sales System & CRM](ch7-sales-system.md) | Internal sales data, pricing, templates | -- | -- |
+| [5. Untapped Markets](ch5-market-segments/index.md) | Transit, food storage, automotive, etc. | $4M-$8M | $800K-$1.6M |
+| [6. Large Facilities Owners](ch6-large-owners.md) | Direct owner & recurring maintenance | $3M-$7M | $400K-$1.1M |
+| [7. Historical Sales Data & CRM](ch7-sales-system.md) | Financial data, pricing, templates | -- | -- |
 
 *Summary ranges reflect incremental opportunity. Pipeline tables below reflect total current activity. Pipeline != revenue.*
 
@@ -65,7 +65,7 @@ We currently derive most revenue from less than 10 GC relationships. This resear
 
 ## Helpful Links
 
-- [Internal Sales Data](ch7-sales-system.md) -- Pricing, financials, templates
+- [Historical Sales Data & CRM](ch7-sales-system.md) -- Pricing, financials, templates
 - [Pricing Benchmarks](ch7-sales-system.md#pricing-benchmarks) -- What to charge
 - [Bid Platforms](ch3-municipal/bid-platforms.md) -- VendorNet, DemandStar, QuestCDN
 - [ABC Wisconsin](https://abcwi.org) -- Merit-shop GC network

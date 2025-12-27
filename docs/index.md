@@ -79,7 +79,14 @@ We currently derive most revenue from less than 10 GC relationships. This resear
 - **Quarterly:** Recalibrate opportunity ranges
 - **Always:** Link to canonical data -- do not duplicate
 
-Internal sales data (pricing, financials, templates) -> [Chapter 8: Sales System](ch8-sales-system.md)
+## Helpful Links
+
+- [Internal Sales Data](ch8-sales-system.md) -- Pricing, financials, templates
+- [Pricing Benchmarks](ch8-sales-system.md#pricing-benchmarks) -- What to charge
+- [Bid Platforms](ch4-municipal/bid-platforms.md) -- VendorNet, DemandStar, QuestCDN
+- [ABC Wisconsin](https://abcwi.org) -- Merit-shop GC network
+- [City of Milwaukee SBE Portal](https://cityofmilwaukee.bonfirehub.com) -- Registration & compliance
+- [Wisconsin VendorNet](https://esupplier.wi.gov) -- State bid opportunities
 
 ---
 

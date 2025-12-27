@@ -3,43 +3,35 @@
 {% block extrahead %}
 <script>
 (function() {
-  // Save scroll position to sessionStorage before ANY click
-  document.addEventListener('click', function() {
-    var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
-    if (wrap) {
-      sessionStorage.setItem('sidebarScroll', wrap.scrollTop);
+  var savedScroll = 0;
+
+  // Block ALL scroll methods for sidebar
+  ['scrollIntoView', 'scrollTo', 'scroll', 'scrollBy'].forEach(function(method) {
+    var orig = Element.prototype[method];
+    if (orig) {
+      Element.prototype[method] = function() {
+        if (this.closest && this.closest('.md-sidebar--primary')) return;
+        return orig.apply(this, arguments);
+      };
     }
+  });
+
+  // Save position on mousedown (before click completes)
+  document.addEventListener('mousedown', function() {
+    var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+    if (wrap) savedScroll = wrap.scrollTop;
   }, true);
 
-  // Restore scroll position after page load
-  function restoreScroll() {
-    var saved = sessionStorage.getItem('sidebarScroll');
-    if (saved !== null) {
-      var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
-      if (wrap) {
-        wrap.scrollTop = parseInt(saved, 10);
-        // Keep restoring to fight MkDocs
-        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 0);
-        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 50);
-        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 100);
-        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 200);
-      }
+  // Aggressively restore
+  function restore() {
+    var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+    if (wrap && savedScroll !== undefined) {
+      wrap.scrollTop = savedScroll;
     }
   }
 
-  // Block scrollIntoView
-  var orig = Element.prototype.scrollIntoView;
-  Element.prototype.scrollIntoView = function(opts) {
-    if (this.closest && this.closest('.md-sidebar--primary')) return;
-    return orig.call(this, opts);
-  };
-
-  // Restore on all load events
-  document.addEventListener('DOMContentLoaded', restoreScroll);
-  window.addEventListener('load', restoreScroll);
-
-  // Also watch for DOM changes (instant navigation)
-  new MutationObserver(restoreScroll).observe(document.documentElement, {childList: true, subtree: true});
+  // Hammer it
+  setInterval(restore, 10);
 })();
 </script>
 {% endblock %}

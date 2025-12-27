@@ -2,11 +2,14 @@
 
 {% block extrahead %}
 <script>
-// Override scrollIntoView BEFORE MkDocs Material loads
+// Block ONLY scrollIntoView for sidebar - don't touch scrollTop
 (function() {
   var orig = Element.prototype.scrollIntoView;
   Element.prototype.scrollIntoView = function(opts) {
-    if (this.closest && this.closest('.md-sidebar--primary')) return;
+    // Block for sidebar elements
+    if (this.closest && this.closest('.md-sidebar--primary')) {
+      return; // do nothing
+    }
     return orig.call(this, opts);
   };
 })();

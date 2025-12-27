@@ -1,8 +1,1 @@
-// Backup: block scrollIntoView (main override is in head)
-(function() {
-  var orig = Element.prototype.scrollIntoView;
-  Element.prototype.scrollIntoView = function(opts) {
-    if (this.closest && this.closest('.md-sidebar--primary')) return;
-    return orig.call(this, opts);
-  };
-})();
+// Empty - main override is in head via theme override

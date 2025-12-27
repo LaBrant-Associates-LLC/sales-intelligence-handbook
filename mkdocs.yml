@@ -35,32 +35,32 @@ nav:
   - Quick Reference: attachments/quick-reference.md
 
   - 1. Strategic Framework:
-    - Overview: ch2-strategic-framework/index.md
-    - Master Strategy: ch2-strategic-framework/master-strategy.md
-    - Market Sizing: ch2-strategic-framework/market-sizing.md
-    - Diversification: ch2-strategic-framework/diversification.md
+    - Overview: ch1-strategic-framework/index.md
+    - Master Strategy: ch1-strategic-framework/master-strategy.md
+    - Market Sizing: ch1-strategic-framework/market-sizing.md
+    - Diversification: ch1-strategic-framework/diversification.md
     - "📎 SE Wisconsin Master Intel": attachments/se-wisconsin-market-intel.md
 
   - 2. GC Intelligence:
-    - Overview: ch3-gc-intelligence/index.md
-    - Pipeline & Market Facts: ch3-gc-intelligence/overview.md
-    - Strategic Partners: ch3-gc-intelligence/strategic-partners.md
-    - Growth Targets: ch3-gc-intelligence/growth-targets.md
-    - Key Contacts: ch3-gc-intelligence/contacts.md
-    - Avoid List: ch3-gc-intelligence/avoid-list.md
+    - Overview: ch2-gc-intelligence/index.md
+    - Pipeline & Market Facts: ch2-gc-intelligence/overview.md
+    - Strategic Partners: ch2-gc-intelligence/strategic-partners.md
+    - Growth Targets: ch2-gc-intelligence/growth-targets.md
+    - Key Contacts: ch2-gc-intelligence/contacts.md
+    - Avoid List: ch2-gc-intelligence/avoid-list.md
     - "📎 GC Landscape Research": attachments/gc-landscape-research.md
     - "📎 GC Pipeline Intelligence": attachments/gc-pipeline-intelligence.md
     - "📎 Competitor Intelligence": attachments/att-f-competitors.md
     - "📎 Data Centers (Avoid)": attachments/att-g-data-centers.md
 
   - 3. Municipal Markets:
-    - Overview: ch4-municipal/index.md
-    - Certification Summary: ch4-municipal/overview.md
-    - Bid Platforms: ch4-municipal/bid-platforms.md
-    - City of Milwaukee: ch4-municipal/city-of-milwaukee.md
-    - Milwaukee County: ch4-municipal/milwaukee-county.md
-    - Other Municipalities: ch4-municipal/other-municipalities.md
-    - Action Items: ch4-municipal/action-items.md
+    - Overview: ch3-municipal/index.md
+    - Certification Summary: ch3-municipal/overview.md
+    - Bid Platforms: ch3-municipal/bid-platforms.md
+    - City of Milwaukee: ch3-municipal/city-of-milwaukee.md
+    - Milwaukee County: ch3-municipal/milwaukee-county.md
+    - Other Municipalities: ch3-municipal/other-municipalities.md
+    - Action Items: ch3-municipal/action-items.md
     - "📎 Municipal Opportunities": attachments/municipal-opportunities.md
     - "📎 Municipal Deep Dive": attachments/municipal-deep-dive.md
     - "📎 WisDOT Recurring": attachments/wisdot-recurring.md
@@ -68,35 +68,35 @@ nav:
     - "📎 Public Facilities": attachments/public-facilities.md
 
   - 4. Private Development:
-    - Overview: ch5-private-development.md
+    - Overview: ch4-private-development.md
     - "📎 Developers Multifamily": attachments/developers-multifamily.md
     - "📎 Multifamily Operators": attachments/multifamily-operators.md
     - "📎 Senior Living Part 1": attachments/att-b-senior-living-1.md
     - "📎 Senior Living Part 2": attachments/att-c-senior-living-2.md
 
   - 5. Market Segments:
-    - Overview: ch6-market-segments/index.md
-    - Transit & Fleet: ch6-market-segments/transit-fleet.md
-    - Food & Cold Storage: ch6-market-segments/food-cold-storage.md
-    - I-94 Corridor: ch6-market-segments/i94-corridor.md
-    - Automotive Dealers: ch6-market-segments/automotive-dealers.md
-    - Religious Institutions: ch6-market-segments/religious-institutions.md
-    - Private Schools: ch6-market-segments/private-schools.md
-    - Country Clubs: ch6-market-segments/country-clubs.md
+    - Overview: ch5-market-segments/index.md
+    - Transit & Fleet: ch5-market-segments/transit-fleet.md
+    - Food & Cold Storage: ch5-market-segments/food-cold-storage.md
+    - I-94 Corridor: ch5-market-segments/i94-corridor.md
+    - Automotive Dealers: ch5-market-segments/automotive-dealers.md
+    - Religious Institutions: ch5-market-segments/religious-institutions.md
+    - Private Schools: ch5-market-segments/private-schools.md
+    - Country Clubs: ch5-market-segments/country-clubs.md
     - "📎 Retail & Student Housing": attachments/retail-student-housing.md
     - "📎 New Market Development": attachments/new-market-development.md
     - "📎 Part 8 New Markets": attachments/part8-new-markets.md
     - "📎 Industrial Private": attachments/industrial-private.md
 
   - 6. Large Facility Owners:
-    - Overview: ch7-large-owners.md
+    - Overview: ch6-large-owners.md
     - "📎 Large Property Owners": attachments/large-property-owners.md
     - "📎 Facility Maintenance": attachments/facility-maintenance.md
 
   - Topic Index: topic-index.md
 
   - 7. Sales System & CRM:
-    - Overview: ch8-sales-system.md
+    - Overview: ch7-sales-system.md
     - "📎 Financial Analysis": attachments/att-a-financial.md
 
   - Reference:

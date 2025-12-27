@@ -415,7 +415,7 @@ Contact Ozaukee Country Club immediately about their 2026 clubhouse renovation. 
 
 ## Useful Links & Contacts
 
-- [Large Facility Owners](../ch7-large-owners.md)
+- [Large Facility Owners](../ch6-large-owners.md)
 - [New Market Development](../attachments/new-market-development.md)
 - Club Managers Association: cmaa.org
 

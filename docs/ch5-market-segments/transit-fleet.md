@@ -460,7 +460,7 @@ Register for Milwaukee County T&M Contract 5 (Painting) immediately. This create
 
 ## Useful Links & Contacts
 
-- [Milwaukee County Municipal](../ch4-municipal/milwaukee-county.md)
+- [Milwaukee County Municipal](../ch3-municipal/milwaukee-county.md)
 - [Public Facilities Research](../attachments/public-facilities.md)
 - MCTS Procurement: (414) 935-3232
 

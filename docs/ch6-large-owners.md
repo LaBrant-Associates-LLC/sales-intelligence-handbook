@@ -8,9 +8,9 @@
 
 | Owner Type | Procurement Path | Notes | Link |
 |------------|------------------|-------|------|
-| Casino/Tribal | Direct relationship | Potawatomi = Greenfire parent | [Greenfire Profile](ch3-gc-intelligence/strategic-partners.md) |
+| Casino/Tribal | Direct relationship | Potawatomi = Greenfire parent | [Greenfire Profile](ch2-gc-intelligence/strategic-partners.md) |
 | Corporate HQ | Facility management RFP | Northwestern Mutual, US Bank | Direct outreach |
-| Public Venue | County procurement | Zoo (65% TBE), State Fair | [Milwaukee County](ch4-municipal/milwaukee-county.md) |
+| Public Venue | County procurement | Zoo (65% TBE), State Fair | [Milwaukee County](ch3-municipal/milwaukee-county.md) |
 | Airport | MMSD goals | Mitchell Airport 20% goal | [Public Facilities](attachments/public-facilities.md) |
 | Industrial | Direct or broker | Rockwell, Harley-Davidson | [Industrial Private](attachments/industrial-private.md) |
 

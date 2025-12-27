@@ -12,6 +12,21 @@ Fragmented, relationship-driven markets with low union penetration. These are no
 
 ---
 
+## Quick Navigation
+
+| Section | Description |
+|---------|-------------|
+| [Transit & Fleet](transit-fleet.md) | Bus garages, fleet facilities, MCTS |
+| [Food & Cold Storage](food-cold-storage.md) | Food processing, cold storage, distribution |
+| [I-94 Corridor](i94-corridor.md) | Industrial boom, Uline, warehouse development |
+| [Automotive Dealers](automotive-dealers.md) | Brand compliance, EV infrastructure, dealer groups |
+| [Religious Institutions](religious-institutions.md) | Archdiocese, WELS, church construction |
+| [Private Schools](private-schools.md) | Augustine Prep, HOPE Christian, Lutheran schools |
+| [Country Clubs](country-clubs.md) | Private clubs, seasonal maintenance |
+| [New Markets](new-markets.md) | Scheels, Mayfair, new GCs, developer targets |
+
+---
+
 ## Religious Institutions
 
 ### Market Size

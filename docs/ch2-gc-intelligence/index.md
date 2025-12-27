@@ -18,7 +18,7 @@ This chapter identifies merit-shop general contractors in SE Wisconsin worth pur
 
 | Section | Description |
 |---------|-------------|
-| [Overview](overview.md) | Pipeline snapshot, market facts, access strategy |
+| [Pipeline & Market Facts](overview.md) | Pipeline snapshot, market facts, access strategy |
 | [Strategic Partners](strategic-partners.md) | Tier 1-4 GCs with active relationships and projects |
 | [Growth Targets](growth-targets.md) | Tier 5-8 opportunities for expansion |
 | [Contacts](contacts.md) | Key contacts directory and 90-day action items |

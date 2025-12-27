@@ -21,7 +21,7 @@
 
 | Section | Description |
 |---------|-------------|
-| [Overview](overview.md) | Executive summary and certification advantages |
+| [Certification Summary](overview.md) | Executive summary and certification advantages |
 | [Bid Platforms](bid-platforms.md) | VendorNet, DemandStar, QuestCDN, Bonfire |
 | [City of Milwaukee](city-of-milwaukee.md) | SBE/LBE program, 25% goals, departments |
 | [Milwaukee County](milwaukee-county.md) | TBE program, Airport, Zoo (65% TBE goal) |

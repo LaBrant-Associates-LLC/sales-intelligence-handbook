@@ -1,0 +1,81 @@
+site_name: LaBrant Sales Intelligence Handbook
+site_description: Southeastern Wisconsin Commercial Painting Market Intelligence
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Chapter 1 - Operating System: ch1-operating-system.md
+  - Chapter 2 - Strategic Framework:
+    - Overview: ch2-strategic-framework/index.md
+    - Master Strategy: ch2-strategic-framework/master-strategy.md
+    - Market Sizing: ch2-strategic-framework/market-sizing.md
+    - Diversification: ch2-strategic-framework/diversification.md
+  - Chapter 3 - GC Intelligence:
+    - Overview: ch3-gc-intelligence/index.md
+    - Pipeline & Market Facts: ch3-gc-intelligence/overview.md
+    - Strategic Partners: ch3-gc-intelligence/strategic-partners.md
+    - Growth Targets: ch3-gc-intelligence/growth-targets.md
+    - Key Contacts: ch3-gc-intelligence/contacts.md
+    - Avoid List: ch3-gc-intelligence/avoid-list.md
+  - Chapter 4 - Municipal Markets:
+    - Overview: ch4-municipal/index.md
+    - Certification Summary: ch4-municipal/overview.md
+    - Bid Platforms: ch4-municipal/bid-platforms.md
+    - City of Milwaukee: ch4-municipal/city-of-milwaukee.md
+    - Milwaukee County: ch4-municipal/milwaukee-county.md
+    - Other Municipalities: ch4-municipal/other-municipalities.md
+    - Action Items: ch4-municipal/action-items.md
+  - Chapter 5 - Private Development: ch5-private-development.md
+  - Chapter 6 - Market Segments:
+    - Overview: ch6-market-segments/index.md
+    - Transit & Fleet: ch6-market-segments/transit-fleet.md
+    - Food & Cold Storage: ch6-market-segments/food-cold-storage.md
+    - I-94 Corridor: ch6-market-segments/i94-corridor.md
+    - Automotive Dealers: ch6-market-segments/automotive-dealers.md
+    - Religious Institutions: ch6-market-segments/religious-institutions.md
+    - Private Schools: ch6-market-segments/private-schools.md
+    - Country Clubs: ch6-market-segments/country-clubs.md
+  - Chapter 7 - Large Facility Owners: ch7-large-owners.md
+  - Chapter 8 - Sales System & CRM: ch8-sales-system.md
+  - Attachments:
+    - Financial Analysis: attachments/att-a-financial.md
+    - Senior Living Part 1: attachments/att-b-senior-living-1.md
+    - Senior Living Part 2: attachments/att-c-senior-living-2.md
+    - Water Towers: attachments/att-d-water-towers.md
+    - Competitor Intelligence: attachments/att-f-competitors.md
+    - Data Centers (Avoid): attachments/att-g-data-centers.md
+    - Quick Reference: attachments/quick-reference.md
+    - GC Landscape Research: attachments/gc-landscape-research.md
+    - GC Pipeline Intelligence: attachments/gc-pipeline-intelligence.md
+    - Developers Multifamily: attachments/developers-multifamily.md
+    - Multifamily Operators: attachments/multifamily-operators.md
+    - Municipal Opportunities: attachments/municipal-opportunities.md
+    - Municipal Deep Dive: attachments/municipal-deep-dive.md
+    - WisDOT Recurring: attachments/wisdot-recurring.md
+    - Public Facilities: attachments/public-facilities.md
+    - Retail Student Housing: attachments/retail-student-housing.md
+    - New Market Development: attachments/new-market-development.md
+    - Part 8 New Markets: attachments/part8-new-markets.md
+    - Facility Maintenance: attachments/facility-maintenance.md
+    - Large Property Owners: attachments/large-property-owners.md
+    - Industrial Private: attachments/industrial-private.md
+    - SE Wisconsin Market Intel: attachments/se-wisconsin-market-intel.md
+    - Naming Convention: attachments/naming-convention.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

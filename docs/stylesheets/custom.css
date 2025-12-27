@@ -1,11 +1,9 @@
-/* Force sidebar to top, no smooth scroll */
+/* Nuclear: disable sidebar scrolling completely */
 .md-sidebar--primary .md-sidebar__scrollwrap {
-  scroll-behavior: auto !important;
+  overflow: hidden !important;
 }
 
-/* Remove any scroll animations */
-.md-sidebar--primary,
-.md-sidebar--primary * {
-  scroll-behavior: auto !important;
-  transition: none !important;
+/* Re-enable on hover so users can still scroll when needed */
+.md-sidebar--primary:hover .md-sidebar__scrollwrap {
+  overflow-y: auto !important;
 }

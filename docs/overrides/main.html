@@ -3,54 +3,43 @@
 {% block extrahead %}
 <script>
 (function() {
-  // Block scrollIntoView for sidebar
-  var origScroll = Element.prototype.scrollIntoView;
+  // Save scroll position to sessionStorage before ANY click
+  document.addEventListener('click', function() {
+    var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+    if (wrap) {
+      sessionStorage.setItem('sidebarScroll', wrap.scrollTop);
+    }
+  }, true);
+
+  // Restore scroll position after page load
+  function restoreScroll() {
+    var saved = sessionStorage.getItem('sidebarScroll');
+    if (saved !== null) {
+      var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+      if (wrap) {
+        wrap.scrollTop = parseInt(saved, 10);
+        // Keep restoring to fight MkDocs
+        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 0);
+        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 50);
+        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 100);
+        setTimeout(function() { if(wrap) wrap.scrollTop = parseInt(saved, 10); }, 200);
+      }
+    }
+  }
+
+  // Block scrollIntoView
+  var orig = Element.prototype.scrollIntoView;
   Element.prototype.scrollIntoView = function(opts) {
     if (this.closest && this.closest('.md-sidebar--primary')) return;
-    return origScroll.call(this, opts);
+    return orig.call(this, opts);
   };
 
-  // Intercept scrollTop on sidebar after DOM ready
-  function lockSidebarScroll() {
-    var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
-    if (!wrap || wrap._locked) return;
-    wrap._locked = true;
+  // Restore on all load events
+  document.addEventListener('DOMContentLoaded', restoreScroll);
+  window.addEventListener('load', restoreScroll);
 
-    var userScroll = 0;
-    var allowSet = false;
-
-    // User interactions allow scroll
-    wrap.addEventListener('wheel', function() { allowSet = true; }, {passive: true});
-    wrap.addEventListener('mousedown', function() { allowSet = true; });
-    wrap.addEventListener('touchstart', function() { allowSet = true; }, {passive: true});
-    wrap.addEventListener('scroll', function() {
-      if (allowSet) userScroll = wrap.scrollTop;
-      allowSet = false;
-    });
-
-    // Override scrollTop
-    var desc = Object.getOwnPropertyDescriptor(Element.prototype, 'scrollTop');
-    Object.defineProperty(wrap, 'scrollTop', {
-      get: function() { return desc.get.call(this); },
-      set: function(v) {
-        if (allowSet) {
-          userScroll = v;
-          desc.set.call(this, v);
-        }
-        // Block programmatic sets, restore user position
-        else {
-          desc.set.call(this, userScroll);
-        }
-      },
-      configurable: true
-    });
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', lockSidebarScroll);
-  } else {
-    lockSidebarScroll();
-  }
+  // Also watch for DOM changes (instant navigation)
+  new MutationObserver(restoreScroll).observe(document.documentElement, {childList: true, subtree: true});
 })();
 </script>
 {% endblock %}

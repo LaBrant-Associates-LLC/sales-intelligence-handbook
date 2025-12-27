@@ -33,7 +33,6 @@ extra_javascript:
 nav:
   - Home: index.md
   - Quick Reference: attachments/quick-reference.md
-  - Topic Index: topic-index.md
 
   - 1. Strategic Framework:
     - Overview: ch2-strategic-framework/index.md
@@ -93,6 +92,8 @@ nav:
     - Overview: ch7-large-owners.md
     - "📎 Large Property Owners": attachments/large-property-owners.md
     - "📎 Facility Maintenance": attachments/facility-maintenance.md
+
+  - Topic Index: topic-index.md
 
   - 7. Sales System & CRM:
     - Overview: ch8-sales-system.md

@@ -6,10 +6,11 @@ theme:
     primary: indigo
     accent: amber
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.top
     - search.highlight
+    - toc.integrate
 
 nav:
   - Home: index.md

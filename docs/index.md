@@ -12,13 +12,11 @@
 
 ---
 
-## Why This Exists
+## Purpose
 
-LaBrant's growth is constrained less by capacity and more by where time is spent.
+We currently derive most revenue from less than 10 GC relationships. This research identified 35+ merit-shop GCs, multiple private and institutional markets, and $4M-$8M of incremental opportunity aligned with our certifications and operating model.
 
-We currently derive most revenue from a small set of GC relationships. This research identified 35+ merit-shop GCs, multiple private and institutional markets, and $4M-$8M of incremental opportunity aligned with our certifications and operating model.
-
-**Proof:** In the last 12 months, we've submitted $9.5M in proposals to GCs we were not working with previously.
+**Goal:** Diversify work portfolio across other markets while expanding multifamily bidding.
 
 ---
 

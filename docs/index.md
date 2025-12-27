@@ -64,13 +64,6 @@ We currently derive most revenue from less than 10 GC relationships. This resear
 
 ---
 
-## How This Is Used
-
-- **Daily:** Active pipeline reference
-- **Weekly:** Decide where to spend sales time
-- **Quarterly:** Recalibrate opportunity ranges
-- **Always:** Link to canonical data -- do not duplicate
-
 ## Helpful Links
 
 - [Internal Sales Data](ch8-sales-system.md) -- Pricing, financials, templates

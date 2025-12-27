@@ -23,6 +23,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
+    - navigation.path
     - search.highlight
 
 extra_css:

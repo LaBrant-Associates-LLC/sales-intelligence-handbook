@@ -21,6 +21,9 @@ theme:
     - navigation.top
     - search.highlight
 
+extra_css:
+  - stylesheets/custom.css
+
 nav:
   - Home: index.md
   - Quick Reference: attachments/quick-reference.md

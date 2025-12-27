@@ -1,0 +1,18 @@
+/* Stop left nav from auto-centering/jumping */
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  scroll-behavior: auto !important;
+}
+
+.md-nav__link--active {
+  scroll-margin-top: 0 !important;
+}
+
+.md-sidebar__inner {
+  overflow-y: auto;
+  scroll-behavior: auto !important;
+}
+
+/* Disable smooth scroll that causes jump */
+.md-sidebar--primary {
+  scroll-behavior: auto !important;
+}

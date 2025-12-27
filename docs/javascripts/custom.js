@@ -1,25 +1,33 @@
-// Disable nav scroll on all page loads and transitions
+// Brute force: keep resetting sidebar to top
 (function() {
-  // Block scrollIntoView for sidebar
-  const originalScrollIntoView = Element.prototype.scrollIntoView;
-  Element.prototype.scrollIntoView = function(options) {
-    if (this.closest('.md-sidebar--primary')) return;
-    return originalScrollIntoView.call(this, options);
-  };
+  function resetSidebar() {
+    const s = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+    if (s) s.scrollTop = 0;
+  }
 
-  // Preserve scroll position on ANY document change
-  let savedScroll = 0;
-  const sidebar = () => document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+  // Reset repeatedly on page load
+  function hammerReset() {
+    for (let i = 0; i < 20; i++) {
+      setTimeout(resetSidebar, i * 50);
+    }
+  }
 
-  // Save position before navigation
-  document.addEventListener('click', () => {
-    const s = sidebar();
-    if (s) savedScroll = s.scrollTop;
+  // On initial load
+  hammerReset();
+  document.addEventListener('DOMContentLoaded', hammerReset);
+  window.addEventListener('load', hammerReset);
+
+  // On any click (navigation)
+  document.addEventListener('click', function(e) {
+    if (e.target.closest('a')) {
+      hammerReset();
+    }
   }, true);
 
-  // Restore after DOM updates
-  new MutationObserver(() => {
-    const s = sidebar();
-    if (s && savedScroll) s.scrollTop = savedScroll;
-  }).observe(document.body, { childList: true, subtree: true });
+  // Block scrollIntoView
+  const orig = Element.prototype.scrollIntoView;
+  Element.prototype.scrollIntoView = function(o) {
+    if (this.closest('.md-sidebar--primary')) return;
+    return orig.call(this, o);
+  };
 })();

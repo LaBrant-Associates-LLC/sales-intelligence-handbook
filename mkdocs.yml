@@ -35,16 +35,14 @@ nav:
   - Quick Reference: attachments/quick-reference.md
   - Topic Index: topic-index.md
 
-  - 1. Operating System: ch1-operating-system.md
-
-  - 2. Strategic Framework:
+  - 1. Strategic Framework:
     - Overview: ch2-strategic-framework/index.md
     - Master Strategy: ch2-strategic-framework/master-strategy.md
     - Market Sizing: ch2-strategic-framework/market-sizing.md
     - Diversification: ch2-strategic-framework/diversification.md
     - "📎 SE Wisconsin Master Intel": attachments/se-wisconsin-market-intel.md
 
-  - 3. GC Intelligence:
+  - 2. GC Intelligence:
     - Overview: ch3-gc-intelligence/index.md
     - Pipeline & Market Facts: ch3-gc-intelligence/overview.md
     - Strategic Partners: ch3-gc-intelligence/strategic-partners.md
@@ -56,7 +54,7 @@ nav:
     - "📎 Competitor Intelligence": attachments/att-f-competitors.md
     - "📎 Data Centers (Avoid)": attachments/att-g-data-centers.md
 
-  - 4. Municipal Markets:
+  - 3. Municipal Markets:
     - Overview: ch4-municipal/index.md
     - Certification Summary: ch4-municipal/overview.md
     - Bid Platforms: ch4-municipal/bid-platforms.md
@@ -70,14 +68,14 @@ nav:
     - "📎 Water Towers": attachments/att-d-water-towers.md
     - "📎 Public Facilities": attachments/public-facilities.md
 
-  - 5. Private Development:
+  - 4. Private Development:
     - Overview: ch5-private-development.md
     - "📎 Developers Multifamily": attachments/developers-multifamily.md
     - "📎 Multifamily Operators": attachments/multifamily-operators.md
     - "📎 Senior Living Part 1": attachments/att-b-senior-living-1.md
     - "📎 Senior Living Part 2": attachments/att-c-senior-living-2.md
 
-  - 6. Market Segments:
+  - 5. Market Segments:
     - Overview: ch6-market-segments/index.md
     - Transit & Fleet: ch6-market-segments/transit-fleet.md
     - Food & Cold Storage: ch6-market-segments/food-cold-storage.md
@@ -91,12 +89,12 @@ nav:
     - "📎 Part 8 New Markets": attachments/part8-new-markets.md
     - "📎 Industrial Private": attachments/industrial-private.md
 
-  - 7. Large Facility Owners:
+  - 6. Large Facility Owners:
     - Overview: ch7-large-owners.md
     - "📎 Large Property Owners": attachments/large-property-owners.md
     - "📎 Facility Maintenance": attachments/facility-maintenance.md
 
-  - 8. Sales System & CRM:
+  - 7. Sales System & CRM:
     - Overview: ch8-sales-system.md
     - "📎 Financial Analysis": attachments/att-a-financial.md
 

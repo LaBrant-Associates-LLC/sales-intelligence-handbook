@@ -16,14 +16,13 @@ We currently derive most revenue from less than 10 GC relationships. This resear
 
 | Chapter | Chapter Detail | Market Size | 12-Month Opportunity |
 |---------|----------------|-------------|----------------------|
-| [1. Operating System](ch1-operating-system.md) | Core business framework and processes | -- | -- |
-| [2. Strategic Framework](ch2-strategic-framework/index.md) | Master strategy, market sizing, diversification | -- | -- |
-| [3. GC Intelligence](ch3-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | $15M-$25M | $2.8M-$5.2M |
-| [4. Municipal Markets](ch4-municipal/index.md) | City, County, WisDOT -- certification leverage | $7M-$12M | $1.0M-$2.2M |
-| [5. Private Development](ch5-private-development.md) | Direct developer relationships | $10M-$18M | $1.6M-$3.0M |
-| [6. Market Segments](ch6-market-segments/index.md) | Transit, food storage, automotive, etc. | $4M-$8M | $800K-$1.6M |
-| [7. Large Facility Owners](ch7-large-owners.md) | Direct owner & recurring maintenance | $3M-$7M | $400K-$1.1M |
-| [8. Sales System & CRM](ch8-sales-system.md) | Internal sales data, pricing, templates | -- | -- |
+| [1. Strategic Framework](ch2-strategic-framework/index.md) | Master strategy, market sizing, diversification | -- | -- |
+| [2. GC Intelligence](ch3-gc-intelligence/index.md) | Merit-shop GCs worth pursuing | $15M-$25M | $2.8M-$5.2M |
+| [3. Municipal Markets](ch4-municipal/index.md) | City, County, WisDOT -- certification leverage | $7M-$12M | $1.0M-$2.2M |
+| [4. Private Development](ch5-private-development.md) | Direct developer relationships | $10M-$18M | $1.6M-$3.0M |
+| [5. Market Segments](ch6-market-segments/index.md) | Transit, food storage, automotive, etc. | $4M-$8M | $800K-$1.6M |
+| [6. Large Facility Owners](ch7-large-owners.md) | Direct owner & recurring maintenance | $3M-$7M | $400K-$1.1M |
+| [7. Sales System & CRM](ch8-sales-system.md) | Internal sales data, pricing, templates | -- | -- |
 
 *Summary ranges reflect incremental opportunity. Pipeline tables below reflect total current activity. Pipeline != revenue.*
 

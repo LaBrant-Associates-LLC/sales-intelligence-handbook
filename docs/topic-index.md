@@ -124,7 +124,7 @@
 |-------|----------|---------|
 | Peridot CM (Low Margin) | [SE Wisconsin Market Intel](attachments/se-wisconsin-market-intel.md) | 1 |
 | Pipeline (Active) | [Home](index.md) | Home |
-| Pricing Benchmarks | [Sales System](ch7-sales-system.md) | 1 |
+| Pricing Benchmarks | [Historical Sales Data & CRM](ch7-sales-system.md) | 7 |
 | Private Schools | [Private Schools](ch5-market-segments/private-schools.md) | 1 |
 | Problem GCs | [SE Wisconsin Market Intel](attachments/se-wisconsin-market-intel.md) | 1 |
 | Public Facilities | [Public Facilities](attachments/public-facilities.md) | 1 |

@@ -1,4 +1,4 @@
-# Part 6.2: Large Facility Owners & Commercial Property Maintenance | SE Wisconsin
+# Part 6.2: Large Facilities Owners & Commercial Property Maintenance | SE Wisconsin
 **Date:** 12/25/25 | **Revision:** #0
 **Changelog:** Initial research - Office towers, malls, airport, MMSD, property managers
 

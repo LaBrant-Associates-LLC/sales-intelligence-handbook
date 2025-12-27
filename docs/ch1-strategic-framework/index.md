@@ -4,12 +4,12 @@ Five-year growth strategy and market positioning for LaBrant & Associates.
 
 ---
 
-## Consumes -> Produces
+## How This Chapter Connects
 
-| This Chapter Consumes | To Produce |
-|-----------------------|------------|
-| [ATT-A: Financial Analysis](../attachments/att-a-financial.md) | GC tier classifications in [Chapter 2](../ch2-gc-intelligence/) |
-| [Multifamily Operators](../attachments/multifamily-operators.md) | Target developer list in [Chapter 4](../ch4-private-development.md) |
+| Source Data | Informs |
+|-------------|---------|
+| [Financial Analysis](../attachments/att-a-financial.md) | GC tier rankings in [Chapter 2](../ch2-gc-intelligence/) |
+| [Multifamily Operators](../attachments/multifamily-operators.md) | Developer targets in [Chapter 4](../ch4-private-development.md) |
 | [SE Wisconsin Market Intel](../attachments/se-wisconsin-market-intel.md) | Segment priorities in [Chapter 5](../ch5-market-segments/) |
 
 ---

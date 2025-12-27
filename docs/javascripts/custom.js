@@ -1,33 +1,27 @@
-// Force sidebar to stay at top
+// Nuclear option: completely disable scrollIntoView for sidebar
 (function() {
-  function resetSidebar() {
-    var scrollwrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
-    if (scrollwrap) {
-      scrollwrap.scrollTop = 0;
+  const originalScrollIntoView = Element.prototype.scrollIntoView;
+
+  Element.prototype.scrollIntoView = function(options) {
+    // Check if this element is inside the left sidebar
+    if (this.closest('.md-sidebar--primary')) {
+      return; // Do nothing for sidebar elements
+    }
+    // Allow normal behavior elsewhere
+    return originalScrollIntoView.call(this, options);
+  };
+})();
+
+// Also block scroll on navigation clicks
+document.addEventListener('click', function(e) {
+  const link = e.target.closest('.md-nav__link');
+  if (link) {
+    const sidebar = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+    if (sidebar) {
+      const scrollPos = sidebar.scrollTop;
+      requestAnimationFrame(() => {
+        sidebar.scrollTop = scrollPos;
+      });
     }
   }
-
-  // Reset on load
-  window.addEventListener('load', function() {
-    setTimeout(resetSidebar, 0);
-    setTimeout(resetSidebar, 50);
-    setTimeout(resetSidebar, 100);
-    setTimeout(resetSidebar, 200);
-  });
-
-  // Reset on instant navigation (MkDocs Material feature)
-  document.addEventListener('DOMContentLoaded', function() {
-    setTimeout(resetSidebar, 0);
-    setTimeout(resetSidebar, 50);
-    setTimeout(resetSidebar, 100);
-  });
-
-  // Observe for location changes
-  if (typeof document$ !== 'undefined') {
-    document$.subscribe(function() {
-      setTimeout(resetSidebar, 0);
-      setTimeout(resetSidebar, 50);
-      setTimeout(resetSidebar, 100);
-    });
-  }
-})();
+}, true);

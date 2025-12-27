@@ -1,5 +1,9 @@
-# SE Wisconsin Painting Market Quick Reference Card
-**LaBrant & Associates LLC | Sales Team Reference | December 2025 (Updated)**
+[Home](../index.md)
+**Quick Reference**
+
+# Quick Reference Card
+
+**LaBrant & Associates LLC | Sales Team Reference | December 2025**
 
 ---
 

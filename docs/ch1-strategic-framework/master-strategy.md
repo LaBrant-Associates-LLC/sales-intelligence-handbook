@@ -1,6 +1,6 @@
-[← Back to Strategy](index.md)
+[Home](../index.md) · [1. Strategy](index.md)
 
-# LaBrant & Associates -- Master Strategy Plan (Wisconsin)
+# Master Strategy Plan
 
 ## B - Base goal
 Create a master strategy plan suitable for a ~2‑hour boardroom presentation (near-term quick hits + 5‑year growth), focused on diversifying beyond multifamily in Wisconsin while staying open‑shop.

@@ -1,6 +1,6 @@
-[← Back to Municipal Markets](index.md)
+[Home](../index.md) · [3. Municipal Markets](index.md)
 
-## Suburban Cities
+# Other Municipalities
 
 | City | Platform | Key Contact |
 |------|----------|-------------|

@@ -1,6 +1,6 @@
-[← Back to Municipal Markets](index.md)
+[Home](../index.md) · [3. Municipal Markets](index.md)
 
----
+# Action Items
 
 *Last reviewed: 2025-12-27*
 

@@ -1,6 +1,6 @@
-[← Back to Untapped Markets](index.md)
+[Home](../index.md) · [5. Untapped Markets](index.md)
 
-# Food, Beverage & Cold Storage Facilities: SE Wisconsin Market Intelligence
+# Food & Cold Storage
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** MODERATE-HIGH - Specialized coatings, food-safe requirements, niche expertise
 

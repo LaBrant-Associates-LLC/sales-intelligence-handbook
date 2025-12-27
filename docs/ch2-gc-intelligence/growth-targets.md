@@ -1,4 +1,4 @@
-[← Back to GC Intelligence](index.md)
+[Home](../index.md) · [2. GC Intelligence](index.md)
 
 # Growth Targets
 

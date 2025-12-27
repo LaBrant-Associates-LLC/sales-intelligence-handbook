@@ -1,6 +1,6 @@
-[← Back to Untapped Markets](index.md)
+[Home](../index.md) · [5. Untapped Markets](index.md)
 
-# Private & Parochial Schools: SE Wisconsin Market Intelligence
+# Private Schools
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 100+ schools, summer scheduling window, lead cert critical, repeat business
 

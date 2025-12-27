@@ -1,7 +1,6 @@
-[← Back to GC Intelligence](index.md)
+[Home](../index.md) · [2. GC Intelligence](index.md)
 
-
-## Do Not Pursue
+# Avoid List
 
 These exclusions apply even if short-term revenue appears attractive.
 

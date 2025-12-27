@@ -1,4 +1,7 @@
-# Topic Index | Where to Find Everything
+[Home](index.md)
+**Topic Index**
+
+# Topic Index
 
 **Use this page to find any topic quickly.** Topics link to their primary (canonical) location.
 

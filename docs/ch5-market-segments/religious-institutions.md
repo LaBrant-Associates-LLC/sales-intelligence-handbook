@@ -1,6 +1,6 @@
-[← Back to Untapped Markets](index.md)
+[Home](../index.md) · [5. Untapped Markets](index.md)
 
-# Religious Institutions: Archdiocese of Milwaukee Market Intelligence
+# Religious Institutions
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 200 parishes, $900M property value, decentralized procurement, lead cert advantage
 

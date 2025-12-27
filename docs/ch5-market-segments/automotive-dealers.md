@@ -1,6 +1,6 @@
-[← Back to Untapped Markets](index.md)
+[Home](../index.md) · [5. Untapped Markets](index.md)
 
-# Automotive Dealerships: SE Wisconsin Market Intelligence
+# Automotive Dealers
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 100+ dealerships, brand-mandated renovations, consolidated ownership groups
 

@@ -1,6 +1,6 @@
-[← Back to Strategy](index.md)
+[Home](../index.md) · [1. Strategy](index.md)
 
-# LaBrant & Associates -- Wisconsin Diversification & Growth Strategy (Non‑Union)
+# Diversification Strategy
 
 **Scope (exact ask):** Identify Wisconsin market segments and geographies to pursue (next 12 months + 5 years) to diversify beyond multifamily, factoring non‑union constraints and local competitor behavior.
 

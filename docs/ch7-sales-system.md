@@ -1,4 +1,7 @@
-# Chapter 7: Sales System & CRM
+[Home](index.md)
+**7. Historical Sales Data & CRM**
+
+# Chapter 7: Historical Sales Data & CRM
 
 **Financial Performance, Job Profitability, and Pricing**
 

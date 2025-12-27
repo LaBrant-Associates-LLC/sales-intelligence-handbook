@@ -1,7 +1,6 @@
-[← Back to GC Intelligence](index.md)
+[Home](../index.md) · [2. GC Intelligence](index.md)
 
-
-## Key Contacts
+# Key Contacts
 
 ### Priority 1 -- This Week
 

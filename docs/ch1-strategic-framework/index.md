@@ -1,4 +1,7 @@
-# Chapter 1: Strategic Framework
+[Home](../index.md)
+**1. Strategy**
+
+# Chapter 1: Strategy
 
 Five-year growth strategy and market positioning for LaBrant & Associates.
 

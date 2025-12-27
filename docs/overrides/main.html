@@ -1,4 +1,8 @@
-// Backup: block scrollIntoView (main override is in head)
+{% extends "base.html" %}
+
+{% block extrahead %}
+<script>
+// Override scrollIntoView BEFORE MkDocs Material loads
 (function() {
   var orig = Element.prototype.scrollIntoView;
   Element.prototype.scrollIntoView = function(opts) {
@@ -6,3 +10,5 @@
     return orig.call(this, opts);
   };
 })();
+</script>
+{% endblock %}

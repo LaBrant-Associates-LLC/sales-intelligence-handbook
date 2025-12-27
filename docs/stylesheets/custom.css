@@ -1,9 +1,5 @@
-/* Nuclear: disable sidebar scrolling completely */
-.md-sidebar--primary .md-sidebar__scrollwrap {
-  overflow: hidden !important;
-}
-
-/* Re-enable on hover so users can still scroll when needed */
-.md-sidebar--primary:hover .md-sidebar__scrollwrap {
-  overflow-y: auto !important;
+/* Disable smooth scroll animations */
+.md-sidebar--primary,
+.md-sidebar--primary * {
+  scroll-behavior: auto !important;
 }

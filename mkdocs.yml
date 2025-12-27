@@ -2,6 +2,7 @@ site_name: LaBrant Sales Intelligence Handbook
 site_description: Southeastern Wisconsin Commercial Painting Market Intelligence
 theme:
   name: material
+  custom_dir: docs/overrides
   palette:
     - scheme: default
       primary: indigo

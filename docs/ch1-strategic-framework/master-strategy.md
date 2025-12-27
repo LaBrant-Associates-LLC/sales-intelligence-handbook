@@ -1,3 +1,5 @@
+[← Back to Strategic Framework](index.md)
+
 # LaBrant & Associates -- Master Strategy Plan (Wisconsin)
 
 ## B - Base goal

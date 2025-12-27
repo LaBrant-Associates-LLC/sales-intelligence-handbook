@@ -1,3 +1,5 @@
+[← Back to Market Segments](index.md)
+
 # I-94 Corridor Industrial Development: SE Wisconsin Market Intelligence
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** MASSIVE - $25B+ development corridor, speculative construction, tenant improvement opportunities

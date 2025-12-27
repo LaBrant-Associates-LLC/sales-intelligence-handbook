@@ -1,3 +1,5 @@
+[← Back to Market Segments](index.md)
+
 # Private Country Clubs: SE Wisconsin Market Intelligence
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - Active renovation cycle, merit-shop friendly, relationship-driven

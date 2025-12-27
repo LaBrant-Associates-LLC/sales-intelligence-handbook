@@ -1,3 +1,5 @@
+[← Back to Strategic Framework](index.md)
+
 from pathlib import Path
 
 md_path = Path("/mnt/data/LaBrant_WI_Market_Sizing_Segment_Research.md")

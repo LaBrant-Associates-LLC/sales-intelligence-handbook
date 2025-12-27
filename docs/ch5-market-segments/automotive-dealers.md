@@ -1,3 +1,5 @@
+[← Back to Market Segments](index.md)
+
 # Automotive Dealerships: SE Wisconsin Market Intelligence
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 100+ dealerships, brand-mandated renovations, consolidated ownership groups

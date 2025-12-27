@@ -1,3 +1,5 @@
+[← Back to Market Segments](index.md)
+
 # Private & Parochial Schools: SE Wisconsin Market Intelligence
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 100+ schools, summer scheduling window, lead cert critical, repeat business

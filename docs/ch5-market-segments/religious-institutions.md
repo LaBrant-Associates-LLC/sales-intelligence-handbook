@@ -1,3 +1,5 @@
+[← Back to Market Segments](index.md)
+
 # Religious Institutions: Archdiocese of Milwaukee Market Intelligence
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 200 parishes, $900M property value, decentralized procurement, lead cert advantage

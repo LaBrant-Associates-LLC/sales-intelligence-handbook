@@ -1,5 +1,7 @@
 site_name: LaBrant Sales Intelligence Handbook
 site_description: Southeastern Wisconsin Commercial Painting Market Intelligence
+site_url: https://labrant-associates-llc.github.io/sales-intelligence-handbook/
+
 theme:
   name: material
   custom_dir: docs/overrides
@@ -22,6 +24,7 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.top
+    - navigation.path
     - search.highlight
 
 extra_css:

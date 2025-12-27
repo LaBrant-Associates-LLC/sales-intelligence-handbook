@@ -1,3 +1,5 @@
+[← Back to Market Segments](index.md)
+
 # Food, Beverage & Cold Storage Facilities: SE Wisconsin Market Intelligence
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** MODERATE-HIGH - Specialized coatings, food-safe requirements, niche expertise

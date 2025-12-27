@@ -2,16 +2,55 @@
 
 {% block extrahead %}
 <script>
-// Block ONLY scrollIntoView for sidebar - don't touch scrollTop
 (function() {
-  var orig = Element.prototype.scrollIntoView;
+  // Block scrollIntoView for sidebar
+  var origScroll = Element.prototype.scrollIntoView;
   Element.prototype.scrollIntoView = function(opts) {
-    // Block for sidebar elements
-    if (this.closest && this.closest('.md-sidebar--primary')) {
-      return; // do nothing
-    }
-    return orig.call(this, opts);
+    if (this.closest && this.closest('.md-sidebar--primary')) return;
+    return origScroll.call(this, opts);
   };
+
+  // Intercept scrollTop on sidebar after DOM ready
+  function lockSidebarScroll() {
+    var wrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+    if (!wrap || wrap._locked) return;
+    wrap._locked = true;
+
+    var userScroll = 0;
+    var allowSet = false;
+
+    // User interactions allow scroll
+    wrap.addEventListener('wheel', function() { allowSet = true; }, {passive: true});
+    wrap.addEventListener('mousedown', function() { allowSet = true; });
+    wrap.addEventListener('touchstart', function() { allowSet = true; }, {passive: true});
+    wrap.addEventListener('scroll', function() {
+      if (allowSet) userScroll = wrap.scrollTop;
+      allowSet = false;
+    });
+
+    // Override scrollTop
+    var desc = Object.getOwnPropertyDescriptor(Element.prototype, 'scrollTop');
+    Object.defineProperty(wrap, 'scrollTop', {
+      get: function() { return desc.get.call(this); },
+      set: function(v) {
+        if (allowSet) {
+          userScroll = v;
+          desc.set.call(this, v);
+        }
+        // Block programmatic sets, restore user position
+        else {
+          desc.set.call(this, userScroll);
+        }
+      },
+      configurable: true
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', lockSidebarScroll);
+  } else {
+    lockSidebarScroll();
+  }
 })();
 </script>
 {% endblock %}

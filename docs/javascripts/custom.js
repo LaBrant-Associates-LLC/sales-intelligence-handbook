@@ -1,28 +1,33 @@
-// Disable nav auto-scroll behavior
-document.addEventListener('DOMContentLoaded', function() {
-  // Override scrollIntoView for sidebar elements
-  const sidebar = document.querySelector('.md-sidebar--primary');
-  if (sidebar) {
-    const observer = new MutationObserver(function() {
-      // Reset scroll position when nav changes
-      const scrollwrap = sidebar.querySelector('.md-sidebar__scrollwrap');
-      if (scrollwrap) {
-        // Store and restore scroll position
-        const scrollTop = scrollwrap.scrollTop;
-        requestAnimationFrame(() => {
-          scrollwrap.scrollTop = scrollTop;
-        });
-      }
-    });
-    observer.observe(sidebar, { subtree: true, attributes: true, attributeFilter: ['class'] });
+// Force sidebar to stay at top
+(function() {
+  function resetSidebar() {
+    var scrollwrap = document.querySelector('.md-sidebar--primary .md-sidebar__scrollwrap');
+    if (scrollwrap) {
+      scrollwrap.scrollTop = 0;
+    }
   }
-});
 
-// Prevent scrollIntoView on active nav items
-Element.prototype._scrollIntoView = Element.prototype.scrollIntoView;
-Element.prototype.scrollIntoView = function(options) {
-  if (this.closest('.md-sidebar--primary')) {
-    return; // Block scroll for sidebar elements
+  // Reset on load
+  window.addEventListener('load', function() {
+    setTimeout(resetSidebar, 0);
+    setTimeout(resetSidebar, 50);
+    setTimeout(resetSidebar, 100);
+    setTimeout(resetSidebar, 200);
+  });
+
+  // Reset on instant navigation (MkDocs Material feature)
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(resetSidebar, 0);
+    setTimeout(resetSidebar, 50);
+    setTimeout(resetSidebar, 100);
+  });
+
+  // Observe for location changes
+  if (typeof document$ !== 'undefined') {
+    document$.subscribe(function() {
+      setTimeout(resetSidebar, 0);
+      setTimeout(resetSidebar, 50);
+      setTimeout(resetSidebar, 100);
+    });
   }
-  return this._scrollIntoView(options);
-};
+})();

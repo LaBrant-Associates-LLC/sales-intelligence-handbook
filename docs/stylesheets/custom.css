@@ -1,33 +1,11 @@
-/* Disable ALL scroll-into-view behavior on left nav */
-.md-sidebar--primary,
-.md-sidebar--primary *,
-.md-sidebar__scrollwrap,
-.md-sidebar__inner,
-.md-nav,
-.md-nav__list,
-.md-nav__item,
-.md-nav__link {
-  scroll-behavior: auto !important;
-  scroll-margin: 0 !important;
-  scroll-margin-top: 0 !important;
-  scroll-padding: 0 !important;
-}
-
-/* Prevent active link from triggering scroll */
-.md-nav__link--active,
-.md-nav__item--active {
-  scroll-margin-top: 0 !important;
-  scroll-margin: 0 !important;
-}
-
-/* Override any smooth scrolling */
+/* Force sidebar to top, no smooth scroll */
 .md-sidebar--primary .md-sidebar__scrollwrap {
-  overflow-y: auto !important;
   scroll-behavior: auto !important;
 }
 
-/* Kill the scrollIntoView effect */
-.md-nav__link:focus,
-.md-nav__link:active {
-  scroll-margin: 0 !important;
+/* Remove any scroll animations */
+.md-sidebar--primary,
+.md-sidebar--primary * {
+  scroll-behavior: auto !important;
+  transition: none !important;
 }

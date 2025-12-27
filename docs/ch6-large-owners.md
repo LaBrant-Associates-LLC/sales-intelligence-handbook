@@ -1,6 +1,3 @@
-[Home](index.md)
-**6. Large Facilities Owners**
-
 # Chapter 6: Large Facilities Owners
 
 **Direct Owner Relationships and Recurring Maintenance**

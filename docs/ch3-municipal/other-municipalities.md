@@ -1,5 +1,3 @@
-[Home](../index.md) · [3. Municipal Markets](index.md)
-
 # Other Municipalities
 
 | City | Platform | Key Contact |

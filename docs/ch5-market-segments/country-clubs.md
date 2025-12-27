@@ -1,5 +1,3 @@
-[Home](../index.md) · [5. Untapped Markets](index.md)
-
 # Country Clubs
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - Active renovation cycle, merit-shop friendly, relationship-driven

@@ -1,5 +1,3 @@
-[Home](../index.md) · [2. GC Intelligence](index.md)
-
 # Pipeline & Market Facts
 
 This chapter identifies merit-shop general contractors in SE Wisconsin worth pursuing, ranks existing relationships by profitability, and provides actionable contacts to expand the $9M+ active pipeline.

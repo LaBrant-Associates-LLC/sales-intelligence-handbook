@@ -1,5 +1,3 @@
-[Home](../index.md) · [1. Strategy](index.md)
-
 # Master Strategy Plan
 
 ## B - Base goal

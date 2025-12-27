@@ -1,5 +1,3 @@
-[Home](../index.md) · [5. Untapped Markets](index.md)
-
 # I-94 Corridor
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** MASSIVE - $25B+ development corridor, speculative construction, tenant improvement opportunities

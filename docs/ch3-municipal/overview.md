@@ -1,5 +1,3 @@
-[Home](../index.md) · [3. Municipal Markets](index.md)
-
 # Certification Summary
 
 **City of Milwaukee, Milwaukee County, WisDOT, and Regional Municipalities**

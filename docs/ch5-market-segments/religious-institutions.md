@@ -1,5 +1,3 @@
-[Home](../index.md) · [5. Untapped Markets](index.md)
-
 # Religious Institutions
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 200 parishes, $900M property value, decentralized procurement, lead cert advantage

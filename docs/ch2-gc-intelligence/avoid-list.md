@@ -1,5 +1,3 @@
-[Home](../index.md) · [2. GC Intelligence](index.md)
-
 # Avoid List
 
 These exclusions apply even if short-term revenue appears attractive.

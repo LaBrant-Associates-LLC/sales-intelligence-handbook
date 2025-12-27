@@ -1,5 +1,3 @@
-[Home](../index.md) · [1. Strategy](index.md)
-
 # Market Sizing
 
 from pathlib import Path

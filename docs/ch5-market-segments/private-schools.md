@@ -1,5 +1,3 @@
-[Home](../index.md) · [5. Untapped Markets](index.md)
-
 # Private Schools
 **Date:** 12/25/25 | **Revision:** 0
 **Segment Value:** HIGH - 100+ schools, summer scheduling window, lead cert critical, repeat business

@@ -3,3 +3,8 @@
 .md-sidebar--primary * {
   scroll-behavior: auto !important;
 }
+
+/* Hide breadcrumb/path navigation */
+.md-path {
+  display: none !important;
+}

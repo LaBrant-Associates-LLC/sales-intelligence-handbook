@@ -4,14 +4,6 @@
 
 ---
 
-## Today's Actions
-
-- **Review GC Pipeline** -> [Chapter 3: GC Intelligence](ch3-gc-intelligence/)
-- **Check Municipal Opportunities** -> [Chapter 4: Municipal Markets](ch4-municipal/)
-- **Update CRM / Log Next Actions** -> [Chapter 8: Sales System](ch8-sales-system.md)
-
----
-
 ## Purpose
 
 We currently derive most revenue from less than 10 GC relationships. This research identified 35+ merit-shop GCs, multiple private and institutional markets, and $4M-$8M of incremental opportunity aligned with our certifications and operating model.

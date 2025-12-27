@@ -3,8 +3,18 @@ site_description: Southeastern Wisconsin Commercial Painting Market Intelligence
 theme:
   name: material
   palette:
-    primary: indigo
-    accent: amber
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.sections
     - navigation.expand

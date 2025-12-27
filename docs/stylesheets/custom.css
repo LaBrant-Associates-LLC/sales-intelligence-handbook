@@ -1,18 +1,33 @@
-/* Stop left nav from auto-centering/jumping */
-.md-sidebar--primary .md-sidebar__scrollwrap {
+/* Disable ALL scroll-into-view behavior on left nav */
+.md-sidebar--primary,
+.md-sidebar--primary *,
+.md-sidebar__scrollwrap,
+.md-sidebar__inner,
+.md-nav,
+.md-nav__list,
+.md-nav__item,
+.md-nav__link {
   scroll-behavior: auto !important;
-}
-
-.md-nav__link--active {
+  scroll-margin: 0 !important;
   scroll-margin-top: 0 !important;
+  scroll-padding: 0 !important;
 }
 
-.md-sidebar__inner {
-  overflow-y: auto;
+/* Prevent active link from triggering scroll */
+.md-nav__link--active,
+.md-nav__item--active {
+  scroll-margin-top: 0 !important;
+  scroll-margin: 0 !important;
+}
+
+/* Override any smooth scrolling */
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  overflow-y: auto !important;
   scroll-behavior: auto !important;
 }
 
-/* Disable smooth scroll that causes jump */
-.md-sidebar--primary {
-  scroll-behavior: auto !important;
+/* Kill the scrollIntoView effect */
+.md-nav__link:focus,
+.md-nav__link:active {
+  scroll-margin: 0 !important;
 }

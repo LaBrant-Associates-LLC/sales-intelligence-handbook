@@ -24,6 +24,9 @@ theme:
 extra_css:
   - stylesheets/custom.css
 
+extra_javascript:
+  - javascripts/custom.js
+
 nav:
   - Home: index.md
   - Quick Reference: attachments/quick-reference.md

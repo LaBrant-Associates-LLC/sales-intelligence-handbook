@@ -37,7 +37,7 @@ nav:
   - Home: index.md
   - Quick Reference: attachments/quick-reference.md
 
-  - 1. Strategic Framework:
+  - 1. Strategy:
     - Overview: ch1-strategic-framework/index.md
     - Master Strategy: ch1-strategic-framework/master-strategy.md
     - Market Sizing: ch1-strategic-framework/market-sizing.md
@@ -77,7 +77,7 @@ nav:
     - "📎 Senior Living Part 1": attachments/att-b-senior-living-1.md
     - "📎 Senior Living Part 2": attachments/att-c-senior-living-2.md
 
-  - 5. Market Segments:
+  - 5. Untapped Markets:
     - Overview: ch5-market-segments/index.md
     - Transit & Fleet: ch5-market-segments/transit-fleet.md
     - Food & Cold Storage: ch5-market-segments/food-cold-storage.md
@@ -91,16 +91,16 @@ nav:
     - "📎 Part 8 New Markets": attachments/part8-new-markets.md
     - "📎 Industrial Private": attachments/industrial-private.md
 
-  - 6. Large Facility Owners:
+  - 6. Large Facilities Owners:
     - Overview: ch6-large-owners.md
     - "📎 Large Property Owners": attachments/large-property-owners.md
     - "📎 Facility Maintenance": attachments/facility-maintenance.md
 
-  - Topic Index: topic-index.md
-
-  - 7. Sales System & CRM:
+  - 7. Historical Sales Data & CRM:
     - Overview: ch7-sales-system.md
     - "📎 Financial Analysis": attachments/att-a-financial.md
+
+  - Topic Index: topic-index.md
 
   - Reference:
     - All Attachments Index: attachments/index.md

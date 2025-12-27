@@ -1,4 +1,4 @@
-[← Back to Strategic Framework](index.md)
+[← Back to Strategy](index.md)
 
 from pathlib import Path
 

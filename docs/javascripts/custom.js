@@ -1,1 +1,1 @@
-// Empty - main override is in head via theme override
+// No custom JS needed with tabbed navigation

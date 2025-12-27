@@ -1,6 +1,22 @@
 # Chapter 7: Historical Sales Data & CRM
 
-**Financial Performance, Job Profitability, and Pricing**
+**Financial Performance, Job Profitability, and Pricing.**
+
+---
+
+## Executive Summary
+
+This chapter provides internal sales data, pricing benchmarks, and financial analysis to inform bidding and relationship decisions. Use this data to identify profitable GC relationships, optimize pricing, and track performance trends.
+
+**Key Metric:** 25.5% net margin on $16.3M revenue
+
+---
+
+## Related Attachments
+
+| Attachment | Description |
+|------------|-------------|
+| [Financial Analysis](attachments/att-a-financial.md) | Job profitability, GC tiers, cost breakdown |
 
 ---
 
@@ -9,7 +25,6 @@
 | Resource | Purpose | Link |
 |----------|---------|------|
 | Quick Reference | 1-page field card | [Quick Reference](attachments/quick-reference.md) |
-| Financial Analysis | Job profitability, GC tiers | [ATT-A Financial](attachments/att-a-financial.md) |
 | Competitor Intelligence | Suburban Drywall analysis | [ATT-F Competitors](attachments/att-f-competitors.md) |
 | GC Pipeline | Active bid tracking | [GC Pipeline Intelligence](attachments/gc-pipeline-intelligence.md) |
 

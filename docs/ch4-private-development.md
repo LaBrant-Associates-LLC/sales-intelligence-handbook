@@ -1,6 +1,25 @@
 # Chapter 4: Private Development
 
-**SE Wisconsin Apartments, Senior Living, and Hotels**
+**SE Wisconsin Apartments, Senior Living, and Hotels.**
+
+---
+
+## Executive Summary
+
+Multifamily and hospitality represent the largest accessible market segment at $10M-$18M annually. Key insight: Wisconsin's multifamily market operates through **regional relationships**, not national vendor procurement systems. Most major national REITs have NO Wisconsin presence--they focus on coastal and Sun Belt markets.
+
+**12-Month Pipeline: $1.6M-$3.0M**
+
+---
+
+## Related Attachments
+
+| Attachment | Description |
+|------------|-------------|
+| [Developers Multifamily](attachments/developers-multifamily.md) | Multifamily developer profiles |
+| [Multifamily Operators](attachments/multifamily-operators.md) | Property management companies |
+| [Senior Living Part 1](attachments/att-b-senior-living-1.md) | Senior living operators A-L |
+| [Senior Living Part 2](attachments/att-c-senior-living-2.md) | Senior living operators M-Z |
 
 ---
 
@@ -18,23 +37,6 @@
 | Wangard Partners | Mixed-use development | Urban infill projects | GC subcontracting |
 | Zilber | Industrial + multifamily | I-94 corridor | GC subcontracting |
 | Irgens | Commercial + mixed-use | Downtown Milwaukee | GC subcontracting |
-
----
-
-## Related Attachments
-
-- [Senior Living Operators -- Part 1](attachments/att-b-senior-living-1.md)
-- [Senior Living Operators -- Part 2](attachments/att-c-senior-living-2.md)
-- [Developers -- Multifamily](attachments/developers-multifamily.md)
-- [Multifamily Operators](attachments/multifamily-operators.md)
-
----
-
-## Executive Summary
-
-Multifamily and hospitality represent the largest accessible market segment at $10M-$18M annually. Key insight: Wisconsin's multifamily market operates through **regional relationships**, not national vendor procurement systems. Most major national REITs have NO Wisconsin presence--they focus on coastal and Sun Belt markets.
-
-**12-Month Pipeline: $1.6M-$3.0M**
 
 ---
 

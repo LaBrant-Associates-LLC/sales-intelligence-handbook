@@ -27,6 +27,16 @@ Fragmented, relationship-driven markets with low union penetration. These are no
 
 ---
 
+## Related Attachments
+
+| Attachment | Description |
+|------------|-------------|
+| [Retail & Student Housing](../attachments/retail-student-housing.md) | Retail and student housing opportunities |
+| [New Market Development](../attachments/new-market-development.md) | Emerging market research |
+| [Industrial Private](../attachments/industrial-private.md) | Private industrial facilities |
+
+---
+
 ## Religious Institutions
 
 ### Market Size

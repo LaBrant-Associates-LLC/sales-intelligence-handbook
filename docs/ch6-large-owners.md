@@ -1,6 +1,23 @@
 # Chapter 6: Large Facilities Owners
 
-**Direct Owner Relationships and Recurring Maintenance**
+**Direct Owner Relationships and Recurring Maintenance.**
+
+---
+
+## Executive Summary
+
+Direct relationships with large property owners bypass GC markup and create recurring maintenance opportunities. Unlike municipal bidding, private property maintenance works through vendor registration, property management outreach, and relationship building.
+
+**12-Month Pipeline: $400K-$1.1M**
+
+---
+
+## Related Attachments
+
+| Attachment | Description |
+|------------|-------------|
+| [Large Property Owners](attachments/large-property-owners.md) | Commercial property owner profiles |
+| [Facility Maintenance](attachments/facility-maintenance.md) | Recurring maintenance opportunities |
 
 ---
 
@@ -13,14 +30,6 @@
 | Public Venue | County procurement | Zoo (65% TBE), State Fair | [Milwaukee County](ch3-municipal/milwaukee-county.md) |
 | Airport | MMSD goals | Mitchell Airport 20% goal | [Public Facilities](attachments/public-facilities.md) |
 | Industrial | Direct or broker | Rockwell, Harley-Davidson | [Industrial Private](attachments/industrial-private.md) |
-
----
-
-## Executive Summary
-
-Direct relationships with large property owners bypass GC markup and create recurring maintenance opportunities. Unlike municipal bidding, private property maintenance works through vendor registration, property management outreach, and relationship building.
-
-**12-Month Pipeline: $400K-$1.1M**
 
 ---
 

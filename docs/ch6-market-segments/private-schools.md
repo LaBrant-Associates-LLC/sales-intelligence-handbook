@@ -247,7 +247,7 @@ Southeast Wisconsin's private school market offers **$2-3M+ annual painting oppo
 
 > "Federal EPA regulations require certified contractors for any renovation work in schools built before 1978. As a Wisconsin DHS certified lead renovator, we ensure your project complies with all regulations while protecting students and staff from lead exposure.
 >
-> Our lead-safe work practices include proper containment, specialized cleaning, and documentation—giving you peace of mind and regulatory compliance."
+> Our lead-safe work practices include proper containment, specialized cleaning, and documentation--giving you peace of mind and regulatory compliance."
 
 ---
 
@@ -325,7 +325,7 @@ Southeast Wisconsin's private school market offers **$2-3M+ annual painting oppo
 
 > "Good morning, this is [Name] with LaBrant & Associates. I'm calling about your summer 2026 painting needs.
 >
-> We're a commercial painting contractor that specializes in school facilities—we're DHS lead certified, which is important for older buildings.
+> We're a commercial painting contractor that specializes in school facilities--we're DHS lead certified, which is important for older buildings.
 >
 > I'm reaching out now because I know schools typically plan summer projects in the spring, and I wanted to introduce our services early.
 >
@@ -480,6 +480,18 @@ Southeast Wisconsin's private school market offers **$2-3M+ annual painting oppo
 | St. Mary School | St. Mary | Port Washington |
 | Lumen Christi | Lumen Christi | Mequon |
 | St. Eugene School | St. Eugene | Grafton |
+
+---
+
+## Entry Play
+
+Begin outreach to Catholic elementary schools NOW for summer 2026 work. Focus on Tier 1 suburban schools where budgets are strongest and classroom refresh cycles are predictable.
+
+## Useful Links & Contacts
+
+- [Religious Institutions](religious-institutions.md)
+- [Senior Living Research](../attachments/att-b-senior-living-1.md) (Capri manages some school facilities)
+- Catholic Schools Office: (414) 758-2250
 
 ---
 

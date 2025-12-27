@@ -11,7 +11,7 @@
 | 34 | Hotel Laureum | TBD | Milwaukee | 35 rooms | Boutique Hotel | $50K | $100K | Jan 2026 | LOW |
 | 35 | Church of the Gesu | TBD | Marquette area | 34K SF | Religious | $75K | $150K | Nov 2025 | MEDIUM |
 
-**Note:** NCG Hospitality requires 25% SBE/DBE participation — certification advantage.
+**Note:** NCG Hospitality requires 25% SBE/DBE participation -- certification advantage.
 
 ---
 
@@ -24,7 +24,7 @@
 | 38 | Corners of Brookfield | TBD | Brookfield | Mixed-Use | Mixed-Use | $100K | $250K | Planning | LOW |
 | 39 | Eli Lilly Expansion | TBD | Pleasant Prairie | $3B | Pharma | TBD | TBD | 2026 | LOW |
 
-**Contact:** Matt Burow, Catalyst — 414-727-6830
+**Contact:** Matt Burow, Catalyst -- 414-727-6830
 
 ---
 
@@ -37,7 +37,7 @@
 | 42 | Tesla Milwaukee Service | Milwaukee | Automotive | $25K | $50K | Active | LOW |
 | 43 | St. Mary of the Hill | Hubertus | Religious | $20K | $50K | Active | LOW |
 
-**Contact:** Mike Moore — 262-345-1280 (covers all Moore projects)
+**Contact:** Mike Moore -- 262-345-1280 (covers all Moore projects)
 
 ---
 

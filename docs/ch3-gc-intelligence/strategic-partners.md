@@ -2,20 +2,34 @@
 
 # Strategic Partners & Active Pipeline
 
+---
+
+## Why They Matter / How to Enter
+
+| GC | Why They Matter | How to Enter |
+|----|-----------------|--------------|
+| Stevens | $300M+ revenue, merit-shop, multifamily focus | Register at stevensconstruction.com/projects/ |
+| Greenfire | Minority-owned, 65% TBE goal projects | Call Jeb Meier (414) 290-9400 |
+| VJS | 80% repeat clients, senior living focus | Submit via vjscs.com |
+| Moore | BizTimes Future 50, growing rapidly | Contact via website |
+| McShane | Existing 41.8% margin relationship | Relationship maintenance |
+
+---
+
 ## Market Snapshot
 
 | Target | Tier | Why It Matters | Est. 12-mo Pipeline | Projects |
 |--------|------|----------------|---------------------|----------|
-| Fiduciary (FRED) | Strategic | 48% margin, direct relationship, 9,500+ units | $500K–$800K | [#1](#tier-1-active-pipeline-established-relationships) |
-| McShane Construction | Strategic | 42% margin, LAC partnership, 806 units in pipeline | $1.2M–$1.9M | [#8-12](#tier-2-active-pipeline-new-introductions-needed) |
-| MSP Real Estate | Strategic | 45% margin, 11 jobs, high volume | $200K–$400K | — |
-| Greenfire Management | Strategic | 37% margin, MBE-owned, never self-performs | $300K–$500K | [#4-7](#tier-1-active-pipeline-established-relationships) |
-| Nicholas & Associates | Strategic | 34% margin, Wingspan ecosystem | $900K–$1.6M | [#2-3](#tier-1-active-pipeline-established-relationships) |
-| Stevens Construction | Target | Merit-shop philosophy, 100 East Tower | $500K–$1M | [#13](#tier-2-active-pipeline-new-introductions-needed) |
-| Moore Construction | Target | Merit-shop, 90% negotiated, Matter Dev relationship | $950K–$1.75M | [#14-18, 40-43](#tier-2-active-pipeline-new-introductions-needed) |
-| VJS Construction | Target | Top 10 WI GC, 80% repeat, senior living focus | TBD | — |
-| Berghammer Construction | Target | ABC member, multifamily/senior living | $350K–$600K | [#19-20](#tier-2-active-pipeline-new-introductions-needed) |
-| Catalyst Construction | Target | 100% employee-owned, explicit non-union | $100K–$300K | [#37, 47](growth-targets.md#tier-6-industrial-long-term) |
+| Fiduciary (FRED) | Strategic | 48% margin, direct relationship, 9,500+ units | $500K-$800K | [#1](#tier-1-active-pipeline-established-relationships) |
+| McShane Construction | Strategic | 42% margin, LAC partnership, 806 units in pipeline | $1.2M-$1.9M | [#8-12](#tier-2-active-pipeline-new-introductions-needed) |
+| MSP Real Estate | Strategic | 45% margin, 11 jobs, high volume | $200K-$400K | -- |
+| Greenfire Management | Strategic | 37% margin, MBE-owned, never self-performs | $300K-$500K | [#4-7](#tier-1-active-pipeline-established-relationships) |
+| Nicholas & Associates | Strategic | 34% margin, Wingspan ecosystem | $900K-$1.6M | [#2-3](#tier-1-active-pipeline-established-relationships) |
+| Stevens Construction | Target | Merit-shop philosophy, 100 East Tower | $500K-$1M | [#13](#tier-2-active-pipeline-new-introductions-needed) |
+| Moore Construction | Target | Merit-shop, 90% negotiated, Matter Dev relationship | $950K-$1.75M | [#14-18, 40-43](#tier-2-active-pipeline-new-introductions-needed) |
+| VJS Construction | Target | Top 10 WI GC, 80% repeat, senior living focus | TBD | -- |
+| Berghammer Construction | Target | ABC member, multifamily/senior living | $350K-$600K | [#19-20](#tier-2-active-pipeline-new-introductions-needed) |
+| Catalyst Construction | Target | 100% employee-owned, explicit non-union | $100K-$300K | [#37, 47](growth-targets.md#tier-6-industrial-long-term) |
 
 ---
 
@@ -66,8 +80,8 @@
 
 | Contact | Company | Phone | Email | Action |
 |---------|---------|-------|-------|--------|
-| Steve Bersell | FRED | 414-226-4535 | — | Schedule meeting before Jan transition |
-| Jason Piurkowski | Nicholas | — | — | Reference HUB13 success |
+| Steve Bersell | FRED | 414-226-4535 | -- | Schedule meeting before Jan transition |
+| Jason Piurkowski | Nicholas | -- | -- | Reference HUB13 success |
 | Seth Coronado | Greenfire | 414-290-9400 | seth.coronado@greenfire.com | Respond to J Jeffers bid |
 
 ---
@@ -96,17 +110,17 @@
 
 | Contact | Company | Phone | Email | Action |
 |---------|---------|-------|-------|--------|
-| Alison Gorham | McShane | Madison | — | Send capability statement |
-| Matt Hartenstein | Stevens | 414-828-5100 | — | Primary intro contact |
-| Jodi Huntoon | Stevens | — | jhuntoon@stevensconstructioninc.com | Submit prequalification |
-| Mike Moore | Moore | 262-345-1280 | — | Call this week — Willow Run |
-| Kevin White | Berghammer | 262-790-4750 | — | Pritchard Park Place inquiry |
+| Alison Gorham | McShane | Madison | -- | Send capability statement |
+| Matt Hartenstein | Stevens | 414-828-5100 | -- | Primary intro contact |
+| Jodi Huntoon | Stevens | -- | jhuntoon@stevensconstructioninc.com | Submit prequalification |
+| Mike Moore | Moore | 262-345-1280 | -- | Call this week -- Willow Run |
+| Kevin White | Berghammer | 262-790-4750 | -- | Pritchard Park Place inquiry |
 
 ---
 
 ### TIER 3: DEVELOPER DIRECT OPPORTUNITIES
 
-*Bypass GC — work directly with developer.*
+*Bypass GC -- work directly with developer.*
 
 | # | Project Name | Developer | Location | Units/Size | Type | Est. Low | Est. High | Status | Priority |
 |---|--------------|-----------|----------|------------|------|----------|-----------|--------|----------|
@@ -121,16 +135,16 @@
 
 | Contact | Company | Phone | Email | Action |
 |---------|---------|-------|-------|--------|
-| Kevin/Arthur Sawall | Sawall Dev | 262-297-4444 | — | Introduce on Applewood |
+| Kevin/Arthur Sawall | Sawall Dev | 262-297-4444 | -- | Introduce on Applewood |
 | Kristin Ferge | Capri Communities | 262-798-1224 | info@capricommunities.com | Senior living pipeline |
-| — | Oxeland Group | 414-488-2912 | — | Good Hope Road timing |
-| Rachel Kriech | Annex Group | 317-353-5735 | — | First WI project — DBE angle |
+| -- | Oxeland Group | 414-488-2912 | -- | Good Hope Road timing |
+| Rachel Kriech | Annex Group | 317-353-5735 | -- | First WI project -- DBE angle |
 
 ---
 
 ### TIER 4: MANDEL GROUP PIPELINE
 
-*Major Milwaukee developer — identify GC partner.*
+*Major Milwaukee developer -- identify GC partner.*
 
 | # | Project Name | Location | Units/Size | Type | Est. Low | Est. High | Status | Priority |
 |---|--------------|----------|------------|------|----------|-----------|--------|----------|

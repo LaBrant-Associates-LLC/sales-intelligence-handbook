@@ -2,6 +2,19 @@
 
 ## Bidding Platforms
 
+---
+
+## Platform Quick Reference
+
+| Platform | URL | Cost | Coverage |
+|----------|-----|------|----------|
+| Wisconsin VendorNet | [esupplier.wi.gov](https://esupplier.wi.gov) | Free | State agencies, many municipalities |
+| DemandStar (WAPP) | [demandstar.com](https://demandstar.com/app/wapp/registration) | Free via WAPP | Milwaukee, Racine, Washington, Waukesha Counties |
+| QuestCDN | [questcdn.com](https://questcdn.com) | Free reg, per-doc fees | Brookfield, New Berlin, Oak Creek, Kenosha |
+| Bonfire | [cityofmilwaukee.bonfirehub.com](https://cityofmilwaukee.bonfirehub.com) | Free | City of Milwaukee, Milwaukee County |
+
+---
+
 Register on all four platforms within one week:
 
 | Platform | Coverage | Registration |

@@ -1,13 +1,13 @@
 # Part 3: Multifamily Pipeline, Developers & Financing Outlook | SE Wisconsin
 **Date:** 12/22/25 | **Revision:** #0
 
-Milwaukee's multifamily market is entering a **supply-constrained period** that creates opportunities for painting subcontractors positioned with the right developer and GC relationships. New apartment construction is projected to decline 40-50% from 2024 levels—the lowest since 2015—while demand remains robust at 96% occupancy. This tightening market means fewer but more competitive projects, with financing increasingly contingent on affordable housing tax credits and TIF assistance where SBE/DBE participation requirements apply.
+Milwaukee's multifamily market is entering a **supply-constrained period** that creates opportunities for painting subcontractors positioned with the right developer and GC relationships. New apartment construction is projected to decline 40-50% from 2024 levels--the lowest since 2015--while demand remains robust at 96% occupancy. This tightening market means fewer but more competitive projects, with financing increasingly contingent on affordable housing tax credits and TIF assistance where SBE/DBE participation requirements apply.
 
 ## Market conditions favor tightening supply
 
-Milwaukee's multifamily fundamentals are among the strongest in the Midwest. The metro's **95.9% occupancy rate** as of Q4 2024 ranks sixth nationally among major markets. Average rents reached approximately $1,400/month in 2024, with growth projected at 2.9-3.2% through 2025—consistently above national averages.
+Milwaukee's multifamily fundamentals are among the strongest in the Midwest. The metro's **95.9% occupancy rate** as of Q4 2024 ranks sixth nationally among major markets. Average rents reached approximately $1,400/month in 2024, with growth projected at 2.9-3.2% through 2025--consistently above national averages.
 
-The construction pipeline is contracting sharply. **Apartment completions are falling from 3,066 units in 2024 to approximately 1,566 units in 2025**—a 50% decline. Developers broke ground on only 1,500 new units in 2024, signaling further supply constraints in 2026-2027. This creates a "renovation over new construction" dynamic as owners improve existing properties rather than build new.
+The construction pipeline is contracting sharply. **Apartment completions are falling from 3,066 units in 2024 to approximately 1,566 units in 2025**--a 50% decline. Developers broke ground on only 1,500 new units in 2024, signaling further supply constraints in 2026-2027. This creates a "renovation over new construction" dynamic as owners improve existing properties rather than build new.
 
 Key market indicators favor renovation work:
 - Construction costs have risen 30%+ since 2019, making new builds difficult to pencil
@@ -21,7 +21,7 @@ The Federal Reserve has cut its benchmark rate six times since September 2024, b
 
 **Impact on multifamily construction:**
 - Construction loans priced over SOFR are becoming less expensive as short-term rates decline
-- The 10-year Treasury yield—key reference for permanent financing—touched 4% recently but remains elevated by historical standards
+- The 10-year Treasury yield--key reference for permanent financing--touched 4% recently but remains elevated by historical standards
 - Mortgage rates have dropped to approximately 6.35% (30-year fixed), with projections for sub-6% by mid-2026
 - Lenders continue requiring **strong debt service coverage ratios and developer equity positioning**
 - Only well-prepared projects with secured tenants or demonstrated demand are moving forward
@@ -31,7 +31,7 @@ The Fed's December 2025 statement indicated economic activity expanding at a "mo
 **Financing implications for subcontractors:**
 - Projects that paused during 2023-2024 rate spike are re-engaging with construction teams
 - Developers are preparing for "smoother access to construction financing in early 2026"
-- Multiple rate cuts—not just one or two—are needed to fully unlock pent-up capital
+- Multiple rate cuts--not just one or two--are needed to fully unlock pent-up capital
 - WHEDA-financed affordable housing projects are proceeding with stronger fundamentals than market-rate
 
 ## Active Milwaukee-area developers and their GC relationships
@@ -96,7 +96,7 @@ The Fed's December 2025 statement indicated economic activity expanding at a "mo
 
 ### NCG Hospitality Group
 
-**NCG Hospitality** (Middleton) develops branded hotels with **25% SBE/DBE participation requirements**—directly leveraging the client's certifications.
+**NCG Hospitality** (Middleton) develops branded hotels with **25% SBE/DBE participation requirements**--directly leveraging the client's certifications.
 
 **Active projects:**
 - **Moxy Milwaukee Downtown**: 156-162 rooms, ~$50 million, groundbreaking targeting late 2025/early 2026 near Fiserv Forum
@@ -111,7 +111,7 @@ The SBE/DBE requirement creates a structured opportunity for certified subcontra
 **Active project:**
 - **Neutral.Edison**: 31-story, 350-unit mass timber apartment tower at 1005 N. Milwaukee, downtown. **Construction paused** in late 2025 due to cost overruns related to materials and tariffs. C.D. Smith Construction was the original GC but left the project. The developer is working through financial challenges.
 
-This project illustrates current market risks—even projects with innovative financing ($133 million secured) face challenges in the current cost environment.
+This project illustrates current market risks--even projects with innovative financing ($133 million secured) face challenges in the current cost environment.
 
 ## WHEDA affordable housing creates DBE/SBE opportunities
 
@@ -151,7 +151,7 @@ The **Residents Preference Program (RPP)** requires contractors on City of Milwa
 
 **Compliance tracking:** All contractors and subcontractors submit payroll information electronically, including employee identification, labor classification, total hours, and wage rates.
 
-**Historical performance:** From 2010-2015, RPP workers accounted for 48% of 335,732 hours worked on contracts with RPP requirements—exceeding the 40% mandate.
+**Historical performance:** From 2010-2015, RPP workers accounted for 48% of 335,732 hours worked on contracts with RPP requirements--exceeding the 40% mandate.
 
 **For painting subcontractors:** Understanding RPP creates competitive advantage when pursuing City-assisted projects. Contractors who can demonstrate RPP workforce access will be preferred by developers seeking to meet compliance requirements.
 
@@ -167,7 +167,7 @@ Tax Increment Financing (TIF) is the primary public subsidy mechanism for Milwau
 - **100 East conversion**: $14.4 million TIF for Klein Development
 - **Northwood Apartments**: Up to $1.27 million TIF over 17 years
 
-Milwaukee has expanded TIF policy to include workforce housing, adaptive reuse of commercial buildings, and downtown growth support—broadening the project types triggering compliance requirements.
+Milwaukee has expanded TIF policy to include workforce housing, adaptive reuse of commercial buildings, and downtown growth support--broadening the project types triggering compliance requirements.
 
 ## Specific current bid opportunities
 
@@ -178,7 +178,7 @@ Milwaukee has expanded TIF policy to include workforce housing, adaptive reuse o
 - Caroline Heights (Elm Grove): Under construction
 - SoNa expansions: Phased construction
 
-**WHEDA-financed affordable projects** in various stages—monitor WHEDA award lists and Urban Milwaukee development coverage for bid timing.
+**WHEDA-financed affordable projects** in various stages--monitor WHEDA award lists and Urban Milwaukee development coverage for bid timing.
 
 ## Developer relationship strategy
 

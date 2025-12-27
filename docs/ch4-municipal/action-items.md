@@ -1,13 +1,18 @@
 [← Back to Municipal Markets](index.md)
 
+---
+
+*Last reviewed: 2025-12-27*
+
+---
 
 ## Seasonal Timing
 
-Exterior painting and hydrant contracts typically release **February–April** for spring/summer execution.
+Exterior painting and hydrant contracts typically release **February-April** for spring/summer execution.
 
-**December–January:** Registration and prequalification season
-**February–April:** Active bidding season
-**May–October:** Execution season
+**December-January:** Registration and prequalification season
+**February-April:** Active bidding season
+**May-October:** Execution season
 
 ---
 
@@ -16,8 +21,8 @@ Exterior painting and hydrant contracts typically release **February–April** f
 | Amount | Process |
 |--------|---------|
 | Under $5,000 | Best judgment |
-| $5,000–$25,000 | Minimum 3 quotes |
-| $25,000–$50,000 | Informal competitive bids |
+| $5,000-$25,000 | Minimum 3 quotes |
+| $25,000-$50,000 | Informal competitive bids |
 | Over $50,000 | Formal sealed bids with advertising |
 
 ---
@@ -58,5 +63,5 @@ Exterior painting and hydrant contracts typically release **February–April** f
 
 ### Ongoing
 - Check DemandStar and VendorNet weekly
-- Monitor municipal websites February–April
+- Monitor municipal websites February-April
 - Build relationships with prime contractors needing SBE/DBE subs

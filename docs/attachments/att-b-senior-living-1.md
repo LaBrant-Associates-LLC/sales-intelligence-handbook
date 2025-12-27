@@ -1,9 +1,9 @@
 # Appendix A: Senior Living Operators & Facilities Management Contacts | SE Wisconsin
-## Part 1 of 2 — Regional & Local Operators
+## Part 1 of 2 -- Regional & Local Operators
 
 **Date:** 12/24/25 | **Revision:** #0  
-**Status:** DRAFT — Incomplete (Part 2 pending: National Operators, Spend Estimates, Procurement Analysis)  
-**Changelog:** Initial compilation of Thread 10 research — Capri Communities, St. Camillus, Saint John's on the Lake, Ovation Communities, Brookdale Senior Living (partial), Adava Care (partial)
+**Status:** DRAFT -- Incomplete (Part 2 pending: National Operators, Spend Estimates, Procurement Analysis)  
+**Changelog:** Initial compilation of Thread 10 research -- Capri Communities, St. Camillus, Saint John's on the Lake, Ovation Communities, Brookdale Senior Living (partial), Adava Care (partial)
 
 ---
 
@@ -37,7 +37,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 
 ### 1. Capri Communities / Tarantino & Company
 
-**VERTICALLY INTEGRATED — HIGHEST PRIORITY TARGET**
+**VERTICALLY INTEGRATED -- HIGHEST PRIORITY TARGET**
 
 | Attribute | Detail |
 |-----------|--------|
@@ -47,7 +47,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 | **Phone** | (262) 798-1224 |
 | **Website** | capricommunities.com |
 
-**Key Insight:** Capri/Tarantino is vertically integrated with in-house construction capabilities. This means painting contracts may be let directly to subcontractors without external GC intermediary—creating potential for direct owner relationships.
+**Key Insight:** Capri/Tarantino is vertically integrated with in-house construction capabilities. This means painting contracts may be let directly to subcontractors without external GC intermediary--creating potential for direct owner relationships.
 
 **Services Offered:**
 - Independent Living
@@ -60,7 +60,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 - New development pipeline active
 
 **Painting Opportunity Assessment:**
-- **Scale:** Large — 14 communities with ongoing maintenance needs
+- **Scale:** Large -- 14 communities with ongoing maintenance needs
 - **Procurement:** Direct with Capri/Tarantino construction team
 - **Recurring Revenue:** Unit turnovers, common area refresh annually
 - **New Construction:** Active development pipeline through in-house team
@@ -90,7 +90,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 | Name | Title |
 |------|-------|
 | Debbie Raske | Executive Director |
-| — | Director of Maintenance (primary painting contact) |
+| -- | Director of Maintenance (primary painting contact) |
 
 **Services Offered:**
 - Independent Living
@@ -106,8 +106,8 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 - Catholic health system affiliation
 
 **Painting Opportunity Assessment:**
-- **Scale:** Large — 550+ units on single campus
-- **Quality Expectations:** High — Catholic non-profit expects quality work
+- **Scale:** Large -- 550+ units on single campus
+- **Quality Expectations:** High -- Catholic non-profit expects quality work
 - **Specialty Needs:** Lead certification likely valuable for older buildings
 - **Procurement:** Direct with facility; non-profit may have vendor requirements
 
@@ -152,8 +152,8 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 - Downtown Milwaukee location
 
 **Painting Opportunity Assessment:**
-- **Scale:** Medium-Large — 295+ units in vertical configuration
-- **Quality Expectations:** High — premium community requires quality finishes
+- **Scale:** Medium-Large -- 295+ units in vertical configuration
+- **Quality Expectations:** High -- premium community requires quality finishes
 - **Specialty Needs:** High-rise access, potentially swing stage work
 - **Certification Value:** Lead certification likely valuable (building age TBD)
 
@@ -167,7 +167,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 
 ### 4. Ovation Communities
 
-**JEWISH NON-PROFIT — 3 FACILITIES ON N. PROSPECT**
+**JEWISH NON-PROFIT -- 3 FACILITIES ON N. PROSPECT**
 
 | Attribute | Detail |
 |-----------|--------|
@@ -192,9 +192,9 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 | Ovation Prospect | Independent Living | 1350 N. Prospect Ave. |
 
 **Painting Opportunity Assessment:**
-- **Scale:** Medium — 3 facilities in close proximity
+- **Scale:** Medium -- 3 facilities in close proximity
 - **Logistics:** All 3 facilities on same corridor = efficient service
-- **Quality Expectations:** High — non-profit serving Jewish community
+- **Quality Expectations:** High -- non-profit serving Jewish community
 - **Relationship Value:** Could lead to referrals to other Jewish institutions
 
 **Outreach Strategy:**
@@ -207,7 +207,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 
 ### 5. Brookdale Senior Living (Partial Profile)
 
-**NATIONAL OPERATOR — SE WISCONSIN LOCATIONS**
+**NATIONAL OPERATOR -- SE WISCONSIN LOCATIONS**
 
 | Attribute | Detail |
 |-----------|--------|
@@ -222,7 +222,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 - Additional suburban Milwaukee locations
 - Regional office contact needed
 
-**Research Status:** 🔄 Partial — Need to identify specific SE Wisconsin locations and regional facilities management contacts.
+**Research Status:** 🔄 Partial -- Need to identify specific SE Wisconsin locations and regional facilities management contacts.
 
 **Outreach Strategy:**
 - National operators typically have regional procurement
@@ -233,7 +233,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 
 ### 6. Adava Care (Partial Profile)
 
-**CBRF/ASSISTED LIVING OPERATOR — 7 WISCONSIN LOCATIONS**
+**CBRF/ASSISTED LIVING OPERATOR -- 7 WISCONSIN LOCATIONS**
 
 | Attribute | Detail |
 |-----------|--------|
@@ -245,15 +245,15 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 
 | Location | Address | Phone |
 |----------|---------|-------|
-| **Fox Point** | 7325 N Port Washington Rd, Milwaukee 53217 | — |
+| **Fox Point** | 7325 N Port Washington Rd, Milwaukee 53217 | -- |
 | **St. Francis I & II** | 3620 E Denton Ave, St. Francis 53235 | (414) 744-2815 |
 | **Pewaukee** | 1109 Cecelia Dr, Pewaukee 53072 | (262) 695-6413 |
 | **Oak Creek** | 7550 S 13th St, Oak Creek 53154 | (414) 768-8889 |
-| **Hartland** | 300 E North Shore Dr, Hartland 53029 | — |
-| Neenah I | 1760 Irish Rd, Neenah 54956 | — |
-| Neenah II | 990 W American Dr, Neenah 54956 | — |
+| **Hartland** | 300 E North Shore Dr, Hartland 53029 | -- |
+| Neenah I | 1760 Irish Rd, Neenah 54956 | -- |
+| Neenah II | 990 W American Dr, Neenah 54956 | -- |
 
-**Research Status:** 🔄 Partial — Need to identify corporate facilities management contacts and procurement process.
+**Research Status:** 🔄 Partial -- Need to identify corporate facilities management contacts and procurement process.
 
 ---
 
@@ -261,16 +261,16 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 
 ### National Operators Requiring Investigation
 
-1. **Atria Senior Living** — National operator, SE Wisconsin locations TBD
-2. **Five Star Senior Living** — National operator, SE Wisconsin locations TBD
-3. **Sunrise Senior Living** — National operator, SE Wisconsin locations TBD
+1. **Atria Senior Living** -- National operator, SE Wisconsin locations TBD
+2. **Five Star Senior Living** -- National operator, SE Wisconsin locations TBD
+3. **Sunrise Senior Living** -- National operator, SE Wisconsin locations TBD
 
 ### Regional Operators Requiring Investigation
 
-4. **Three Pillars** — Dousman, WI campus
-5. **Lutheran Home & Harwood Place** — Wauwatosa area
-6. **Discovery Commons** — SE Wisconsin locations TBD
-7. **Other regional operators** — Azura Memory Care, etc.
+4. **Three Pillars** -- Dousman, WI campus
+5. **Lutheran Home & Harwood Place** -- Wauwatosa area
+6. **Discovery Commons** -- SE Wisconsin locations TBD
+7. **Other regional operators** -- Azura Memory Care, etc.
 
 ---
 
@@ -280,7 +280,7 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 - **Procurement decision-making authority** (facility vs. regional vs. corporate)
 - **Vendor qualification requirements** for national operators
 - **Seasonal painting patterns** (best timing for outreach)
-- **Competitive landscape** — who currently serves these operators
+- **Competitive landscape** -- who currently serves these operators
 
 ---
 
@@ -304,18 +304,18 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 
 | Segment | Facilities | Est. Annual Spend |
 |---------|------------|-------------------|
-| Large Campus Operators (Capri, St. Camillus, Saint John's) | 15–20 | $300K–500K |
-| Medium Operators (Ovation, Brookdale regional, Three Pillars) | 10–15 | $150K–250K |
-| Smaller CBRFs/ALs (Adava, others) | 30–50 | $100K–200K |
-| **TOTAL** | **55–85** | **$550K–950K** |
+| Large Campus Operators (Capri, St. Camillus, Saint John's) | 15-20 | $300K-500K |
+| Medium Operators (Ovation, Brookdale regional, Three Pillars) | 10-15 | $150K-250K |
+| Smaller CBRFs/ALs (Adava, others) | 30-50 | $100K-200K |
+| **TOTAL** | **55-85** | **$550K-950K** |
 
 **Why Senior Living is Tier 1 Opportunity:**
 
-1. **Merit-shop GC alignment** — Moore, McShane, VJS, Stevens, Greenfire build senior living projects
-2. **Private ownership** — Not subject to prevailing wage or union labor requirements
-3. **Recurring revenue** — Unit turnovers and common area refresh create predictable annual demand
-4. **Lead certification value** — Many older buildings require lead-certified contractors
-5. **Relationship-driven** — Once established, facility maintenance contracts tend to be sticky
+1. **Merit-shop GC alignment** -- Moore, McShane, VJS, Stevens, Greenfire build senior living projects
+2. **Private ownership** -- Not subject to prevailing wage or union labor requirements
+3. **Recurring revenue** -- Unit turnovers and common area refresh create predictable annual demand
+4. **Lead certification value** -- Many older buildings require lead-certified contractors
+5. **Relationship-driven** -- Once established, facility maintenance contracts tend to be sticky
 
 ---
 
@@ -347,4 +347,4 @@ This appendix documents senior living operators in southeastern Wisconsin as pro
 ---
 
 *Research compiled December 2025 | LaBrant & Associates LLC Market Intelligence Project*  
-*Thread 10 of 10 — Senior Living Operators*
+*Thread 10 of 10 -- Senior Living Operators*

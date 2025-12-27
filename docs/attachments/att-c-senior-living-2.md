@@ -1,8 +1,8 @@
 # Appendix A: Senior Living Operators & Facilities Management Contacts | SE Wisconsin
-## Part 2 of 2 — Additional Regional & National Operators
+## Part 2 of 2 -- Additional Regional & National Operators
 **Date:** 12/25/25 | **Revision:** #0
-**Status:** DRAFT — Completes pending operators from Part 1
-**Changelog:** Initial compilation — Atria Senior Living (no SE WI presence), Five Star Senior Living (6 SE WI locations), Three Pillars (Dousman), Lutheran Home & Harwood Place (Wauwatosa)
+**Status:** DRAFT -- Completes pending operators from Part 1
+**Changelog:** Initial compilation -- Atria Senior Living (no SE WI presence), Five Star Senior Living (6 SE WI locations), Three Pillars (Dousman), Lutheran Home & Harwood Place (Wauwatosa)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### 7. Atria Senior Living
 
-**NATIONAL OPERATOR — NO SE WISCONSIN PRESENCE CONFIRMED**
+**NATIONAL OPERATOR -- NO SE WISCONSIN PRESENCE CONFIRMED**
 
 | Attribute | Detail |
 |-----------|--------|
@@ -41,7 +41,7 @@
 
 ### 8. Five Star Senior Living
 
-**NATIONAL OPERATOR — SIGNIFICANT SE WISCONSIN PRESENCE**
+**NATIONAL OPERATOR -- SIGNIFICANT SE WISCONSIN PRESENCE**
 
 | Attribute | Detail |
 |-----------|--------|
@@ -54,9 +54,9 @@
 | **Website** | fivestarseniorliving.com |
 
 **Signature Programs:**
-- **FOX Rehabilitation** — On-site rehab, fitness, wellness partner
-- **Five Star Culinary** — Branded dining program
-- **Life Enrichment** — Activities and engagement programming
+- **FOX Rehabilitation** -- On-site rehab, fitness, wellness partner
+- **Five Star Culinary** -- Branded dining program
+- **Life Enrichment** -- Activities and engagement programming
 - Great Place to Work certified
 
 **SE Wisconsin Facilities (6 Communities):**
@@ -64,17 +64,17 @@
 | Facility | Address | City | Phone | Services | Pricing |
 |----------|---------|------|-------|----------|---------|
 | **Meadowmere & Mitchell Manor Oak Creek** | 701 E. Puetz Road | Oak Creek, WI 53154 | (414) 766-2100 | IL, AL, MC | Starting $2,300/mo |
-| **Meadowmere Northshore** | Mequon | Mequon, WI | — | AL | Starting $3,084/mo |
-| **Meadowmere Southport** | Kenosha | Kenosha, WI | — | AL | Starting $2,732/mo |
-| **Mitchell Manor West Allis** | West Allis | West Allis, WI | — | AL, MC | Starting $2,974/mo |
-| **ManorPointe Oak Creek** | Oak Creek | Oak Creek, WI | — | IL | — |
-| **River Hills West Healthcare Center** | Pewaukee | Pewaukee, WI | — | MC, Rehab | — |
+| **Meadowmere Northshore** | Mequon | Mequon, WI | -- | AL | Starting $3,084/mo |
+| **Meadowmere Southport** | Kenosha | Kenosha, WI | -- | AL | Starting $2,732/mo |
+| **Mitchell Manor West Allis** | West Allis | West Allis, WI | -- | AL, MC | Starting $2,974/mo |
+| **ManorPointe Oak Creek** | Oak Creek | Oak Creek, WI | -- | IL | -- |
+| **River Hills West Healthcare Center** | Pewaukee | Pewaukee, WI | -- | MC, Rehab | -- |
 
 **Additional Wisconsin Locations (Outside SE Wisconsin):**
-- **Meadowmere Madison** — Madison, WI (Starting $3,025/mo)
-- **Brookfield Rehabilitation & Specialty Care** — Brookfield, WI (Rehab/short-term)
-- **Greentree Health & Rehabilitation Center** — Clintonville, WI
-- **Pine Manor Health Care Center** — Clintonville, WI
+- **Meadowmere Madison** -- Madison, WI (Starting $3,025/mo)
+- **Brookfield Rehabilitation & Specialty Care** -- Brookfield, WI (Rehab/short-term)
+- **Greentree Health & Rehabilitation Center** -- Clintonville, WI
+- **Pine Manor Health Care Center** -- Clintonville, WI
 
 **Meadowmere Oak Creek Facility Details:**
 - Acreage campus setting
@@ -90,7 +90,7 @@
 - Pet-friendly
 
 **Painting Opportunity Assessment:**
-- **Scale:** Large — 6 SE Wisconsin facilities under single corporate umbrella
+- **Scale:** Large -- 6 SE Wisconsin facilities under single corporate umbrella
 - **Decision-Making:** Likely regional or divisional; investigate Wisconsin maintenance hierarchy
 - **Facility Types:** Mix of assisted living, memory care, independent living, skilled nursing
 - **Certification Value:** Older facilities may benefit from lead certification
@@ -113,7 +113,7 @@
 
 ### 9. Three Pillars Senior Living Communities
 
-**MAJOR REGIONAL CCRC — MASONIC-AFFILIATED**
+**MAJOR REGIONAL CCRC -- MASONIC-AFFILIATED**
 
 | Attribute | Detail |
 |-----------|--------|
@@ -145,7 +145,7 @@
 | **Village on the Square** | Independent Living | Flagship IL community |
 | **Compass Point** | Assisted Living | AL with continuum access |
 | **Masonic Health Care Center** | Skilled Nursing | 84-bed SNF, Medicare/Medicaid certified |
-| **The Fields at Three Pillars** | Active Adult (NEW) | Under construction — loft apartments, garden homes, courtyard homes |
+| **The Fields at Three Pillars** | Active Adult (NEW) | Under construction -- loft apartments, garden homes, courtyard homes |
 
 **Full Continuum of Care:**
 - Independent Living
@@ -177,11 +177,11 @@
 - Skilled nursing: ~$11,894/month (Medicare 4/5 stars)
 
 **Painting Opportunity Assessment:**
-- **Scale:** Very Large — 300-acre campus with multiple buildings, major expansion underway
+- **Scale:** Very Large -- 300-acre campus with multiple buildings, major expansion underway
 - **Decision-Making:** Non-profit with CEO and facilities staff; likely committee-based for major contracts
 - **New Construction:** The Fields expansion = new painting opportunities
 - **Existing Campus:** Established buildings require ongoing maintenance
-- **Certification Value:** Founded 1905 — older buildings likely require lead certification
+- **Certification Value:** Founded 1905 -- older buildings likely require lead certification
 - **Timing:** Active construction phase = potential for establishing relationship now
 
 **Outreach Strategy:**
@@ -190,7 +190,7 @@
 3. Propose comprehensive campus painting assessment
 4. Target relationship with Wellspring Construction Group for new construction phase
 5. Emphasize lead certification for historic campus buildings
-6. **Priority:** HIGH — largest campus, active expansion, non-profit procurement
+6. **Priority:** HIGH -- largest campus, active expansion, non-profit procurement
 
 **Primary Contacts:**
 | Contact Point | Phone | Notes |
@@ -203,14 +203,14 @@
 
 ### 10. Lutheran Home & Harwood Place
 
-**WAUWATOSA NON-PROFIT — DUAL CAMPUS**
+**WAUWATOSA NON-PROFIT -- DUAL CAMPUS**
 
 | Attribute | Detail |
 |-----------|--------|
 | **Type** | Non-profit (Lutheran affiliation) |
 | **Organization** | Single non-profit operating two locations |
 | **CEO** | Kathryn Cavers |
-| **Revenue** | $10M–$50M annually (estimated) |
+| **Revenue** | $10M-$50M annually (estimated) |
 | **Employees** | 100-250 (estimated) |
 | **Website** | thelutheranhome.org |
 
@@ -265,15 +265,15 @@
 - **U.S. News Best Nursing Home for Long-Term Care (2024)**
 - **CMS 5-Star Rating**
 - **Top Workplace Award**
-- **LSS Caregiver Hero Award (2022)** — In honor of Marty Schreiber
+- **LSS Caregiver Hero Award (2022)** -- In honor of Marty Schreiber
 
 **Established:** Lutheran Home operations since 1909 (115+ years)
 
 **Painting Opportunity Assessment:**
-- **Scale:** Medium-Large — Two campuses, 15+ acres combined
+- **Scale:** Medium-Large -- Two campuses, 15+ acres combined
 - **Decision-Making:** Non-profit with CEO; likely facilities committee
 - **Building Age:** 115+ year history = lead certification highly valuable
-- **Quality Expectations:** High — award-winning facility with premium positioning
+- **Quality Expectations:** High -- award-winning facility with premium positioning
 - **Location:** Heart of Wauwatosa = accessible, urban setting
 - **Affiliation:** Lutheran = religious institution, typically merit-shop friendly
 
@@ -283,7 +283,7 @@
 3. Reference lead certification for historic buildings
 4. Propose annual maintenance agreement covering both campuses
 5. Highlight intergenerational programming = appreciation for community values
-6. **Priority:** HIGH — established non-profit, accessible decision-making, quality-focused
+6. **Priority:** HIGH -- established non-profit, accessible decision-making, quality-focused
 
 **Primary Contacts:**
 | Contact Point | Phone | Purpose |
@@ -314,7 +314,7 @@
 
 ### Priority Contact Matrix (All Operators)
 
-**TIER 1 — HIGH PRIORITY (Pursue Q1 2026):**
+**TIER 1 -- HIGH PRIORITY (Pursue Q1 2026):**
 
 | Operator | Primary Contact | Phone | Rationale |
 |----------|----------------|-------|-----------|
@@ -324,7 +324,7 @@
 | Lutheran Home | Facilities Director | (414) 258-6170 | Dual campus, 115+ year history |
 | Five Star Senior Living | Regional Maintenance | (414) 766-2100 | 6 SE WI facilities, portfolio opportunity |
 
-**TIER 2 — MEDIUM PRIORITY (Pursue Q2 2026):**
+**TIER 2 -- MEDIUM PRIORITY (Pursue Q2 2026):**
 
 | Operator | Primary Contact | Phone | Rationale |
 |----------|----------------|-------|-----------|
@@ -361,8 +361,8 @@
 - Oconomowoc Area Chamber of Commerce directory
 
 **Key Findings (Part 2):**
-1. **Atria Senior Living has no SE Wisconsin presence** — remove from prospect list
-2. **Five Star Senior Living operates 6 SE Wisconsin facilities** — significant portfolio opportunity
+1. **Atria Senior Living has no SE Wisconsin presence** -- remove from prospect list
+2. **Five Star Senior Living operates 6 SE Wisconsin facilities** -- significant portfolio opportunity
 3. **Three Pillars is Wisconsin's #1 ranked CCRC** with 300-acre campus and active expansion
 4. **Lutheran Home & Harwood Place** offers dual-campus, 115-year-old non-profit with premium reputation
 
@@ -376,4 +376,4 @@
 ---
 
 *Research compiled December 25, 2025 | LaBrant & Associates LLC Market Intelligence Project*
-*Thread 10 of 10 — Senior Living Operators (Part 2 of 2)*
+*Thread 10 of 10 -- Senior Living Operators (Part 2 of 2)*

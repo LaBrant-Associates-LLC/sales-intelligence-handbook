@@ -9,8 +9,8 @@
 |--------------|------------------|
 | **City of Milwaukee SBE** | 10% bid preference on contracts >$50K |
 | **City of Milwaukee SBE** | 25% participation goal on contracts >$25K |
-| **WisDOT DBE → County TBE** | 25% goal on Milwaukee County construction |
-| **Wisconsin DHS Lead** | Required for pre-1978 work—most competitors lack this |
+| **WisDOT DBE -> County TBE** | 25% goal on Milwaukee County construction |
+| **Wisconsin DHS Lead** | Required for pre-1978 work--most competitors lack this |
 
 ---
 

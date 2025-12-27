@@ -78,8 +78,8 @@ Recent tenant renovation: **Foley & Lardner** completed 165,000 SF renovation ac
 | **100 East Wisconsin** | 37 fl / 549' | ~500,000 | Converting to residential | Klein Development |
 | **411 East Wisconsin** | 30 fl / 408' | **697,000** | **Colliers** | 2nd largest office tower |
 | **BMO Tower** | 25 fl / 328' | 281,000 | Irgens Partners | Opened 2020 |
-| **Milwaukee Center** | 28 fl / 426' | 370,000 | — | Mixed-use |
-| **Associated Bank River Center** | 22 fl / 414' | — | — | — |
+| **Milwaukee Center** | 28 fl / 426' | 370,000 | -- | Mixed-use |
+| **Associated Bank River Center** | 22 fl / 414' | -- | -- | -- |
 
 ### Colliers Wisconsin: 411 East Wisconsin Center
 
@@ -109,7 +109,7 @@ Colliers Milwaukee: (414) colliers.com/en/united-states/cities/milwaukee
 
 ### The Opportunity
 
-Northwestern Mutual's **$500 million North Office Building modernization** includes committed small business participation goals—making this one of the largest private-sector SBE opportunities in Milwaukee.
+Northwestern Mutual's **$500 million North Office Building modernization** includes committed small business participation goals--making this one of the largest private-sector SBE opportunities in Milwaukee.
 
 ### Project Details
 
@@ -135,7 +135,7 @@ Northwestern Mutual's **$500 million North Office Building modernization** inclu
 
 ### Access Strategy
 
-**Critical:** CG Schmidt is a union-signatory general contractor—typically not ideal for non-union subs. However, the explicit **25% SBE commitment** creates opportunity:
+**Critical:** CG Schmidt is a union-signatory general contractor--typically not ideal for non-union subs. However, the explicit **25% SBE commitment** creates opportunity:
 
 1. Contact **Cross Management Services** (SBE recruiter for project)
 2. Register as SBE vendor with project team
@@ -160,7 +160,7 @@ Northwestern Mutual's **$500 million North Office Building modernization** inclu
 
 ### Scheels Project: Major Opportunity
 
-**Scheels is building a 210,000 SF sporting goods store** at Mayfair Mall in the former Boston Store space—one of the largest retail projects in SE Wisconsin.
+**Scheels is building a 210,000 SF sporting goods store** at Mayfair Mall in the former Boston Store space--one of the largest retail projects in SE Wisconsin.
 
 | Element | Details |
 |---------|---------|
@@ -190,8 +190,8 @@ A 210,000 SF sporting goods store will have significant painting needs:
 | Mall | Owner | Location | Notes |
 |------|-------|----------|-------|
 | **Bayshore** | Cypress Equities | Glendale | 997,844 SF, renovated 2020 |
-| **Brookfield Square** | — | Brookfield | Irgens redeveloping former Boston Store site |
-| **Southridge** | — | Greendale | Under various redevelopment |
+| **Brookfield Square** | -- | Brookfield | Irgens redeveloping former Boston Store site |
+| **Southridge** | -- | Greendale | Under various redevelopment |
 
 ---
 
@@ -235,7 +235,7 @@ Milwaukee County maintains a **Time & Materials contract pool for MKE Airport** 
 
 | Name | Role | Phone | Email |
 |------|------|-------|-------|
-| Airport Engineering | Project coordination | — | james.hart@milwaukeecountywi.gov |
+| Airport Engineering | Project coordination | -- | james.hart@milwaukeecountywi.gov |
 
 **Registration:** Bid Express (bidexpress.com/businesses/24937/home)
 
@@ -426,7 +426,7 @@ Unlike municipal bidding, private property maintenance typically works through:
 | 3rd Floor Renovation | **$100 million** | **Gilbane** | Completed Sept 2023 |
 | Hotel Tower 2 Expansion | $190M total | **Greenfire Management** | Completed 2019 |
 | Original Hotel Tower | $150 million | Gilbane | 2014 |
-| 2008 Casino Expansion | $240 million | — | 2008 |
+| 2008 Casino Expansion | $240 million | -- | 2008 |
 
 ### 3rd Floor Renovation Scope (2023)
 
@@ -481,7 +481,7 @@ Ongoing maintenance across massive facility:
 |----------|----------|----------|
 | Corporate Headquarters | Juneau Avenue | Offices, training |
 | Pilgrim Road Plant | Menomonee Falls | Engine/transmission manufacturing |
-| Product Development Center | — | R&D |
+| Product Development Center | -- | R&D |
 
 ### Hunzinger's Relationship
 
@@ -498,11 +498,11 @@ Hunzinger has been Harley-Davidson's construction manager and contractor since 1
 - Snow removal
 - Event support
 
-**Recent Job Posting:** Facilities Engineer for Juneau Ave campus including Davidson Park—indicates active facilities management with third-party vendor oversight.
+**Recent Job Posting:** Facilities Engineer for Juneau Ave campus including Davidson Park--indicates active facilities management with third-party vendor oversight.
 
 ### Access Strategy
 
-**Note:** Hunzinger is a **union-signatory GC**—not typically a path for non-union subs. However:
+**Note:** Hunzinger is a **union-signatory GC**--not typically a path for non-union subs. However:
 1. Direct relationship with Harley-Davidson Facilities may be possible for smaller maintenance work
 2. Contact Facilities Planning for vendor registration
 3. Historic buildings may have lead paint requiring DHS-certified contractors
@@ -575,7 +575,7 @@ Multiple expansions: 1919, 1927, 1943, 1948, 1958, 1962, 1964, 1969
 
 ### Access Strategy
 
-Corporate facilities management—contact through general reception or LinkedIn for Facilities Manager.
+Corporate facilities management--contact through general reception or LinkedIn for Facilities Manager.
 
 ---
 

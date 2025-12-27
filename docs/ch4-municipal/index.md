@@ -4,7 +4,16 @@
 
 ---
 
-## 12-Month Pipeline: $1.0M–$2.2M
+## Minimum Viable Play
+
+1. **Register on all 4 platforms** -- [VendorNet](https://esupplier.wi.gov), [DemandStar](https://demandstar.com), [QuestCDN](https://questcdn.com), [Bonfire](https://cityofmilwaukee.bonfirehub.com)
+2. **Set NIGP codes** -- 910-54 (Painting Maintenance), 914-61 (Painting Construction)
+3. **Weekly scan** -- Monday morning, 15 minutes per platform
+4. **Template email** -- "We are a certified SBE/DBE commercial painting contractor interested in upcoming painting opportunities."
+
+---
+
+## 12-Month Pipeline: $1.0M-$2.2M
 
 ---
 

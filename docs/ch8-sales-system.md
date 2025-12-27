@@ -1,6 +1,17 @@
-# Chapter 6: Internal Sales Data
+# Chapter 8: Sales System & CRM
 
 **Financial Performance, Job Profitability, and Pricing**
+
+---
+
+## Related Tools
+
+| Resource | Purpose | Link |
+|----------|---------|------|
+| Quick Reference | 1-page field card | [Quick Reference](attachments/quick-reference.md) |
+| Financial Analysis | Job profitability, GC tiers | [ATT-A Financial](attachments/att-a-financial.md) |
+| Competitor Intelligence | Suburban Drywall analysis | [ATT-F Competitors](attachments/att-f-competitors.md) |
+| GC Pipeline | Active bid tracking | [GC Pipeline Intelligence](attachments/gc-pipeline-intelligence.md) |
 
 ---
 
@@ -57,7 +68,7 @@
 
 **Risk:** Nearly 70% of labor is subcontracted, limiting margin control.
 
-**Opportunity:** Each 10% shift from subs to internal could add $150K–$200K to profit.
+**Opportunity:** Each 10% shift from subs to internal could add $150K-$200K to profit.
 
 ---
 
@@ -66,16 +77,16 @@
 | Job Size | Count | Revenue | Avg Margin | Profit/Job |
 |----------|-------|---------|------------|------------|
 | Under $50K | 40 | $752K | 26.8% | $2,860 |
-| **$50K–$100K** | 15 | $1.08M | **53.0%** | **$37,697** |
-| $100K–$250K | 25 | $3.84M | 18.2% | $25,039 |
-| $250K–$500K | 11 | $4.25M | 25.9% | $90,913 |
+| **$50K-$100K** | 15 | $1.08M | **53.0%** | **$37,697** |
+| $100K-$250K | 25 | $3.84M | 18.2% | $25,039 |
+| $250K-$500K | 11 | $4.25M | 25.9% | $90,913 |
 | **$500K+** | 7 | $6.38M | **34.6%** | **$346,958** |
 
 **Sweet Spots:**
-1. **$50K–$100K:** Highest margin efficiency (53%)
+1. **$50K-$100K:** Highest margin efficiency (53%)
 2. **$500K+:** Best absolute profit ($347K average)
 
-**Avoid:** $100K–$250K range showing weak 18.2% margin — investigate why.
+**Avoid:** $100K-$250K range showing weak 18.2% margin -- investigate why.
 
 ---
 
@@ -94,7 +105,7 @@
 | 9 | River Hills Apts | Ed Rose | $340,393 | $166,998 | 49.1% |
 | 10 | Merge Ashwaubenon | Greenfire | $266,586 | $136,954 | 51.4% |
 
-**Top 10 Combined:** $7,224,357 revenue → $3,121,197 profit (43.2% margin)
+**Top 10 Combined:** $7,224,357 revenue -> $3,121,197 profit (43.2% margin)
 
 ---
 
@@ -158,9 +169,9 @@ Both Arizona projects are losses:
 
 | Entry | Issue |
 |-------|-------|
-| SPLIT | -$698K — Cost allocation bucket, needs QB cleanup |
-| Corliss | -$243K — Billing vs. cost mismatch |
-| Stevens | -$115K — Unbilled work or data entry error |
+| SPLIT | -$698K -- Cost allocation bucket, needs QB cleanup |
+| Corliss | -$243K -- Billing vs. cost mismatch |
+| Stevens | -$115K -- Unbilled work or data entry error |
 
 **Total questionable losses:** ~$1,057,000
 
@@ -183,33 +194,33 @@ Both Arizona projects are losses:
 
 | Scope | Range |
 |-------|-------|
-| Per unit (turnkey) | $1,500–$2,500 |
-| Common areas | 15–20% of unit total |
+| Per unit (turnkey) | $1,500-$2,500 |
+| Common areas | 15-20% of unit total |
 
 ### Senior Living
 
 | Scope | Range |
 |-------|-------|
-| Per unit | $1,800–$3,000 |
-| Common areas | 20–25% of unit total |
+| Per unit | $1,800-$3,000 |
+| Common areas | 20-25% of unit total |
 
 ### Commercial
 
 | Scope | Range |
 |-------|-------|
-| Basic retail (per SF) | $0.75–$1.50 |
-| High-end retail (per SF) | $1.50–$3.00 |
-| Warehouse basic (per SF) | $0.25–$0.50 |
-| Industrial coatings (per SF) | $2.00–$5.00 |
+| Basic retail (per SF) | $0.75-$1.50 |
+| High-end retail (per SF) | $1.50-$3.00 |
+| Warehouse basic (per SF) | $0.25-$0.50 |
+| Industrial coatings (per SF) | $2.00-$5.00 |
 
 ### Specialty
 
 | Scope | Range |
 |-------|-------|
-| Church (sanctuary) | $3.00–$6.00/SF |
-| Church (standard) | $1.50–$2.50/SF |
-| Self-storage | $25K–$75K/facility |
-| Dealership | $15K–$100K/location |
+| Church (sanctuary) | $3.00-$6.00/SF |
+| Church (standard) | $1.50-$2.50/SF |
+| Self-storage | $25K-$75K/facility |
+| Dealership | $15K-$100K/location |
 
 ---
 
@@ -227,8 +238,8 @@ Both Arizona projects are losses:
 ## Immediate Actions
 
 ### This Week
-1. Clean up QuickBooks — Investigate SPLIT, Corliss, Stevens entries
-2. Review Hyatt jobs — CL1 Properties relationship unprofitable
+1. Clean up QuickBooks -- Investigate SPLIT, Corliss, Stevens entries
+2. Review Hyatt jobs -- CL1 Properties relationship unprofitable
 3. Confirm no pending out-of-state bids
 
 ### Q1 2026

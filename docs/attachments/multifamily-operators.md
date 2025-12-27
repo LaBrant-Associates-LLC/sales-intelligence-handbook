@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-Wisconsin's multifamily market operates through **regional relationships rather than national vendor procurement systems**. Key finding: Most major national REITs (AvalonBay, Equity Residential, MAA, UDR, Camden, Essex) have **NO Wisconsin presence**—they focus on coastal and Sun Belt markets. This creates opportunity for local certification advantages.
+Wisconsin's multifamily market operates through **regional relationships rather than national vendor procurement systems**. Key finding: Most major national REITs (AvalonBay, Equity Residential, MAA, UDR, Camden, Essex) have **NO Wisconsin presence**--they focus on coastal and Sun Belt markets. This creates opportunity for local certification advantages.
 
 **2025 Milwaukee Market Outlook:**
 - Occupancy rate: 95.9% (6th nationally among major markets)
@@ -19,7 +19,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 
 ## TIER 1: Major Wisconsin Operators (1,000+ Units)
 
-### Berrada Properties Management — Milwaukee's Largest
+### Berrada Properties Management -- Milwaukee's Largest
 **Portfolio:** 9,000 apartments across Milwaukee/Racine metro
 **Structure:** 200+ LLCs under single ownership (Joe Berrada)
 **Focus:** Affordable workforce housing
@@ -35,7 +35,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 **Key Contacts:**
 - Brett K. Miller, VP
 - Stephen L. Ciesielski, Operations Manager
-**Painting Opportunity:** EXCELLENT—quality-oriented, Wisconsin-focused, long-term property maintenance philosophy
+**Painting Opportunity:** EXCELLENT--quality-oriented, Wisconsin-focused, long-term property maintenance philosophy
 
 ### Mandel Group, Inc.
 **Portfolio:** 6,240+ apartments managed
@@ -53,7 +53,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - DoMUS Apartments
 - Caroline Heights (237 units)
 - Norden Range (270 units)
-**Painting Opportunity:** PREMIUM—luxury market-rate focus, highest metro Milwaukee rents, substantial active pipeline
+**Painting Opportunity:** PREMIUM--luxury market-rate focus, highest metro Milwaukee rents, substantial active pipeline
 
 ### Ogden & Company, Inc., AMO®
 **Position:** Wisconsin's largest full-service real estate organization
@@ -62,7 +62,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 **Services:** Property management, brokerage, development, maintenance
 **Key Division:** PMD Maintenance (in-house maintenance services)
 **Key Personnel:** Jason Pietsch, Managing Member, Ogden Multifamily Partners
-**Painting Opportunity:** EXCELLENT—90+ year history, integrated maintenance division indicates preference for quality vendors
+**Painting Opportunity:** EXCELLENT--90+ year history, integrated maintenance division indicates preference for quality vendors
 
 ### Wimmer Communities
 **Portfolio:** 4,021+ units, 25+ properties
@@ -71,7 +71,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - The Conservancy (New Berlin)
 - Poplar Creek Town Center (Brookfield)
 **AOMA Connection:** Theresa Bouton (AOMA President Elect)
-**Painting Opportunity:** STRONG—suburban presence, active pipeline, senior living alignment with LaBrant targets
+**Painting Opportunity:** STRONG--suburban presence, active pipeline, senior living alignment with LaBrant targets
 
 ### Weidner Apartment Homes (National with Significant Wisconsin Presence)
 **National:** 316+ communities, 69,000+ units (13 U.S. states + Canada)
@@ -83,7 +83,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - 515 @ Royster/Royster Commons (Madison, 2023)
 **Partnership:** UW-Stout Real Estate Property Management program
 **AOMA Connection:** John Bailey (Secretary/Treasurer)
-**Painting Opportunity:** STRONG—national operator with significant WI investment, continued acquisition activity
+**Painting Opportunity:** STRONG--national operator with significant WI investment, continued acquisition activity
 
 ### Capri Communities / Tarantino & Company (Senior Living Specialist)
 **Portfolio:** 43 senior living, independent, assisted, memory care and affordable housing communities
@@ -98,7 +98,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - Wilson Commons (Milwaukee)
 - ProHealth Regency locations (Brookfield, Muskego, New Berlin)
 **Awards:** Milwaukee Journal Sentinel Top Choice for Senior Living (2021-2024)
-**Painting Opportunity:** HIGH VALUE—self-develops properties, 43 communities create ongoing refresh/maintenance pipeline
+**Painting Opportunity:** HIGH VALUE--self-develops properties, 43 communities create ongoing refresh/maintenance pipeline
 
 ---
 
@@ -147,18 +147,18 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 
 ## MAJOR DEVELOPERS & DEVELOPMENT PIPELINE
 
-### New Land Enterprises — Premium Milwaukee Developer
+### New Land Enterprises -- Premium Milwaukee Developer
 **Portfolio:** 2,000 apartments, 200,000+ SF commercial
 **HQ:** 1840 N Farwell Ave, Ste 203, Milwaukee, WI 53202
 **Founded:** 1993 | **Developed:** $650M+ of projects
 **Leadership:** Tim Gokhman, Managing Director
 **Notable Innovation:** 
-- **The Ascent** — 25-story mass timber tower (world's tallest at completion)
+- **The Ascent** -- 25-story mass timber tower (world's tallest at completion)
 - Pioneered light gauge steel construction in Wisconsin
 - First to incorporate hydronic radiant heating
 **Walker's Point Portfolio:**
 - Trio (120 units, 2016)
-- Quartet (48 units, 2020) — 100% leased in 4 months
+- Quartet (48 units, 2020) -- 100% leased in 4 months
 - Element (66 units, 2022)
 - Via (86 units, under development)
 - Additional 65-unit project at 4th & Florida
@@ -168,11 +168,11 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - Rhythm (140 micro-apartments)
 - Kinetik (140 units, Bay View)
 **Origin:** Started as a painting and renovation company
-**Painting Opportunity:** EXCELLENT—quality-focused developer with proven track record, significant ongoing pipeline
+**Painting Opportunity:** EXCELLENT--quality-focused developer with proven track record, significant ongoing pipeline
 
 ### Klein Development / HKS Holdings
 **Active Projects:**
-- **100 East Tower Conversion** — 373 apartments from 35-story office tower
+- **100 East Tower Conversion** -- 373 apartments from 35-story office tower
   - Cost: $165 million
   - Location: 100 E. Wisconsin Ave
   - Timeline: Construction start October 2025, completion late 2027/early 2028
@@ -180,16 +180,16 @@ Wisconsin's multifamily market operates through **regional relationships rather 
   - TIF: $14.4 million approved
   - **GC: Oxeland Group + Stevens Construction** ← Merit-shop opportunity
   - Architect: Solomon Cordwell Buenz
-- Klein Hotel (130 rooms, 1709-23 N. Farwell Ave) — On hold
+- Klein Hotel (130 rooms, 1709-23 N. Farwell Ave) -- On hold
 **Leadership:**
 - Michael Klein (Klein Development)
 - Joe Klein (HKS Holdings)
 - Dennis Klein (father, C.D. Smith executive)
 **Partner:** John Vassallo (Mo's Restaurants)
 **Previous:** MKE Lofts (Posner Building conversion)
-**Painting Opportunity:** HIGH—major active pipeline, demonstrated use of merit-shop contractors
+**Painting Opportunity:** HIGH--major active pipeline, demonstrated use of merit-shop contractors
 
-### J. Jeffers & Co. — Historic Conversions Specialist
+### J. Jeffers & Co. -- Historic Conversions Specialist
 **Focus:** Historic building conversions, urban infill
 **HQ:** 207 E. Michigan St, Floor 1, Milwaukee, WI 53202
 **Leadership:** Joshua Jeffers, CEO
@@ -198,19 +198,19 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - **Deer District Block 5** (269 units + MATC fieldhouse, Milwaukee Bucks partnership)
 - Mackie Building (25 units)
 - Mitchell Building (60 apartments, in development)
-**Painting Opportunity:** EXCELLENT—active pipeline, historic renovation focus (DHS lead certification highly valuable), luxury positioning
+**Painting Opportunity:** EXCELLENT--active pipeline, historic renovation focus (DHS lead certification highly valuable), luxury positioning
 
 ### Barrett Lo Visionary Development
 **Major Projects:**
-- **Mayfair Mall South End** — 900 apartments in 4 towers over 10 years ($400M+)
-- **Greendale Former Boston Store** — 675 market-rate apartments + 20,000 SF retail
-**Painting Opportunity:** HIGH—massive long-term pipeline with phased construction
+- **Mayfair Mall South End** -- 900 apartments in 4 towers over 10 years ($400M+)
+- **Greendale Former Boston Store** -- 675 market-rate apartments + 20,000 SF retail
+**Painting Opportunity:** HIGH--massive long-term pipeline with phased construction
 
 ---
 
 ## MAJOR RETAIL & COMMERCIAL PROJECTS
 
-### Scheels at Mayfair Mall — Wauwatosa
+### Scheels at Mayfair Mall -- Wauwatosa
 **Project:** 210,000 SF sporting goods store in former Boston Store space
 **Developer:** Brookfield Properties (mall owner)
 **Location:** 2500 N. Mayfair Road, Wauwatosa
@@ -222,39 +222,39 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 **Jobs:** 500+ employees (one of Wauwatosa's largest employers)
 **Adjacent Development:** 900 apartments planned over next 12 years
 **Status:** Design Review Board approved exterior plans late 2025
-**Painting Opportunity:** INVESTIGATE—major renovation project, contact Brookfield Properties for subcontractor requirements
+**Painting Opportunity:** INVESTIGATE--major renovation project, contact Brookfield Properties for subcontractor requirements
 
 ### Granville Station (Former Northridge Mall)
 **Location:** North 76th Street and West Brown Deer Road
 **Status:** Demolition expected to wrap up fall 2025
 **Size:** 58 acres
 **Future:** City courting developers for industrial, commercial, and housing uses
-**Painting Opportunity:** LONG-TERM—monitor for redevelopment announcements
+**Painting Opportunity:** LONG-TERM--monitor for redevelopment announcements
 
 ---
 
 ## HOTEL DEVELOPMENT & RENOVATION PIPELINE
 
-### Hilton Milwaukee — $42M Renovation (COMPLETED December 2025)
+### Hilton Milwaukee -- $42M Renovation (COMPLETED December 2025)
 **Owner/Operator:** Marcus Hotels & Resorts
 **Location:** 509 W. Wisconsin Ave
 **Scope:** 554 guest rooms, 34,000 SF meeting/event space
 **Contractor:** Not identified (pursue for future Marcus projects)
 **Note:** West tower (175 rooms) being repositioned as The Marc Hotel
 
-### The Marc Hotel — Opening January 2026
+### The Marc Hotel -- Opening January 2026
 **Owner:** Marcus Hotels & Resorts
 **Location:** Hilton Milwaukee west wing
 **Rooms:** 175
 **Status:** Conversion from Hilton west tower
 
-### Moxy Milwaukee Downtown — Proposed
+### Moxy Milwaukee Downtown -- Proposed
 **Developer:** NCG Hospitality
 **Location:** Near Fiserv Forum
 **Rooms:** 162
 **Timeline:** Groundbreaking late 2025, opening 2027
 **Note:** NCG requires 25% DBE participation per project knowledge
-**Painting Opportunity:** HIGH—contact NCG Hospitality for subcontractor prequalification
+**Painting Opportunity:** HIGH--contact NCG Hospitality for subcontractor prequalification
 
 ### The Trade Hotel (COMPLETED 2023)
 **Developer:** NCG Hospitality
@@ -263,22 +263,22 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 **Awards:** MINA Opening of the Year Award, 2024 Milwaukee Business Journal Real Estate Award
 **Relevance:** Reference project for NCG relationship
 
-### Iron District Hotel — Under Construction
+### Iron District Hotel -- Under Construction
 **Size:** 140 rooms
 **Part of:** $160M mixed-use development (stadium + affordable apartments + event venue)
 **Timeline:** Stadium opening Spring 2025
 
 ### Other Hotel Pipeline:
-- Klein Development hotel (130 rooms, Farwell Ave) — On hold
+- Klein Development hotel (130 rooms, Farwell Ave) -- On hold
 - Various limited-service properties in development
 
 ---
 
 ## RELIGIOUS INSTITUTION RENOVATIONS
 
-### Church of Gesu — $10.1M Renovation (In Progress)
+### Church of Gesu -- $10.1M Renovation (In Progress)
 **Location:** 1145 W. Wisconsin Ave (Marquette campus)
-**Architect:** Henry C. Koch (1894) — National Register of Historic Places
+**Architect:** Henry C. Koch (1894) -- National Register of Historic Places
 **Scope:**
 - New flooring
 - New pews (old pews being donated/recycled)
@@ -289,32 +289,32 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - Lighting upgrades
 **Timeline:** Started November 2024, completion expected November 2025
 **GC:** CG Schmidt (union contractor - not a target)
-**Painting Subcontractor:** Unknown — INVESTIGATE
+**Painting Subcontractor:** Unknown -- INVESTIGATE
 **Specialty Work:** Inspired Artisans (Gianfranco/Gino Tassara) - woodwork
 **Note:** Mass continues in lower church during renovation
 
-### Trinity Evangelical Lutheran Church — Fire Restoration (Near Completion)
+### Trinity Evangelical Lutheran Church -- Fire Restoration (Near Completion)
 **Location:** Milwaukee
 **History:** Four-alarm fire May 2018 gutted historic building
 **Status:** Sanctuary complete enough for Reformation Vespers October 2024
 **Timeline:** Regular services resuming 2025 after final work completes
 
-### Divine Mercy Chapel — South Milwaukee (Recent)
+### Divine Mercy Chapel -- South Milwaukee (Recent)
 **GC:** Scherrer Construction (union contractor - for reference only)
 **Scope:** ADA ramp, choir section, organ cabinets, flooring, hardwood stair treads
 
-**Painting Opportunity:** Religious institutions represent a strong market segment—typically merit-shop friendly, relationship-driven decisions, repeat maintenance needs
+**Painting Opportunity:** Religious institutions represent a strong market segment--typically merit-shop friendly, relationship-driven decisions, repeat maintenance needs
 
 ---
 
 ## MERIT-SHOP GC INTELLIGENCE
 
-### Stevens Construction Corp. — PRIMARY TARGET
+### Stevens Construction Corp. -- PRIMARY TARGET
 **HQ:** 10 Terrace Ct, Suite 500, Madison, WI 53718 | (608) 222-5100
 **Offices:** Madison (HQ), Milwaukee, Minneapolis
 **Position:** One of largest GCs in Upper Midwest
 **Focus:** Multifamily, student living, senior facilities, hospitality, office, mixed-use
-**Philosophy:** **Merit Shop** — explicitly stated on website
+**Philosophy:** **Merit Shop** -- explicitly stated on website
 **Self-Performed Work:** Multi-unit structures, concrete structures
 **Recent Milwaukee-Area Projects:**
 - The Standard Madison (Galway Companies)
@@ -324,9 +324,9 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - **100 East Tower Conversion** (with Oxeland Group) ← ACTIVE
 **2024 Recognition:** Daily Reporter Top Projects (3 awards)
 **Prequalification:** Check website for bid opportunities
-**Painting Opportunity:** HIGHEST PRIORITY—merit-shop philosophy, strong multifamily focus, active SE Wisconsin pipeline
+**Painting Opportunity:** HIGHEST PRIORITY--merit-shop philosophy, strong multifamily focus, active SE Wisconsin pipeline
 
-### Greenfire Management Services — STRONG TARGET
+### Greenfire Management Services -- STRONG TARGET
 **HQ:** 3215 W. State Street, Suite 200, Milwaukee, WI 53208 | (414) 290-9400
 **Second Office:** 301 N 17th Ave, Ste 100, Wausau, WI 54401 | (715) 863-2510
 **Email:** info@greenfire.com
@@ -334,10 +334,10 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 **Status:** **Minority contractor certification** (tribal ownership)
 **Focus:** Multifamily, senior living, historic renovation, hospitality, education, government
 **Recent Projects:**
-- **Cornerstone Village** — 71 units for 55+ adults and adults with disabilities (ACTIVE 2025)
+- **Cornerstone Village** -- 71 units for 55+ adults and adults with disabilities (ACTIVE 2025)
   - Developer: Cardinal Capital Management + Trinity Housing Resources
   - Architect: Quorum Architects
-- 37th Street School Apartments — Historic school to senior living conversion (49 units)
+- 37th Street School Apartments -- Historic school to senior living conversion (49 units)
 - Potawatomi Casino | Hotel: Project First Strike
 - SoftwareONE Milwaukee
 - Wgema Campus historic renovation
@@ -345,32 +345,32 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - The Residences at Zuelke
 **Markets:** Oshkosh, Appleton, Green Bay, Oak Creek, Oconomowoc, Milwaukee, Wauwatosa, Mount Pleasant, Racine
 **2024 Recognition:** Milwaukee Business Journal Real Estate Awards (2 projects), Daily Reporter Top Projects (4 projects)
-**Painting Opportunity:** HIGH—minority-owned status aligns with diversity participation requirements, strong senior living and multifamily portfolio
+**Painting Opportunity:** HIGH--minority-owned status aligns with diversity participation requirements, strong senior living and multifamily portfolio
 
-### VJS Construction Services — STRONG TARGET
+### VJS Construction Services -- STRONG TARGET
 **HQ:** W233 N2847 Roundy Circle West, Pewaukee, WI 53188
 **Position:** Top 10 Wisconsin GC
 **Focus:** Senior living (CCRC, skilled care, CBRF, RCAC, independent living), education, corporate office, condominiums, manufacturing, retail, medical, religious, government
 **Service Area:** Milwaukee, Waukesha, Ozaukee, Dodge, Washington, Jefferson, Walworth, Racine, Kenosha counties
 **Special Projects Division:** Specialists in smaller-scale interior and exterior projects
 **Recent Projects:**
-- **Evoni Apartments** — $62M, 261 units, Milwaukee (Kaeding Development Group)
-- **Milwaukee County North Garage** — 50,578 SF maintenance facility (ACTIVE)
-- St. Augustine Preparatory Academy Elementary School — 123,000 SF (2024 MBJ Real Estate Award)
+- **Evoni Apartments** -- $62M, 261 units, Milwaukee (Kaeding Development Group)
+- **Milwaukee County North Garage** -- 50,578 SF maintenance facility (ACTIVE)
+- St. Augustine Preparatory Academy Elementary School -- 123,000 SF (2024 MBJ Real Estate Award)
 **MSOE Partnership:** Construction Management and Civil Engineering education
-**Painting Opportunity:** STRONG—merit-shop, strong senior living expertise aligns with target markets, Special Projects division handles smaller scope work
+**Painting Opportunity:** STRONG--merit-shop, strong senior living expertise aligns with target markets, Special Projects division handles smaller scope work
 
-### Catalyst Construction — TARGET
+### Catalyst Construction -- TARGET
 **Focus:** Private/parochial K-12 schools, commercial
 **Relevance:** Listed in project instructions as merit-shop GC for private schools
 **Painting Opportunity:** INVESTIGATE for school projects outside public K-12
 
-### Moore Construction — TARGET
+### Moore Construction -- TARGET
 **Focus:** Senior living
 **Relevance:** Listed in project instructions as merit-shop GC for senior living
 **Painting Opportunity:** INVESTIGATE for senior living projects
 
-### McShane Construction — TARGET  
+### McShane Construction -- TARGET  
 **Focus:** Senior living, multifamily
 **Relevance:** Listed in project instructions as merit-shop GC
 **Painting Opportunity:** INVESTIGATE for senior living and multifamily projects
@@ -404,7 +404,7 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 - CAM/CAMT training programs
 - IREM Spring Seminar
 
-**Painting Opportunity:** HIGH VALUE—membership provides direct access to decision-makers controlling 50,000+ units. Professional Service member category available for suppliers.
+**Painting Opportunity:** HIGH VALUE--membership provides direct access to decision-makers controlling 50,000+ units. Professional Service member category available for suppliers.
 
 ---
 
@@ -421,22 +421,22 @@ Wisconsin's multifamily market operates through **regional relationships rather 
 **National:** 26,000+ apartments, $8B AUM
 **Wisconsin:** Preserve West (Madison, 318 units, acquired 2022)
 **Midwest Contact:** Jeff England (VP Multifamily, Western portfolio including WI)
-**Painting Opportunity:** MODERATE—recent market entrant, monitor for expansion
+**Painting Opportunity:** MODERATE--recent market entrant, monitor for expansion
 
 ### RMK Management Corp (Midwest Focus)
 **Position:** One of Midwest's largest market-rate management firms
 **Wisconsin:** 42 Hundred on the Lake (St. Francis, 236 luxury units)
 **Awards:** 2024 AOMA TOBY Award winner
-**Painting Opportunity:** STRONG—quality-focused Midwest operator
+**Painting Opportunity:** STRONG--quality-focused Midwest operator
 
 ---
 
 ## MARKET INTELLIGENCE: 2025 CONSTRUCTION OUTLOOK
 
 ### Milwaukee Multifamily Market
-- **Occupancy:** 95.9% (Q4 2024) → 96.0% projected (Q4 2025)
-- **Average Rent:** ~$1,400 (Q4 2024) → $1,439 projected (Q4 2025)
-- **Rent Growth:** 2.5% (2024) → 2.9-3.2% projected (2025)
+- **Occupancy:** 95.9% (Q4 2024) -> 96.0% projected (Q4 2025)
+- **Average Rent:** ~$1,400 (Q4 2024) -> $1,439 projected (Q4 2025)
+- **Rent Growth:** 2.5% (2024) -> 2.9-3.2% projected (2025)
 - **New Supply:** Declining 40% vs 2024 (lowest since 2015)
 - **Construction Starts:** 49% decline (only ~1,500 units started in 2024)
 
@@ -475,7 +475,7 @@ Per Daily Reporter/AGC Survey:
 | Capri Communities | Kristin Ferge (President & CFO) | Direct outreach |
 | Berrada Properties | Proceed with caution | Compliance oversight in place |
 
-### Merit-Shop GCs — Subcontractor Outreach
+### Merit-Shop GCs -- Subcontractor Outreach
 | GC | Contact Method | Priority Projects |
 |----|----------------|-------------------|
 | Stevens Construction | (608) 222-5100, website bid opportunities | 100 East, multifamily pipeline |
@@ -518,13 +518,13 @@ Per Daily Reporter/AGC Survey:
 
 3. **Merit-shop GCs dominate the opportunity set:** Stevens, Greenfire, VJS have active pipelines in target markets.
 
-4. **100 East Tower ($165M conversion)** represents a major near-term opportunity—Stevens Construction confirmed as co-GC.
+4. **100 East Tower ($165M conversion)** represents a major near-term opportunity--Stevens Construction confirmed as co-GC.
 
 5. **Capri Communities' vertically integrated model** (Tarantino & Company development arm) creates ongoing pipeline across 43 properties.
 
-6. **Historic conversions favor DHS lead certification**—J. Jeffers, Klein Development, 100 East all involve pre-1978 buildings.
+6. **Historic conversions favor DHS lead certification**--J. Jeffers, Klein Development, 100 East all involve pre-1978 buildings.
 
-7. **Senior living market strength:** Capri, VJS, Greenfire all have active senior living portfolios—aligns perfectly with LaBrant target markets.
+7. **Senior living market strength:** Capri, VJS, Greenfire all have active senior living portfolios--aligns perfectly with LaBrant target markets.
 
 ---
 

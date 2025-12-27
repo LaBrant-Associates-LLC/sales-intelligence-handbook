@@ -4,7 +4,7 @@
 
 ---
 
-This document identifies **recurring maintenance painting opportunities** at large public facilities—distinct from new construction. These facilities have ongoing maintenance cycles for handrails, steel, fencing, bleachers, signage, and building components that create predictable annual work regardless of capital project status.
+This document identifies **recurring maintenance painting opportunities** at large public facilities--distinct from new construction. These facilities have ongoing maintenance cycles for handrails, steel, fencing, bleachers, signage, and building components that create predictable annual work regardless of capital project status.
 
 ---
 
@@ -14,9 +14,9 @@ This document identifies **recurring maintenance painting opportunities** at lar
 |----------------|-----------------|--------------|-------------|
 | **Milwaukee County Facilities** | T&M Contract Pool ("Contract 5: Painting") | 25% TBE | Tom Travia (414) 278-4770 |
 | **Milwaukee County Zoo** | T&M maintenance contracts | **65% TBE goal** | Zoo Facilities Management |
-| **American Family Field** | Structural steel painting ($8M+ initial work) | — | WI Baseball Park District |
+| **American Family Field** | Structural steel painting ($8M+ initial work) | -- | WI Baseball Park District |
 | **State Fair Park** | Routine facility maintenance | 25% minority/5% women | Ken Jaeger, Sr. Dir. Facilities |
-| **Wisconsin Center District** | Baird Center, Miller High Life Theatre, Panther Arena | — | WCD Facilities |
+| **Wisconsin Center District** | Baird Center, Miller High Life Theatre, Panther Arena | -- | WCD Facilities |
 
 ---
 
@@ -75,7 +75,7 @@ The current contract pool was bid in **March 2019** (Project 5702-19404). These 
 
 ### The Opportunity
 
-The Milwaukee County Zoo has a **published 65% TBE goal for time and materials contracts**—the highest TBE target identified in this research. This applies to routine maintenance work.
+The Milwaukee County Zoo has a **published 65% TBE goal for time and materials contracts**--the highest TBE target identified in this research. This applies to routine maintenance work.
 
 ### Facility Profile
 
@@ -165,7 +165,7 @@ Initial work budget: **$8 million**
 
 ### Certification Considerations
 
-The Stadium District is a special purpose district—verify whether your certifications apply. The state has a 5% minority business goal for certain procurements.
+The Stadium District is a special purpose district--verify whether your certifications apply. The state has a 5% minority business goal for certain procurements.
 
 ### Work Timing
 
@@ -217,8 +217,8 @@ State Fair Park maintains extensive facilities with **25% minority business goal
 
 ### Timing Considerations
 
-- State Fair occurs in August—major prep work in June/July
-- Off-season (September–May) best for interior and structural work
+- State Fair occurs in August--major prep work in June/July
+- Off-season (September-May) best for interior and structural work
 - RV Park and Youth Center operate year-round
 
 ---
@@ -406,7 +406,7 @@ Via Milwaukee County Facilities Management or Parks Planning & Development divis
 
 | Finding | Implication |
 |---------|-------------|
-| Milwaukee County Zoo has **65% TBE goal** for T&M contracts | Highest certification advantage identified—pursue aggressively |
+| Milwaukee County Zoo has **65% TBE goal** for T&M contracts | Highest certification advantage identified--pursue aggressively |
 | Milwaukee County "Contract 5: Painting" pool exists | Get on approved vendor list for callout work |
 | American Family Field maintenance includes **structural steel painting** | Monitor Stadium District RFPs; $8M+ initial work package |
 | State Fair Park has **25% minority/5% women** goals | Contact Ken Jaeger for facilities vendor qualification |

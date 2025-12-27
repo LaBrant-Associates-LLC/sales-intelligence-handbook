@@ -454,4 +454,16 @@ Electric bus facilities require:
 
 ---
 
+## Entry Play
+
+Register for Milwaukee County T&M Contract 5 (Painting) immediately. This creates the fastest path to MCTS facility work through existing county procurement pools.
+
+## Useful Links & Contacts
+
+- [Milwaukee County Municipal](../ch4-municipal/milwaukee-county.md)
+- [Public Facilities Research](../attachments/public-facilities.md)
+- MCTS Procurement: (414) 935-3232
+
+---
+
 *Transit facilities represent a specialized market with certification advantages. Milwaukee County's 25% TBE participation goals create competitive advantage for certified contractors. Build relationships now before major electric bus infrastructure investments.*

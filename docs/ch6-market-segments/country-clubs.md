@@ -409,4 +409,16 @@ Private clubs typically expect:
 
 ---
 
+## Entry Play
+
+Contact Ozaukee Country Club immediately about their 2026 clubhouse renovation. One successful club project generates referrals across the interconnected membership network.
+
+## Useful Links & Contacts
+
+- [Large Facility Owners](../ch7-large-owners.md)
+- [New Market Development](../attachments/new-market-development.md)
+- Club Managers Association: cmaa.org
+
+---
+
 *This market segment represents significant opportunity for contractors willing to invest in relationship-building and deliver premium service. The decentralized, relationship-driven procurement process favors established local contractors over large national firms.*

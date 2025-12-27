@@ -4,6 +4,16 @@ This chapter identifies merit-shop general contractors in SE Wisconsin worth pur
 
 ---
 
+## Top Moves This Month
+
+1. Follow up on $2.95M Stevens pipeline -- proposals pending >14 days
+2. Schedule Q1 planning call with Greenfire (Jeb Meier)
+3. Submit prequalification to Moore Construction
+4. Register on VJS subcontractor portal
+5. Close out Horizon proposals -- pricing review needed
+
+---
+
 ## Quick Navigation
 
 | Section | Description |
@@ -18,4 +28,4 @@ This chapter identifies merit-shop general contractors in SE Wisconsin worth pur
 
 **Data Export:** See `Chapter_1_Projects_Zoho_Import.csv` for CRM import
 
-**Total Pipeline:** $9.1M – $16.1M across 48 projects
+**Total Pipeline:** $9.1M - $16.1M across 48 projects

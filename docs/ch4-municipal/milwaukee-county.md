@@ -1,7 +1,17 @@
 [← Back to Municipal Markets](index.md)
 
-
 ## Milwaukee County
+
+---
+
+## Where to Register
+
+- **Platform:** B2GNow compliance system
+- **Owner:** Sean Hayes, P.E., Facilities Management
+- **Phone:** (414) 278-4940
+- **Our Status:** TBE via DBE reciprocity
+
+---
 
 ### Certification Advantage
 
@@ -63,7 +73,7 @@ BidExpress: bidexpress.com/businesses/24937/home
 
 ### Why Priority
 
-**65% TBE participation goal** — highest in the region.
+**65% TBE participation goal** -- highest in the region.
 
 ### Facility
 

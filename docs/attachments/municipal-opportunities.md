@@ -5,7 +5,7 @@ A commercial painting contractor with DBE (WisDOT), SBE (City of Milwaukee), and
 
 ## The bidding landscape centers on four key platforms
 
-Nearly all municipal painting contracts in southeastern Wisconsin flow through four primary bidding systems. **Wisconsin VendorNet** (vendornet.wi.gov) is the state's official procurement portal—registration is free at eSupplier.wi.gov and covers state agencies plus many municipalities. **DemandStar** provides free access to Wisconsin Association for Public Procurement (WAPP) member agencies, including Milwaukee County, Racine County, Washington County, Waukesha County (public works), Fond du Lac County, and Dodge County. Register at demandstar.com/app/wapp/registration and select WAPP for complimentary access. **QuestCDN** handles construction documents for cities including Brookfield, New Berlin, Oak Creek, Kenosha, and Oconomowoc. **Bonfire** serves City of Milwaukee, Milwaukee County, Waukesha County (general services), and Walworth County.
+Nearly all municipal painting contracts in southeastern Wisconsin flow through four primary bidding systems. **Wisconsin VendorNet** (vendornet.wi.gov) is the state's official procurement portal--registration is free at eSupplier.wi.gov and covers state agencies plus many municipalities. **DemandStar** provides free access to Wisconsin Association for Public Procurement (WAPP) member agencies, including Milwaukee County, Racine County, Washington County, Waukesha County (public works), Fond du Lac County, and Dodge County. Register at demandstar.com/app/wapp/registration and select WAPP for complimentary access. **QuestCDN** handles construction documents for cities including Brookfield, New Berlin, Oak Creek, Kenosha, and Oconomowoc. **Bonfire** serves City of Milwaukee, Milwaukee County, Waukesha County (general services), and Walworth County.
 
 For immediate action: Register on all four platforms within one week. Select NIGP commodity codes **910-54** (Painting, Maintenance and Repair Services) and **914-61** (Painting, Building Construction Services) for automatic bid notifications.
 
@@ -35,11 +35,11 @@ Milwaukee County's **Targeted Business Enterprise (TBE) program** sets **25% par
 Registration requires four separate systems: **Infor Supplier Portal** for financial transactions, **Bonfire** at countymilwaukee.bonfirehub.com for bid submissions, **E-Notify** for notifications, and **B2GNow** at mke.diversitycompliance.com for diversity compliance tracking. All are free.
 
 **High-value county departments:**
-- **Facilities Management Division** maintains county buildings and courthouse complex—Contact Tom Travia at 414-278-4770
+- **Facilities Management Division** maintains county buildings and courthouse complex--Contact Tom Travia at 414-278-4770
 - **Department of Parks, Recreation and Culture** manages 15,000+ acres with numerous park structures at 9480 W. Watertown Plank Road, Wauwatosa
 - **Milwaukee Mitchell International Airport** has ongoing capital projects requiring painting contractors
 
-The county issues **Time & Material contracts** that include a separate **Contract 5: Painting** category—an ideal recurring opportunity for qualified contractors.
+The county issues **Time & Material contracts** that include a separate **Contract 5: Painting** category--an ideal recurring opportunity for qualified contractors.
 
 ## Major suburban cities each use different procurement approaches
 
@@ -58,7 +58,7 @@ The ten largest suburban cities within commuting distance of Milwaukee present s
 | Oak Creek | QuestCDN | oakcreekwi.gov |
 | Franklin | City website | franklinwi.gov |
 
-**Brookfield and New Berlin require prequalification**—bidders must submit qualification statements 5 days before bid opening. Prequalification remains valid January through December annually.
+**Brookfield and New Berlin require prequalification**--bidders must submit qualification statements 5 days before bid opening. Prequalification remains valid January through December annually.
 
 **Racine** offers additional advantage through its **Racine Works Program**, which provides local workforce preference. Contact the Purchasing Department at 730 Washington Ave., Room 102, Racine, WI 53403.
 
@@ -74,13 +74,13 @@ All 11 counties within 100 miles of Milwaukee have distinct procurement processe
 
 **Washington County** uses DemandStar and advertises in the West Bend Daily News and Daily Reporter. Bidder's Qualification Statement and insurance certificates required.
 
-**Walworth County** uses Bonfire and has **previously issued prequalification RFQs specifically for painting services**—seeking contractors with caulking, sealing, pressure washing, and quality assurance capabilities. This represents a direct prequalification opportunity worth pursuing immediately.
+**Walworth County** uses Bonfire and has **previously issued prequalification RFQs specifically for painting services**--seeking contractors with caulking, sealing, pressure washing, and quality assurance capabilities. This represents a direct prequalification opportunity worth pursuing immediately.
 
 **Fond du Lac County** uses DemandStar. Contact: 920-929-3143, shelby.kapitanski@fdlco.wi.gov.
 
 **Dane County** (Madison area, approximately 80 miles from Milwaukee) uses OpenGov e-Procurement at procurement.opengov.com/portal/countyofdane. Note: Annual registration fee required for bids over $5,000.
 
-**Ozaukee, Dodge, Jefferson, and Sheboygan Counties** have less formalized systems—monitor VendorNet and contact county administrators directly.
+**Ozaukee, Dodge, Jefferson, and Sheboygan Counties** have less formalized systems--monitor VendorNet and contact county administrators directly.
 
 ## Fire hydrant painting presents selective opportunities
 
@@ -96,11 +96,11 @@ Fire hydrant painting typically commands **$135-$175 per hydrant** for complete 
 **Wholesale water customers maintaining their own hydrants** (potential contract opportunities):
 Brown Deer, Butler, Greendale, Menomonee Falls, Mequon, New Berlin, Shorewood, Thiensville, Wauwatosa, and West Allis all maintain their own distribution systems and hydrants. Direct outreach to these water utilities may yield opportunities.
 
-**Milwaukee Water Works** serves Greenfield, Hales Corners, and St. Francis directly—these municipalities' hydrants fall under MWW's in-house program.
+**Milwaukee Water Works** serves Greenfield, Hales Corners, and St. Francis directly--these municipalities' hydrants fall under MWW's in-house program.
 
 ## Current bid opportunities and seasonal patterns
 
-As of December 23, 2025, **no actively open painting-specific municipal bids** were identified in the 100-mile radius. This reflects typical seasonal patterns—exterior painting work is bid primarily in **February through April** for spring/summer execution.
+As of December 23, 2025, **no actively open painting-specific municipal bids** were identified in the 100-mile radius. This reflects typical seasonal patterns--exterior painting work is bid primarily in **February through April** for spring/summer execution.
 
 **Near-term opportunities to monitor:**
 - **Milwaukee Public Schools**: Completed $20 million lead paint remediation in 99 schools (contractor: JCP Construction). Phase 2 cosmetic painting expected Spring 2026. Monitor mps.milwaukee.k12.wi.us for solicitations.
@@ -118,9 +118,9 @@ The company's three certifications provide distinct advantages across different 
 
 **WisDOT DBE certification** applies primarily to federally-funded transportation projects. Important update: As of October 2024, U.S. DOT requires recertification of all DBE firms; WisDOT has temporarily paused setting DBE goals for new contracts. Contact [email protected] for recertification status. However, the certification automatically qualifies as TBE for Milwaukee County projects.
 
-**City of Milwaukee SBE certification** provides the most direct bidding advantage: combined with LBE status, contractors receive **10% bid preference** on contracts over $50,000. The city requires 25% SBE participation on contracts over $25,000—creating subcontracting opportunities if pursuing larger prime contracts.
+**City of Milwaukee SBE certification** provides the most direct bidding advantage: combined with LBE status, contractors receive **10% bid preference** on contracts over $50,000. The city requires 25% SBE participation on contracts over $25,000--creating subcontracting opportunities if pursuing larger prime contracts.
 
-**Wisconsin DHS lead certification** represents a significant competitive moat. Wisconsin law requires certification for any renovation, repair, or painting in pre-1978 buildings that disturbs more than 6 square feet of interior or 20 square feet of exterior painted surface. Milwaukee's extensive pre-1978 building stock—including schools, municipal buildings, and public housing—makes this certification essential for substantial contract eligibility. Many competitors lack this certification.
+**Wisconsin DHS lead certification** represents a significant competitive moat. Wisconsin law requires certification for any renovation, repair, or painting in pre-1978 buildings that disturbs more than 6 square feet of interior or 20 square feet of exterior painted surface. Milwaukee's extensive pre-1978 building stock--including schools, municipal buildings, and public housing--makes this certification essential for substantial contract eligibility. Many competitors lack this certification.
 
 **Federal funding triggers:** CDBG-funded projects, EPA-funded water/wastewater projects (through Wisconsin DNR), and HUD-funded housing rehabilitation all require DBE good faith efforts and lead-safe work practices.
 
@@ -132,7 +132,7 @@ Municipalities under 25,000 population typically use informal quote processes ra
 
 **Washington County municipalities** (West Bend, Hartford, Germantown, Slinger, Jackson, Kewaskum): County uses DemandStar; individual municipalities typically require direct contact.
 
-**Walworth County municipalities** (Lake Geneva, Whitewater, Elkhorn, Delavan, East Troy): **Lake Geneva requires contractor prequalification by March 15 annually**—submit application early. Contact DPW at 262-248-6644.
+**Walworth County municipalities** (Lake Geneva, Whitewater, Elkhorn, Delavan, East Troy): **Lake Geneva requires contractor prequalification by March 15 annually**--submit application early. Contact DPW at 262-248-6644.
 
 **Sheboygan County municipalities** (Sheboygan, Sheboygan Falls, Plymouth, Kohler): City of Sheboygan posts bids at sheboyganwi.gov/departments/finance/project-bids/.
 
@@ -183,11 +183,11 @@ Municipalities under 25,000 population typically use informal quote processes ra
 | Oconomowoc Water | Josh Wellmann | 262-569-3199 | Hydrant painting |
 | Waukesha Water | nellifson@waukesha-water.com | 262-409-4461 | Hydrant program |
 | Wisconsin VendorNet | doawispro@wisconsin.gov | 800-482-7813 | State registration |
-| MMSD Procurement | mmsd.diversitycompliance.com | — | Sewer district |
+| MMSD Procurement | mmsd.diversitycompliance.com | -- | Sewer district |
 
 ## Conclusion
 
-The 100-mile Milwaukee radius contains approximately **150+ municipalities and 11 counties** with potential painting contract opportunities. The company's existing certifications—particularly the City of Milwaukee SBE—provide meaningful competitive advantages that most competitors cannot match. The **10% bid preference** on Milwaukee city contracts and **25% TBE goals** on Milwaukee County construction projects create structural advantages worth pursuing aggressively.
+The 100-mile Milwaukee radius contains approximately **150+ municipalities and 11 counties** with potential painting contract opportunities. The company's existing certifications--particularly the City of Milwaukee SBE--provide meaningful competitive advantages that most competitors cannot match. The **10% bid preference** on Milwaukee city contracts and **25% TBE goals** on Milwaukee County construction projects create structural advantages worth pursuing aggressively.
 
 Priority targets should include: City of Milwaukee (highest certification advantage), Milwaukee County (TBE recognition), Walworth County (painting prequalification list), and the dozen suburban municipalities purchasing wholesale water (hydrant painting potential). Registration on DemandStar and VendorNet will capture approximately 70% of formal bid notifications in the region.
 

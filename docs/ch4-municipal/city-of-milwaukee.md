@@ -1,7 +1,17 @@
 [← Back to Municipal Markets](index.md)
 
-
 ## City of Milwaukee
+
+---
+
+## Where to Register
+
+- **Platform:** [Bonfire](https://cityofmilwaukee.bonfirehub.com)
+- **Owner:** City of Milwaukee Purchasing
+- **Phone:** (414) 286-5553
+- **Our Status:** SBE + LBE certified
+
+---
 
 ### Registration Steps
 

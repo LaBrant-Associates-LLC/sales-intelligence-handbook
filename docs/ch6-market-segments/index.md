@@ -6,9 +6,9 @@
 
 ## Executive Summary
 
-Fragmented, relationship-driven markets with low union penetration. These are not experimental—they represent underserved segments where certification advantages and lead-safe capabilities create structural barriers to competition.
+Fragmented, relationship-driven markets with low union penetration. These are not experimental--they represent underserved segments where certification advantages and lead-safe capabilities create structural barriers to competition.
 
-**12-Month Pipeline: $800K–$1.6M**
+**12-Month Pipeline: $800K-$1.6M**
 
 ---
 
@@ -26,7 +26,7 @@ Fragmented, relationship-driven markets with low union penetration. These are no
 | Metric | Data |
 |--------|------|
 | Parishes | 190+ in 10-county area |
-| Campaign | "Love One Another" — $150 million capital |
+| Campaign | "Love One Another" -- $150 million capital |
 | Contact | Facilities Office, (414) 769-3300 |
 
 **Opportunity:** Parish capital campaigns fund deferred maintenance including painting. Individual parishes select their own contractors.
@@ -77,7 +77,7 @@ Catalyst dominates religious construction (merit-shop):
 
 ## Private Schools
 
-### Augustine Preparatory Academy — $104M Expansion
+### Augustine Preparatory Academy -- $104M Expansion
 
 | Metric | Data |
 |--------|------|
@@ -85,7 +85,7 @@ Catalyst dominates religious construction (merit-shop):
 | Value | $104 million (100% philanthropy) |
 | Timeline | Open August 2026 |
 | Scope | K-12 campus, two buildings |
-| Est. Painting | $1.5M–$3M |
+| Est. Painting | $1.5M-$3M |
 
 **Action:** Research GC on this project immediately.
 
@@ -104,14 +104,14 @@ Catalyst dominates religious construction (merit-shop):
 
 - Milwaukee added 87,000 SF of storage in 2024 (2.7% growth)
 - Almost exclusively non-union contractors
-- Construction costs: $25–$70/SF
+- Construction costs: $25-$70/SF
 
 ### Recent Activity
 
 | Facility | Size | Developer |
 |----------|------|-----------|
 | Wauwatosa Self Storage | 90,284 SF, 444 units | Midland Commercial |
-| One Stop Self Storage | 3742 W Wisconsin Ave | — |
+| One Stop Self Storage | 3742 W Wisconsin Ave | -- |
 
 ### Typical Scope
 
@@ -120,7 +120,7 @@ Catalyst dominates religious construction (merit-shop):
 - Climate-controlled areas
 - Office areas
 
-**Pricing:** $25K–$75K per facility
+**Pricing:** $25K-$75K per facility
 
 ---
 
@@ -143,7 +143,7 @@ Catalyst dominates religious construction (merit-shop):
 
 ### Target
 
-50,000–200,000 SF owner-occupied facilities where owners select contractors directly.
+50,000-200,000 SF owner-occupied facilities where owners select contractors directly.
 
 **GC:** Berghammer Construction specializes in industrial (Racine focus).
 
@@ -166,7 +166,7 @@ Manufacturers require brand compliance upgrades every 7-10 years. EV infrastruct
 
 Contact dealer principals or facilities managers directly. Dealerships often bypass traditional GC bidding.
 
-**Pricing:** $15K–$100K per location
+**Pricing:** $15K-$100K per location
 
 ---
 
@@ -180,7 +180,7 @@ Contact dealer principals or facilities managers directly. Dealerships often byp
 | Size | 210,000 SF |
 | Owner | Brookfield Properties (mall), Scheels (tenant) |
 | Timeline | Construction 2026, open Spring 2027 |
-| Est. Painting | $400K–$800K |
+| Est. Painting | $400K-$800K |
 
 **Scope:** 84 specialty shops, cafe, arcade, candy shop, specialty finishes.
 
@@ -200,7 +200,7 @@ Contact dealer principals or facilities managers directly. Dealerships often byp
 | Timeline | Phased over 10+ years |
 | TIF | $58 million approved Sept 2023 |
 
-**Est. Painting per Phase:** $150K–$300K per tower
+**Est. Painting per Phase:** $150K-$300K per tower
 
 ---
 
@@ -208,7 +208,7 @@ Contact dealer principals or facilities managers directly. Dealerships often byp
 
 ### Opportunity
 
-Annual turnover painting creates recurring revenue. Heavy May–August for student housing.
+Annual turnover painting creates recurring revenue. Heavy May-August for student housing.
 
 ### Target Companies
 
@@ -233,11 +233,11 @@ $120 million three-phase redevelopment:
 | Phase | Status | Details |
 |-------|--------|---------|
 | Phase 1 | Complete | Woodman's 100,000+ SF grocery |
-| Phase 2 | Active | **Pritchard Park Place Apartments** — 266 units, Berghammer GC |
+| Phase 2 | Active | **Pritchard Park Place Apartments** -- 266 units, Berghammer GC |
 | Phase 3 | Future | Restaurants and retail |
 
 **Berghammer Contact:** (262) 790-4750
-**Est. Painting:** $350K–$600K
+**Est. Painting:** $350K-$600K
 
 ---
 
@@ -250,7 +250,7 @@ $120 million three-phase redevelopment:
 | Phone | (414) 488-2912 |
 | Active | Good Hope Road Apartments (125-175 units) |
 | Partner | Stevens on 100 East Tower |
-| Est. Painting | $300K–$500K |
+| Est. Painting | $300K-$500K |
 
 ### The Annex Group (Indianapolis)
 
@@ -261,7 +261,7 @@ $120 million three-phase redevelopment:
 | Location | 3040 N. Dr. MLK Jr. Drive |
 | Value | $25.8 million, 75 units |
 | Financing | WHEDA 4% credits |
-| Est. Painting | $100K–$200K |
+| Est. Painting | $100K-$200K |
 
 ---
 
@@ -271,20 +271,20 @@ $120 million three-phase redevelopment:
 
 | GC | Projects | Est. Painting |
 |----|----------|---------------|
-| Moore Construction | Willow Run, Westerly, Artalia, Lumia | $950K–$1.75M |
-| Stevens Construction | 100 East Tower | $500K–$1M |
-| Berghammer | Pritchard Park, Synergy | $600K–$1M |
+| Moore Construction | Willow Run, Westerly, Artalia, Lumia | $950K-$1.75M |
+| Stevens Construction | 100 East Tower | $500K-$1M |
+| Berghammer | Pritchard Park, Synergy | $600K-$1M |
 | Catalyst | Churches, private schools | TBD |
 
 ### Developer Direct
 
 | Developer | Project | Est. Painting |
 |-----------|---------|---------------|
-| Sawall | Cudahy Applewood | $350K–$600K |
-| Oxeland | Good Hope Road | $300K–$500K |
-| Annex Group | Union at Rose Park | $100K–$200K |
-| NCG Hospitality | Moxy Milwaukee (25% DBE) | $150K–$300K |
-| Scheels | Mayfair Mall | $400K–$800K |
+| Sawall | Cudahy Applewood | $350K-$600K |
+| Oxeland | Good Hope Road | $300K-$500K |
+| Annex Group | Union at Rose Park | $100K-$200K |
+| NCG Hospitality | Moxy Milwaukee (25% DBE) | $150K-$300K |
+| Scheels | Mayfair Mall | $400K-$800K |
 
 ---
 
@@ -292,24 +292,24 @@ $120 million three-phase redevelopment:
 
 | Scope | Range |
 |-------|-------|
-| Church (sanctuary) | $3.00–$6.00/SF |
-| Church (standard) | $1.50–$2.50/SF |
-| Self-storage | $25K–$75K/facility |
-| Dealership | $15K–$100K/location |
-| Warehouse (basic) | $0.25–$0.50/SF |
-| Industrial coatings | $2.00–$5.00/SF |
+| Church (sanctuary) | $3.00-$6.00/SF |
+| Church (standard) | $1.50-$2.50/SF |
+| Self-storage | $25K-$75K/facility |
+| Dealership | $15K-$100K/location |
+| Warehouse (basic) | $0.25-$0.50/SF |
+| Industrial coatings | $2.00-$5.00/SF |
 
 ---
 
 ## Action Items
 
 ### This Week
-1. Call Berghammer (262-790-4750) — Pritchard Park apartments
-2. Call Catalyst (414-727-6840) — Church/school bid list
-3. Call Sawall Development (262-297-4444) — Cudahy Applewood status
+1. Call Berghammer (262-790-4750) -- Pritchard Park apartments
+2. Call Catalyst (414-727-6840) -- Church/school bid list
+3. Call Sawall Development (262-297-4444) -- Cudahy Applewood status
 
 ### January 2026
-4. Contact Annex Group (317-353-5735) — Union at Rose Park
+4. Contact Annex Group (317-353-5735) -- Union at Rose Park
 5. Research Aug Prep GC for $104M project
 6. Monitor Scheels/Mayfair for GC announcement
 7. Contact Archdiocese facilities office for parish leads

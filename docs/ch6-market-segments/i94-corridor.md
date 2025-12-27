@@ -468,4 +468,16 @@ These owners use **third-party property managers** for maintenance, creating:
 
 ---
 
+## Entry Play
+
+Contact HSA Commercial's leasing team to get on tenant improvement contractor list. As their 1.9M SF of spec warehouses lease up, they'll need painting for each new tenant buildout.
+
+## Useful Links & Contacts
+
+- [Industrial Private Research](../attachments/industrial-private.md)
+- [Large Property Owners](../attachments/large-property-owners.md)
+- HSA Commercial: hsacommercial.com
+
+---
+
 *The I-94 corridor represents a generational development opportunity. Speculative warehouse construction creates predictable painting demand as buildings are completed and leased. Position for both new construction and tenant improvement phases. Build property management relationships for long-term recurring business.*

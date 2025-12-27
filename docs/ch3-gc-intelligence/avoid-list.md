@@ -28,3 +28,16 @@ These exclusions apply even if short-term revenue appears attractive.
 **Policy:** Decline out-of-state work unless pricing includes 15%+ premium.
 
 ---
+
+## Excluded Market Segments
+
+| Segment | Rationale | Reference |
+|---------|-----------|-----------|
+| Public K-12 Schools | Union GC dominated | -- |
+| UW System | State prevailing wage, union preference | -- |
+| Data Centers | 100% union PLAs | [Data Centers (Avoid)](../attachments/att-g-data-centers.md) |
+| Fire Hydrants | 20 of 21 utilities handle in-house | -- |
+
+---
+
+*Last updated: 2025-12-27*

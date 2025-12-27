@@ -145,7 +145,7 @@ Both Arizona projects are losses:
 | 9 | 200721 - River Hills Apts | Ed Rose | $340,393 | $166,998 | 49.1% |
 | 10 | 220109 - Merge Ashwaubenon | Greenfire | $266,586 | $136,954 | 51.4% |
 
-**Top 10 Combined:** $7,224,357 revenue → $3,121,197 profit (43.2% margin)
+**Top 10 Combined:** $7,224,357 revenue -> $3,121,197 profit (43.2% margin)
 
 ---
 

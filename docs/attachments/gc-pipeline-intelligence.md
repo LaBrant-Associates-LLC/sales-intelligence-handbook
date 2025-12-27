@@ -221,7 +221,7 @@ Based on vertically integrated developers who self-perform construction manageme
 - 141 communities, 70,987 units across Midwest
 - 2 communities currently in Milwaukee market
 - Family-owned since 1921
-- Vertically integrated: land acquisition → construction → management
+- Vertically integrated: land acquisition -> construction -> management
 - HQ: Bloomfield Township, MI
 
 **Strategic Importance:** Similar model to FRED - handles all development phases internally. Strong existing relationship with excellent margin. Worth nurturing for renovation and new construction pipeline.

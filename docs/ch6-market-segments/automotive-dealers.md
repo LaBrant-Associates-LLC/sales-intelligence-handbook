@@ -443,4 +443,16 @@ Contact WADA for:
 
 ---
 
+## Entry Play
+
+Contact Russ Darrow Group corporate facilities (largest local ownership group with 14+ locations). One relationship opens doors to all their dealerships.
+
+## Useful Links & Contacts
+
+- [New Market Development](../attachments/new-market-development.md)
+- Wisconsin Auto & Truck Dealers Association: watda.org
+- Russ Darrow Group Corporate: (262) 796-2600
+
+---
+
 *Automotive dealerships represent a concentrated, high-value market segment. Focus on ownership groups for maximum efficiency. Manufacturer image programs create predictable renovation cycles. Build relationships at the corporate/group level for multi-location contracts.*

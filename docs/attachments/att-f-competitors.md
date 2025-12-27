@@ -3,7 +3,7 @@
 
 **Report Date:** December 25, 2025
 **Source:** Internal contact (salesman relationship)
-**Intelligence Classification:** HIGH VALUE — Direct competitor revenue data with GC contacts
+**Intelligence Classification:** HIGH VALUE -- Direct competitor revenue data with GC contacts
 
 ---
 
@@ -41,25 +41,25 @@ This single-week snapshot reveals Suburban Drywall's market position, GC relatio
 
 ## TIER 1: MAJOR COMMERCIAL PROJECTS (Immediate Painting Opportunities)
 
-### 1. Moore Construction Services — Willow Run Senior Living
+### 1. Moore Construction Services -- Willow Run Senior Living
 **Drywall Value:** $2,879,005
 **Phone:** 262-345-1280
 **GC HQ:** W146 N5650 Enterprise Avenue, Menomonee Falls, WI 53051
 
 **Research Findings:**
-- Moore Construction is a **merit-shop GC** — confirmed non-union, relationship-driven
+- Moore Construction is a **merit-shop GC** -- confirmed non-union, relationship-driven
 - Founded 2007, grown to $150M projected revenue (2025)
-- **Specializes in senior living and multifamily** — perfect alignment with LaBrant targets
+- **Specializes in senior living and multifamily** -- perfect alignment with LaBrant targets
 - Leadership: Mike Moore (President), Austin Moore (VP), Tom Smith (EVP)
-- Self-described: "90% of work through negotiated contracts" — relationship-based, not low-bid
+- Self-described: "90% of work through negotiated contracts" -- relationship-based, not low-bid
 
 **Active Projects Identified:**
-- The Westerly Senior Living (138 units, Pewaukee) — with Matter Development
-- Norden Range Apartments (Mandel Group) — clubhouse complete
+- The Westerly Senior Living (138 units, Pewaukee) -- with Matter Development
+- Norden Range Apartments (Mandel Group) -- clubhouse complete
 - Cedar Community projects (senior living duplexes)
 - Victory Christian Academy expansion
 - Tesla Milwaukee Service Center
-- St. Mary of the Hill (Hubertus) — religious institution
+- St. Mary of the Hill (Hubertus) -- religious institution
 
 **"Willow Run" Project Analysis:**
 - $2.9M drywall contract suggests **150-200+ unit senior living or multifamily project**
@@ -74,12 +74,12 @@ This single-week snapshot reveals Suburban Drywall's market position, GC relatio
 
 ---
 
-### 2. Sawall Development — Applewood Terrace
+### 2. Sawall Development -- Applewood Terrace
 **Drywall Value:** $2,454,000
 **Phone:** 262-297-4444
 
 **Research Findings:**
-- Limited public information available — indicates private developer
+- Limited public information available -- indicates private developer
 - $2.4M drywall contract suggests **large multifamily project (180-250+ units)**
 - Painting scope estimate: $350K-$600K+
 - "Applewood Terrace" naming convention suggests garden-style apartments
@@ -92,7 +92,7 @@ This single-week snapshot reveals Suburban Drywall's market position, GC relatio
 
 ---
 
-### 3. Oxeland Group — Good Hope Road Apartments
+### 3. Oxeland Group -- Good Hope Road Apartments
 **Drywall Value:** $1,949,295
 **Phone:** 414-488-2912
 **GC HQ:** 6737 W Washington St, Suite 3120, Milwaukee, WI 53214
@@ -102,7 +102,7 @@ This single-week snapshot reveals Suburban Drywall's market position, GC relatio
 - Founded by Rich Severson and Chris Schmidt
 - Portfolio includes: 7Seventy7 luxury apartments, Ascent, Easton, Milwaukee Marriott, MIAD Student Apartments
 - Strong multifamily and adaptive reuse expertise
-- **Merit-shop contractor** — not union signatory
+- **Merit-shop contractor** -- not union signatory
 
 **"Good Hope Road Apartments" Analysis:**
 - $1.95M drywall suggests **125-175+ unit project**
@@ -120,7 +120,7 @@ Oxeland is partnered with Stevens Construction on 100 East Tower. Building a rel
 
 ---
 
-### 4. The Annex Group — Union at Rose Park
+### 4. The Annex Group -- Union at Rose Park
 **Drywall Value:** $860,300
 **Phone:** 317-353-5735 (Indianapolis HQ)
 
@@ -129,7 +129,7 @@ Oxeland is partnered with Stevens Construction on 100 East Tower. Building a rel
 - Location: 3040 N. Dr. Martin Luther King Jr. Drive, Milwaukee (Harambee neighborhood)
 - 75 units: mix of 1BR, 2BR, 3BR + 12 townhome-style units
 - Completion: Winter 2026
-- **First Annex Group project in Wisconsin** — potential repeat client
+- **First Annex Group project in Wisconsin** -- potential repeat client
 - Financing: WHEDA 4% tax credits, $13.5M tax-exempt bonds, Advantage Capital equity
 
 **Diversity Requirements:**
@@ -150,7 +150,7 @@ Oxeland is partnered with Stevens Construction on 100 East Tower. Building a rel
 
 ---
 
-### 5. Grey Fox Holdings — Edgewood Condominiums
+### 5. Grey Fox Holdings -- Edgewood Condominiums
 **Drywall Value:** $311,000
 **Phone:** 414-791-4776
 
@@ -165,13 +165,13 @@ Oxeland is partnered with Stevens Construction on 100 East Tower. Building a rel
 
 ---
 
-### 6. Duffek Construction / Anderson Ashton — Christian Life Church
-**Drywall Value:** $284,990 (appears twice — split between contractors)
+### 6. Duffek Construction / Anderson Ashton -- Christian Life Church
+**Drywall Value:** $284,990 (appears twice -- split between contractors)
 **Duffek Phone:** 262-444-2270
 **Anderson Ashton Phone:** 262-786-4640
 
 **Analysis:**
-- Religious institution project — strong LaBrant target market
+- Religious institution project -- strong LaBrant target market
 - Design-build approach (Anderson Ashton = design, Duffek = construction)
 - Painting scope estimate: $40K-$80K
 
@@ -181,7 +181,7 @@ Oxeland is partnered with Stevens Construction on 100 East Tower. Building a rel
 
 ---
 
-### 7. Briohn Building Corporation — Engauge Rely
+### 7. Briohn Building Corporation -- Engauge Rely
 **Drywall Value:** $163,900
 **Phone:** 262-790-0500
 
@@ -233,7 +233,7 @@ These GCs appear on the Suburban report and align with LaBrant's target contract
 | Builder | Weekly Drywall | Phone | Notes |
 |---------|---------------|-------|-------|
 | Bielinski Homes | $69,605 | 262-548-5383 | 4 projects this week |
-| Cornerstone Development SE WI | $137,530 | 262-932-4188 | 7 projects — "GS" prefix |
+| Cornerstone Development SE WI | $137,530 | 262-932-4188 | 7 projects -- "GS" prefix |
 | Harbor Homes | $81,270 | 608-451-2929 | 6 projects |
 | Stepping Stone Homes | $40,780 | 262-505-0780 | 4 projects |
 | Korndoerfer Homes | $22,195 | 262-884-9550 | Single project |
@@ -325,11 +325,11 @@ Based on drywall contract values, estimated painting scope:
 
 This report provides:
 
-1. **Real-time market visibility** — Know which projects are actively bidding/building
-2. **GC relationship mapping** — Understand Suburban's key accounts
-3. **Pricing benchmarks** — Drywall values help calibrate painting estimates
-4. **Contact database** — 50+ GC phone numbers
-5. **Sales territory intelligence** — Understand market segmentation
+1. **Real-time market visibility** -- Know which projects are actively bidding/building
+2. **GC relationship mapping** -- Understand Suburban's key accounts
+3. **Pricing benchmarks** -- Drywall values help calibrate painting estimates
+4. **Contact database** -- 50+ GC phone numbers
+5. **Sales territory intelligence** -- Understand market segmentation
 
 **Recommendation:** Request ongoing access to similar reports. Monthly snapshots would provide invaluable pipeline intelligence.
 

@@ -1,14 +1,40 @@
-# Chapter 2: Multifamily & Hospitality
+# Chapter 5: Private Development
 
 **SE Wisconsin Apartments, Senior Living, and Hotels**
 
 ---
 
+## Top 10 Ecosystems
+
+| Developer/GC | Model | Why It Matters | Entry Point |
+|--------------|-------|----------------|-------------|
+| FRED | 6,500 units, vertically integrated | Volume, repeat work | Direct relationship |
+| Mandel Group | 6,240 units, high-end focus | Design-build, quality specs | GC subcontracting |
+| Capri / Tarantino | Self-perform construction | Direct owner relationship | [Senior Living Profiles](attachments/att-b-senior-living-1.md) |
+| Cardinal Capital | WHEDA tax credit specialist | Diversity requirements | GC subcontracting |
+| Fiduciary Real Estate | 48% margin history | Proven profitability | Existing relationship |
+| Horizon | Large pipeline, margin pressure | Volume opportunity | Pricing review needed |
+| General Capital | Affordable housing focus | WHEDA RPP requirements | GC subcontracting |
+| Wangard Partners | Mixed-use development | Urban infill projects | GC subcontracting |
+| Zilber | Industrial + multifamily | I-94 corridor | GC subcontracting |
+| Irgens | Commercial + mixed-use | Downtown Milwaukee | GC subcontracting |
+
+---
+
+## Related Attachments
+
+- [Senior Living Operators -- Part 1](attachments/att-b-senior-living-1.md)
+- [Senior Living Operators -- Part 2](attachments/att-c-senior-living-2.md)
+- [Developers -- Multifamily](attachments/developers-multifamily.md)
+- [Multifamily Operators](attachments/multifamily-operators.md)
+
+---
+
 ## Executive Summary
 
-Multifamily and hospitality represent the largest accessible market segment at $10M–$18M annually. Key insight: Wisconsin's multifamily market operates through **regional relationships**, not national vendor procurement systems. Most major national REITs have NO Wisconsin presence—they focus on coastal and Sun Belt markets.
+Multifamily and hospitality represent the largest accessible market segment at $10M-$18M annually. Key insight: Wisconsin's multifamily market operates through **regional relationships**, not national vendor procurement systems. Most major national REITs have NO Wisconsin presence--they focus on coastal and Sun Belt markets.
 
-**12-Month Pipeline: $1.6M–$3.0M**
+**12-Month Pipeline: $1.6M-$3.0M**
 
 ---
 
@@ -19,7 +45,7 @@ Multifamily and hospitality represent the largest accessible market segment at $
 | Occupancy Rate | 95.9% (6th nationally) |
 | Average Rent | ~$1,439/month projected Q4 2025 |
 | New Construction | Declining 40% vs 2024 (lowest since 2015) |
-| Rent Growth | 2.9–3.2% projected 2025 |
+| Rent Growth | 2.9-3.2% projected 2025 |
 
 **Strongest Submarkets:**
 1. Outlying Waukesha County: +4.1%
@@ -38,16 +64,16 @@ Multifamily and hospitality represent the largest accessible market segment at $
 |--------|------|
 | Portfolio | 6,500+ apartments, 30+ properties |
 | HQ | 789 N Water St, Suite 500, Milwaukee |
-| Model | Vertically integrated—develops, builds, manages own |
+| Model | Vertically integrated--develops, builds, manages own |
 | Key Contacts | Brett Miller (VP), Stephen Ciesielski (Ops Manager) |
 | Phone | (414) 226-4535 |
 
-**Why Excellent Margins:** FRED acts as their own GC—LaBrant works directly with FRED, no GC intermediary.
+**Why Excellent Margins:** FRED acts as their own GC--LaBrant works directly with FRED, no GC intermediary.
 
 **Active Pipeline:**
 | Project | Location | Units | Est. Painting |
 |---------|----------|-------|---------------|
-| West Bend Development | 2010-2012 S. River Road | 391 | $500K–$800K |
+| West Bend Development | 2010-2012 S. River Road | 391 | $500K-$800K |
 
 **Leadership Transition Alert:** Brett Miller retiring end 2027, Steve Bersell taking over January 2026. Optimal time to solidify relationship.
 
@@ -70,7 +96,7 @@ Multifamily and hospitality represent the largest accessible market segment at $
 
 ---
 
-### Capri Communities / Tarantino — Senior Living Specialist
+### Capri Communities / Tarantino -- Senior Living Specialist
 
 | Metric | Data |
 |--------|------|
@@ -97,7 +123,7 @@ Multifamily and hospitality represent the largest accessible market segment at $
 |--------|------|
 | Portfolio | 141 communities, 70,987 units across Midwest |
 | Milwaukee | 2 communities |
-| Model | Vertically integrated—similar to FRED |
+| Model | Vertically integrated--similar to FRED |
 
 **Action:** Strong existing relationship with excellent margin. Nurture for renovation and new construction pipeline.
 
@@ -112,27 +138,27 @@ Multifamily and hospitality represent the largest accessible market segment at $
 | Ownership | Arthur Sawall, Kevin Sawall |
 | Model | Self-develops AND self-manages |
 
-**Key Project — Cudahy Applewood:**
+**Key Project -- Cudahy Applewood:**
 - Value: $60 million
 - Units: 264 townhome apartments
-- Est. Painting: $350K–$600K
+- Est. Painting: $350K-$600K
 
 ---
 
 ### Klein Development / HKS Holdings
 
-**Key Project — 100 East Tower:**
+**Key Project -- 100 East Tower:**
 | Metric | Data |
 |--------|------|
 | Units | 373 apartments |
 | Cost | $165 million |
 | GC | Stevens Construction + Oxeland Group |
 | Timeline | Construction start Oct 2025, completion late 2027 |
-| Est. Painting | $500K–$1M |
+| Est. Painting | $500K-$1M |
 
 ---
 
-### J. Jeffers & Co. — Historic Conversions
+### J. Jeffers & Co. -- Historic Conversions
 
 | Metric | Data |
 |--------|------|
@@ -145,7 +171,7 @@ Multifamily and hospitality represent the largest accessible market segment at $
 - Deer District Block 5: 269 units
 - Mitchell Building: 60 apartments
 
-**Why Priority:** Historic renovation focus—DHS lead certification highly valuable.
+**Why Priority:** Historic renovation focus--DHS lead certification highly valuable.
 
 ---
 
@@ -155,32 +181,32 @@ Multifamily and hospitality represent the largest accessible market segment at $
 
 | Project | Units | Status | Est. Painting |
 |---------|-------|--------|---------------|
-| Bishops Woods (Brookfield) | 203 | Completing Dec 2025 | $250K–$400K |
-| Azura Mukwonago | 72 senior | Completing Dec 2025 | $100K–$175K |
-| The Apiary (West Allis) | 248 | Under construction | $350K–$600K |
-| The View at Huxley Yards | 303 | Under construction | $400K–$600K |
-| The Victoria at Huxley | 250 senior | Under construction | $350K–$500K |
+| Bishops Woods (Brookfield) | 203 | Completing Dec 2025 | $250K-$400K |
+| Azura Mukwonago | 72 senior | Completing Dec 2025 | $100K-$175K |
+| The Apiary (West Allis) | 248 | Under construction | $350K-$600K |
+| The View at Huxley Yards | 303 | Under construction | $400K-$600K |
+| The Victoria at Huxley | 250 senior | Under construction | $350K-$500K |
 
 **Wisconsin Contact:** Alison Gorham, VP & Director of Wisconsin Operations
 
 ---
 
-### Moore Construction — Senior Living Focus
+### Moore Construction -- Senior Living Focus
 
 | Project | Units | Est. Painting |
 |---------|-------|---------------|
-| Willow Run Senior Living | 150-200 | $400K–$700K |
-| The Westerly | 138 | $200K–$400K |
-| Artalia Bayside | 153 | $250K–$450K |
-| Lumia Mequon | 68 | $100K–$200K |
+| Willow Run Senior Living | 150-200 | $400K-$700K |
+| The Westerly | 138 | $200K-$400K |
+| Artalia Bayside | 153 | $250K-$450K |
+| Lumia Mequon | 68 | $100K-$200K |
 
 ---
 
 ## Hospitality Pipeline
 
-### NCG Hospitality — 25% DBE Requirement
+### NCG Hospitality -- 25% DBE Requirement
 
-**Critical:** NCG requires **25% SBE/DBE participation**—direct certification advantage.
+**Critical:** NCG requires **25% SBE/DBE participation**--direct certification advantage.
 
 **Moxy Milwaukee Downtown:**
 | Metric | Data |
@@ -189,7 +215,7 @@ Multifamily and hospitality represent the largest accessible market segment at $
 | Rooms | 162 |
 | Groundbreaking | Late 2025 |
 | Opening | 2027 |
-| Est. Painting | $150K–$300K |
+| Est. Painting | $150K-$300K |
 
 **Contact:** ncghospitality.com
 
@@ -212,14 +238,14 @@ Multifamily and hospitality represent the largest accessible market segment at $
 - Units: 248
 - Value: $38-40M
 - Completion: October 2026
-- Est. Painting: $350K–$600K
+- Est. Painting: $350K-$600K
 
 ### Axis Apartments (Greenfire Management)
 - Developer: F Street
 - Units: 147
 - Value: $37M
 - Completion: 2027
-- Est. Painting: $200K–$350K
+- Est. Painting: $200K-$350K
 
 ---
 
@@ -229,7 +255,7 @@ Multifamily and hospitality represent the largest accessible market segment at $
 - Units: 157 luxury apartments
 - GC: Greenfire Management Services
 - Completion: Summer 2027
-- Est. Painting: $200K–$350K
+- Est. Painting: $200K-$350K
 
 ### Vista Village (Three Leaf Partners)
 - Units: 153
@@ -260,9 +286,9 @@ Multifamily and hospitality represent the largest accessible market segment at $
 
 | Scope | Range |
 |-------|-------|
-| Per unit (multifamily) | $1,500–$2,500 |
-| Per unit (senior living) | $1,800–$3,000 |
-| Common areas | 15–25% of unit total |
+| Per unit (multifamily) | $1,500-$2,500 |
+| Per unit (senior living) | $1,800-$3,000 |
+| Common areas | 15-25% of unit total |
 
 ---
 
@@ -272,7 +298,7 @@ Multifamily and hospitality represent the largest accessible market segment at $
 |----------|---------|---------|-------|
 | 1 | Steve Bersell | FRED | (414) 226-4535 |
 | 1 | Alison Gorham | McShane | Madison office |
-| 2 | Carly Stevenson | Mandel Group | — |
+| 2 | Carly Stevenson | Mandel Group | -- |
 | 2 | Kristin Ferge | Capri Communities | (262) 798-1224 |
 | 3 | Kevin/Arthur Sawall | Sawall Development | (262) 297-4444 |
 
@@ -281,13 +307,13 @@ Multifamily and hospitality represent the largest accessible market segment at $
 ## Action Items
 
 ### This Week
-1. Contact McShane Wisconsin office (Alison Gorham) — The Apiary status
-2. Contact Greenfire — Axis Apartments and Harlow & Hem status
-3. Call Sawall Development — Cudahy Applewood GC status
+1. Contact McShane Wisconsin office (Alison Gorham) -- The Apiary status
+2. Contact Greenfire -- Axis Apartments and Harlow & Hem status
+3. Call Sawall Development -- Cudahy Applewood GC status
 
 ### January 2026
 4. Schedule meeting with FRED operations team for West Bend project
-5. Contact NCG Hospitality — Moxy Milwaukee subcontractor requirements
+5. Contact NCG Hospitality -- Moxy Milwaukee subcontractor requirements
 6. Research AOMA Professional Service membership
 
 ### Q1 2026

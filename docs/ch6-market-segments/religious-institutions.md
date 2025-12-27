@@ -472,4 +472,15 @@ For renovation/painting work on pre-1978 buildings:
 
 ---
 
+## Entry Play
+
+The Milwaukee Archdiocese $150M "All Things New" campaign is the single best entry point. Contact the Archdiocese facilities office to get on the approved contractor list for parish renovations.
+
+## Useful Links & Contacts
+
+- [New Market Development Research](../attachments/new-market-development.md)
+- Archdiocese of Milwaukee: (414) 769-3300
+
+---
+
 *The Archdiocese of Milwaukee represents a significant, underserved market for commercial painting contractors. Success requires patience, relationship-building, and demonstrated respect for sacred spaces. Lead certification provides meaningful competitive advantage.*

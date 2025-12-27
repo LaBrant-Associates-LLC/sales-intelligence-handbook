@@ -25,13 +25,13 @@ This chapter identifies merit-shop general contractors in SE Wisconsin worth pur
 
 | Metric | Value |
 |--------|-------|
-| Addressable Market | $15M–$25M annually |
-| Incremental Opportunity (12 mo) | $4.5M–$7.7M |
+| Addressable Market | $15M-$25M annually |
+| Incremental Opportunity (12 mo) | $4.5M-$7.7M |
 | Confidence Level | High |
 | Active Targets | 35+ |
 | Existing Relationships | 6 |
 | **Total Projects Identified** | **48** |
-| **Pipeline Value Range** | **$9.1M – $16.1M** |
+| **Pipeline Value Range** | **$9.1M - $16.1M** |
 
 ---
 
@@ -48,13 +48,13 @@ This chapter identifies merit-shop general contractors in SE Wisconsin worth pur
 
 | Target | Tier | Why It Matters | Est. 12-mo Pipeline | Projects |
 |--------|------|----------------|---------------------|----------|
-| Fiduciary (FRED) | Strategic | 48% margin, direct relationship, 9,500+ units | $500K–$800K | [Tier 1](strategic-partners.md#tier-1-active-pipeline-established-relationships) |
-| McShane Construction | Strategic | 42% margin, LAC partnership, 806 units in pipeline | $1.2M–$1.9M | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
-| MSP Real Estate | Strategic | 45% margin, 11 jobs, high volume | $200K–$400K | — |
-| Greenfire Management | Strategic | 37% margin, MBE-owned, never self-performs | $300K–$500K | [Tier 1](strategic-partners.md#tier-1-active-pipeline-established-relationships) |
-| Nicholas & Associates | Strategic | 34% margin, Wingspan ecosystem | $900K–$1.6M | [Tier 1](strategic-partners.md#tier-1-active-pipeline-established-relationships) |
-| Stevens Construction | Target | Merit-shop philosophy, 100 East Tower | $500K–$1M | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
-| Moore Construction | Target | Merit-shop, 90% negotiated, Matter Dev relationship | $950K–$1.75M | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
-| VJS Construction | Target | Top 10 WI GC, 80% repeat, senior living focus | TBD | — |
-| Berghammer Construction | Target | ABC member, multifamily/senior living | $350K–$600K | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
-| Catalyst Construction | Target | 100% employee-owned, explicit non-union | $100K–$300K | [Tier 6](growth-targets.md#tier-6-industrial-long-term) |
+| Fiduciary (FRED) | Strategic | 48% margin, direct relationship, 9,500+ units | $500K-$800K | [Tier 1](strategic-partners.md#tier-1-active-pipeline-established-relationships) |
+| McShane Construction | Strategic | 42% margin, LAC partnership, 806 units in pipeline | $1.2M-$1.9M | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
+| MSP Real Estate | Strategic | 45% margin, 11 jobs, high volume | $200K-$400K | -- |
+| Greenfire Management | Strategic | 37% margin, MBE-owned, never self-performs | $300K-$500K | [Tier 1](strategic-partners.md#tier-1-active-pipeline-established-relationships) |
+| Nicholas & Associates | Strategic | 34% margin, Wingspan ecosystem | $900K-$1.6M | [Tier 1](strategic-partners.md#tier-1-active-pipeline-established-relationships) |
+| Stevens Construction | Target | Merit-shop philosophy, 100 East Tower | $500K-$1M | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
+| Moore Construction | Target | Merit-shop, 90% negotiated, Matter Dev relationship | $950K-$1.75M | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
+| VJS Construction | Target | Top 10 WI GC, 80% repeat, senior living focus | TBD | -- |
+| Berghammer Construction | Target | ABC member, multifamily/senior living | $350K-$600K | [Tier 2](strategic-partners.md#tier-2-active-pipeline-new-introductions-needed) |
+| Catalyst Construction | Target | 100% employee-owned, explicit non-union | $100K-$300K | [Tier 6](growth-targets.md#tier-6-industrial-long-term) |

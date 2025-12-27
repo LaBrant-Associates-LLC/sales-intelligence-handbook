@@ -18,14 +18,14 @@ The most detailed bid tabulation recovered shows the **Hunter Water Tower** (400
 
 | Contractor | Location | Bid Amount | Variance from Low |
 |------------|----------|------------|-------------------|
-| George Kountoupes Painting Co. | Lincoln Park, MI | **$215,800** ✓ | — |
+| George Kountoupes Painting Co. | Lincoln Park, MI | **$215,800** ✓ | -- |
 | Seven Brothers Painting Inc. | MI | $216,500 | +$700 (0.3%) |
 | LC United Painting Co. | MI | $219,000 | +$3,200 (1.5%) |
-| V&T Painting LLC | — | $221,350 | +$5,550 (2.6%) |
-| Maguire Iron Inc. | — | $318,840 | +$103,040 (48%) |
-| TMI Coatings, Inc. | — | $354,000 | +$138,200 (64%) |
-| Utility Service Co. Inc. | — | $355,600 | +$139,800 (65%) |
-| Classic Protective Coatings | — | $463,600 | +$247,800 (115%) |
+| V&T Painting LLC | -- | $221,350 | +$5,550 (2.6%) |
+| Maguire Iron Inc. | -- | $318,840 | +$103,040 (48%) |
+| TMI Coatings, Inc. | -- | $354,000 | +$138,200 (64%) |
+| Utility Service Co. Inc. | -- | $355,600 | +$139,800 (65%) |
+| Classic Protective Coatings | -- | $463,600 | +$247,800 (115%) |
 
 **Key Insight:** The remarkably tight spread between the top three bidders (less than **$3,200 difference**) indicates sophisticated estimating by experienced water tower specialists. Michigan-based contractors dominate this niche.
 
@@ -126,10 +126,10 @@ Research across 21 SE Wisconsin water utilities found that the **vast majority p
 
 | Department | Contact | Title | Phone | Email |
 |------------|---------|-------|-------|-------|
-| Purchasing Division | — | Director | (414) 286-3501 | purchasing@milwaukee.gov |
-| DPW | Jerrel Kruschke | Commissioner | (414) 286-3314 | — |
+| Purchasing Division | -- | Director | (414) 286-3501 | purchasing@milwaukee.gov |
+| DPW | Jerrel Kruschke | Commissioner | (414) 286-3314 | -- |
 | Milwaukee Water Works | Patrick Pauly, P.E. | Superintendent | (414) 286-2830 | mww@milwaukee.gov |
-| Office of Equity & Inclusion | — | SBE Certification | (414) 286-5553 | equity@milwaukee.gov |
+| Office of Equity & Inclusion | -- | SBE Certification | (414) 286-5553 | equity@milwaukee.gov |
 
 **Address:** Zeidler Municipal Building, 841 N. Broadway, Room 406, Milwaukee, WI 53202
 
@@ -138,9 +138,9 @@ Research across 21 SE Wisconsin water utilities found that the **vast majority p
 | Department | Contact | Title | Phone | Email |
 |------------|---------|-------|-------|-------|
 | Facilities Management | Sean Hayes, P.E. | Director | (414) 278-4940 | sean.hayes@milwaukeecountywi.gov |
-| Facilities Management | Tom Travia | Project Contact | (414) 278-4770 | — |
-| Economic Inclusion (CBDP) | — | TBE Certification | (414) 278-4747 | — |
-| Procurement | — | General | (414) 278-4747 | — |
+| Facilities Management | Tom Travia | Project Contact | (414) 278-4770 | -- |
+| Economic Inclusion (CBDP) | -- | TBE Certification | (414) 278-4747 | -- |
+| Procurement | -- | General | (414) 278-4747 | -- |
 
 **Address:** 600 N. Plankinton Avenue, Suite 600, Milwaukee, WI 53203
 
@@ -148,35 +148,35 @@ Research across 21 SE Wisconsin water utilities found that the **vast majority p
 
 | Municipality | Contact | Title | Phone | Email |
 |--------------|---------|-------|-------|-------|
-| Waukesha | Alex Damien | Director of Public Works | (262) 524-3600 | — |
-| Racine | — | DPW Director | (262) 636-9143 | — |
-| Kenosha | — | DPW Director | (262) 653-4180 | — |
-| Mequon | Kristen Lundeen, PE | Director of Public Works | (262) 236-2938 | — |
-| Brookfield | — | DPW Director | — | grisa@ci.brookfield.wi.us |
-| New Berlin | — | DPW Contact | (262) 780-4609 | jradomski@newberlin.org |
-| West Bend | — | DPW Director | — | — |
-| Fond du Lac | Paul DeVries | Director of Public Works | (920) 322-3470 | — |
-| Sheboygan | Travis Peterson | Director of Public Works | — | — |
-| Watertown | Jaynellen Holloway | DPW/City Engineer | — | — |
+| Waukesha | Alex Damien | Director of Public Works | (262) 524-3600 | -- |
+| Racine | -- | DPW Director | (262) 636-9143 | -- |
+| Kenosha | -- | DPW Director | (262) 653-4180 | -- |
+| Mequon | Kristen Lundeen, PE | Director of Public Works | (262) 236-2938 | -- |
+| Brookfield | -- | DPW Director | -- | grisa@ci.brookfield.wi.us |
+| New Berlin | -- | DPW Contact | (262) 780-4609 | jradomski@newberlin.org |
+| West Bend | -- | DPW Director | -- | -- |
+| Fond du Lac | Paul DeVries | Director of Public Works | (920) 322-3470 | -- |
+| Sheboygan | Travis Peterson | Director of Public Works | -- | -- |
+| Watertown | Jaynellen Holloway | DPW/City Engineer | -- | -- |
 
 ### Water Utility Contacts
 
 | Utility | Contact | Title | Phone | Email |
 |---------|---------|-------|-------|-------|
-| Waukesha Water | Dan Duchniak | General Manager (retiring) | (262) 521-5272 | — |
+| Waukesha Water | Dan Duchniak | General Manager (retiring) | (262) 521-5272 | -- |
 | Waukesha Water | Nick Ellifson | Operations | (262) 409-3461 | nellifson@waukesha-water.com |
-| Racine Water | Mike Gitter | Director | (262) 636-9430 | — |
-| Kenosha Water | Curt Czarnecki | General Manager | — | — |
-| Oconomowoc Utilities | Josh Wellmann | Water Field Supervisor | (262) 569-3199 | — |
+| Racine Water | Mike Gitter | Director | (262) 636-9430 | -- |
+| Kenosha Water | Curt Czarnecki | General Manager | -- | -- |
+| Oconomowoc Utilities | Josh Wellmann | Water Field Supervisor | (262) 569-3199 | -- |
 
 ### County Purchasing Contacts
 
 | County | Contact | Title | Phone | Email |
 |--------|---------|-------|-------|-------|
-| Waukesha County | — | Purchasing | (262) 548-7888 | purchasing@waukeshacounty.gov |
+| Waukesha County | -- | Purchasing | (262) 548-7888 | purchasing@waukeshacounty.gov |
 | Racine County | Duane McKinney | Purchasing Manager | (262) 636-3700 | duane.mckinney@racinecounty.com |
-| Washington County | Bill Kurer | Purchasing Manager | (262) 335-4847 | — |
-| Fond du Lac County | Shelby Kapitanski | — | (920) 929-3143 | shelby.kapitanski@fdlco.wi.gov |
+| Washington County | Bill Kurer | Purchasing Manager | (262) 335-4847 | -- |
+| Fond du Lac County | Shelby Kapitanski | -- | (920) 929-3143 | shelby.kapitanski@fdlco.wi.gov |
 
 ---
 
@@ -188,24 +188,24 @@ Research across 21 SE Wisconsin water utilities found that the **vast majority p
 |--------|-----------------|-----------|--------------|------|
 | City of Milwaukee | Bonfire | BidExpress (DPW) | cityofmilwaukee.bonfirehub.com | Free |
 | Milwaukee County | Bonfire | DemandStar | countymilwaukee.bonfirehub.com | Free |
-| Waukesha County | Bonfire | DemandStar | — | Free |
-| Racine County | DemandStar | — | demandstar.com/app/wapp | Free (WAPP) |
+| Waukesha County | Bonfire | DemandStar | -- | Free |
+| Racine County | DemandStar | -- | demandstar.com/app/wapp | Free (WAPP) |
 | Kenosha County | VendorNet | eSupplier | eSupplier.wi.gov | Free |
-| Washington County | DemandStar | — | demandstar.com/app/wapp | Free (WAPP) |
-| Walworth County | Bonfire | — | — | Free |
+| Washington County | DemandStar | -- | demandstar.com/app/wapp | Free (WAPP) |
+| Walworth County | Bonfire | -- | -- | Free |
 | Ozaukee County | VendorNet | Direct contact | eSupplier.wi.gov | Free |
-| Dodge County | DemandStar | — | demandstar.com/app/wapp | Free (WAPP) |
-| Fond du Lac County | DemandStar | — | demandstar.com/app/wapp | Free (WAPP) |
-| MMSD | Diversity Compliance | — | mmsd.diversitycompliance.com | Free |
-| HACM | Beacon Bid | — | — | Free |
-| MATC | A/E Graphics | — | matc.aegraphics.com | Free |
+| Dodge County | DemandStar | -- | demandstar.com/app/wapp | Free (WAPP) |
+| Fond du Lac County | DemandStar | -- | demandstar.com/app/wapp | Free (WAPP) |
+| MMSD | Diversity Compliance | -- | mmsd.diversitycompliance.com | Free |
+| HACM | Beacon Bid | -- | -- | Free |
+| MATC | A/E Graphics | -- | matc.aegraphics.com | Free |
 
 ### Prequalification Requirements by Municipality
 
 | Municipality | Requirement | Deadline | Valid Period | Submit To |
 |--------------|-------------|----------|--------------|-----------|
 | Brookfield | Confidential Prequalification Statement | January 1 annually | Calendar year | grisa@ci.brookfield.wi.us |
-| New Berlin | Qualification Statement | 5 days before bid | — | jradomski@newberlin.org |
+| New Berlin | Qualification Statement | 5 days before bid | -- | jradomski@newberlin.org |
 | Kenosha County | Vendor Responsibility Questionnaire | 5 days before bid | 12 months | County Clerk |
 | Washington County | Bidder's Qualification Statement | Annual | Calendar year | Bill Kurer |
 | Walworth County | Painting Services Prequalification | As issued | Pool duration | Bonfire portal |
@@ -525,20 +525,20 @@ Research across 21 SE Wisconsin water utilities found that the **vast majority p
 
 | Entity | Contact | Phone | Email | Purpose |
 |--------|---------|-------|-------|---------|
-| City of Milwaukee Purchasing | — | (414) 286-3501 | purchasing@milwaukee.gov | General procurement |
-| City of Milwaukee SBE | — | (414) 286-5553 | equity@milwaukee.gov | Certification |
+| City of Milwaukee Purchasing | -- | (414) 286-3501 | purchasing@milwaukee.gov | General procurement |
+| City of Milwaukee SBE | -- | (414) 286-5553 | equity@milwaukee.gov | Certification |
 | Milwaukee County Facilities | Sean Hayes, P.E. | (414) 278-4940 | sean.hayes@milwaukeecountywi.gov | T&M contracts |
-| Milwaukee County CBDP | — | (414) 278-4747 | — | TBE certification |
-| Waukesha County Purchasing | — | (262) 548-7888 | purchasing@waukeshacounty.gov | Registration |
+| Milwaukee County CBDP | -- | (414) 278-4747 | -- | TBE certification |
+| Waukesha County Purchasing | -- | (262) 548-7888 | purchasing@waukeshacounty.gov | Registration |
 | Racine County Purchasing | Duane McKinney | (262) 636-3700 | duane.mckinney@racinecounty.com | Registration |
-| Washington County Purchasing | Bill Kurer | (262) 335-4847 | — | Registration |
-| Oconomowoc Utilities | Josh Wellmann | (262) 569-3199 | — | Hydrant painting |
+| Washington County Purchasing | Bill Kurer | (262) 335-4847 | -- | Registration |
+| Oconomowoc Utilities | Josh Wellmann | (262) 569-3199 | -- | Hydrant painting |
 | Waukesha Water | Nick Ellifson | (262) 409-3461 | nellifson@waukesha-water.com | Hydrant program |
-| MMSD | — | — | mmsd.diversitycompliance.com | SWMBE registration |
+| MMSD | -- | -- | mmsd.diversitycompliance.com | SWMBE registration |
 | HACM | Kent Britton | (414) 286-5863 | Kent.Britton@hacm.org | Public housing |
-| Wisconsin VendorNet | — | (800) 482-7813 | doawispro@wisconsin.gov | State registration |
-| WisDOT DBE | — | — | osecdbe@dot.wi.gov | Recertification |
-| Wisconsin DHS Lead | — | (608) 261-6876 | DHSAsbestosLead@dhs.wisconsin.gov | Lead certification |
+| Wisconsin VendorNet | -- | (800) 482-7813 | doawispro@wisconsin.gov | State registration |
+| WisDOT DBE | -- | -- | osecdbe@dot.wi.gov | Recertification |
+| Wisconsin DHS Lead | -- | (608) 261-6876 | DHSAsbestosLead@dhs.wisconsin.gov | Lead certification |
 
 ---
 

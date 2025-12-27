@@ -489,4 +489,16 @@ Food processing, beverage manufacturing, and cold storage facilities represent a
 
 ---
 
+## Entry Play
+
+Start with craft brewery taprooms (non-production areas) to build portfolio and references. Use those projects as stepping stones to larger food-grade facility work.
+
+## Useful Links & Contacts
+
+- [I-94 Corridor Industrial](i94-corridor.md)
+- [Industrial Private Research](../attachments/industrial-private.md)
+- Wisconsin Brewers Guild: wisconsinbrewers.com
+
+---
+
 *Food, beverage, and cold storage facilities represent a specialized market requiring capability development. Start with distribution/warehouse areas and craft beverage taprooms. Build food-safe coating expertise over 6-12 months before pursuing major food processing facilities.*

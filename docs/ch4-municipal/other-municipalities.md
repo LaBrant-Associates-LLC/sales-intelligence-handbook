@@ -27,7 +27,7 @@
 | Walworth | Bonfire | Has painting prequalification RFQs |
 | Fond du Lac | DemandStar | (920) 929-3143 |
 
-**Walworth County:** Previously issued prequalification RFQs specifically for painting services—pursue immediately.
+**Walworth County:** Previously issued prequalification RFQs specifically for painting services--pursue immediately.
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### Opportunity
 
-$135–$175 per hydrant for complete sandblasting and two-coat painting.
+$135-$175 per hydrant for complete sandblasting and two-coat painting.
 
 ### Contract Opportunities
 

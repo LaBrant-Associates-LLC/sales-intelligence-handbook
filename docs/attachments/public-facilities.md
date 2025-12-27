@@ -360,7 +360,7 @@ Beyond the Public Safety Building, Racine County has several major construction 
 | Entity | Contact | Phone | Purpose |
 |--------|---------|-------|---------|
 | Kenosha Fire Department | Christopher Bigley | (262) 653-4150 | Station #4 project |
-| Racine County | Casey Morgenson | — | Public Safety Building |
+| Racine County | Casey Morgenson | -- | Public Safety Building |
 | Milwaukee Fire Department | General | (414) 286-8900 | Station 26 renovation |
 
 ### Zoo Projects
@@ -374,16 +374,16 @@ Beyond the Public Safety Building, Racine County has several major construction 
 
 | Entity | Contact | Phone | Purpose |
 |--------|---------|-------|---------|
-| Waukesha County Facilities | — | (262) 548-7010 | Courthouse renovation |
-| Racine County | Casey Morgenson | — | Behavioral Health Building |
-| Milwaukee County | — | — | Juvenile facility |
+| Waukesha County Facilities | -- | (262) 548-7010 | Courthouse renovation |
+| Racine County | Casey Morgenson | -- | Behavioral Health Building |
+| Milwaukee County | -- | -- | Juvenile facility |
 
 ### WisDOT
 
 | Entity | Contact | Phone/Email | Purpose |
 |--------|---------|-------------|---------|
 | Mashuda Contractors | DBE Program | DBE@mashuda.com, (920) 295-3329 | WisDOT subcontracts |
-| WisDOT SE Region | — | — | Bridge projects |
+| WisDOT SE Region | -- | -- | Bridge projects |
 
 ---
 
@@ -423,11 +423,11 @@ Beyond the Public Safety Building, Racine County has several major construction 
 | Project | Est. Value | Construction Period | GC Status |
 |---------|------------|---------------------|-----------|
 | Milwaukee Zoo Rhino Exhibit | $23.1M | 2024-Fall 2025 | Under construction |
-| Racine Youth Development Center | — | 2024-Early 2025 | Completing |
+| Racine Youth Development Center | -- | 2024-Early 2025 | Completing |
 | Kenosha Fire Station #1 | $6.61M | 2024-Aug 2025 | **COMPLETE** |
-| Racine Public Safety Building | — | Q2 2025-Q4 2026 | TBD |
+| Racine Public Safety Building | -- | Q2 2025-Q4 2026 | TBD |
 | Racine Behavioral Health | $15M | Q2 2025-Sept 2026 | TBD |
-| Milwaukee Juvenile Facility | — | Ongoing-Summer 2026 | TBD (State project) |
+| Milwaukee Juvenile Facility | -- | Ongoing-Summer 2026 | TBD (State project) |
 | Milwaukee Zoo Front Entrance | $17M | 2026-Q3 2027 | TBD |
 | Kenosha Fire Station #4 | ~$10M | TBD | TBD |
 | Lincoln-King Community Center | $68M | 2026+ | TBD |

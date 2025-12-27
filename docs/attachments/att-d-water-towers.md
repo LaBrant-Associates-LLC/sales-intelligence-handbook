@@ -100,13 +100,13 @@ Water tower coating rehabilitation represents a **$150,000-$400,000 per project*
 | George Kountoupes Painting Co. | Lincoln Park, MI | **$215,800** ✓ | Winner |
 | Seven Brothers Painting Inc. | Michigan | $216,500 | +0.3% |
 | LC United Painting Co. | Michigan | $219,000 | +1.5% |
-| V&T Painting LLC | — | $221,350 | +2.6% |
-| Maguire Iron Inc. | — | $318,840 | +48% |
-| TMI Coatings, Inc. | — | $354,000 | +64% |
-| Utility Service Co. Inc. | — | $355,600 | +65% |
-| Classic Protective Coatings | — | $463,600 | +115% |
+| V&T Painting LLC | -- | $221,350 | +2.6% |
+| Maguire Iron Inc. | -- | $318,840 | +48% |
+| TMI Coatings, Inc. | -- | $354,000 | +64% |
+| Utility Service Co. Inc. | -- | $355,600 | +65% |
+| Classic Protective Coatings | -- | $463,600 | +115% |
 
-**Key Insight:** Top 3 bidders within $3,200 (1.5%) of each other—sophisticated estimating by experienced specialists. Michigan contractors dominate.
+**Key Insight:** Top 3 bidders within $3,200 (1.5%) of each other--sophisticated estimating by experienced specialists. Michigan contractors dominate.
 
 **Mount Pleasant Water Tower (500,000 gal) - Rehabilitation**
 - Contract Value: $438,230
@@ -193,7 +193,7 @@ Water tower coating rehabilitation represents a **$150,000-$400,000 per project*
 | **LC United Painting Co.** | Michigan | Water towers |
 | **Viking Industrial Painting** | Wisconsin | Industrial coatings |
 | **Coating Specialties LLC** | Wisconsin | Industrial coatings |
-| **TMI Coatings, Inc.** | — | Industrial/water towers |
+| **TMI Coatings, Inc.** | -- | Industrial/water towers |
 
 ### National/Regional Tank Companies (Design-Build + Painting)
 

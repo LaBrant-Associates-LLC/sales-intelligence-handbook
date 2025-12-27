@@ -1,6 +1,18 @@
-# Chapter 5: Large Facilities Owners
+# Chapter 7: Large Facility Owners
 
 **Direct Owner Relationships and Recurring Maintenance**
+
+---
+
+## Owner Types Matrix
+
+| Owner Type | Procurement Path | Notes | Link |
+|------------|------------------|-------|------|
+| Casino/Tribal | Direct relationship | Potawatomi = Greenfire parent | [Greenfire Profile](ch3-gc-intelligence/strategic-partners.md) |
+| Corporate HQ | Facility management RFP | Northwestern Mutual, US Bank | Direct outreach |
+| Public Venue | County procurement | Zoo (65% TBE), State Fair | [Milwaukee County](ch4-municipal/milwaukee-county.md) |
+| Airport | MMSD goals | Mitchell Airport 20% goal | [Public Facilities](attachments/public-facilities.md) |
+| Industrial | Direct or broker | Rockwell, Harley-Davidson | [Industrial Private](attachments/industrial-private.md) |
 
 ---
 
@@ -8,7 +20,7 @@
 
 Direct relationships with large property owners bypass GC markup and create recurring maintenance opportunities. Unlike municipal bidding, private property maintenance works through vendor registration, property management outreach, and relationship building.
 
-**12-Month Pipeline: $400K–$1.1M**
+**12-Month Pipeline: $400K-$1.1M**
 
 ---
 
@@ -134,7 +146,7 @@ hines.com/properties/u.s.-bank-center-milwaukee
 | US Bank Center | 1.08M SF | Hines |
 | 411 East Wisconsin | 697K SF | **Colliers** |
 | BMO Tower | 281K SF | Irgens Partners |
-| Milwaukee Center | 370K SF | — |
+| Milwaukee Center | 370K SF | -- |
 | 100 East Wisconsin | Converting | Klein Development |
 
 ### Colliers Wisconsin
@@ -192,8 +204,8 @@ Manages 20+ million SF in Wisconsin.
 
 ### Seasonal Timing
 
-- **Major prep:** April–May
-- **Off-season maintenance:** October–March
+- **Major prep:** April-May
+- **Off-season maintenance:** October-March
 
 **Contact:** Milwaukee World Festival, Inc., 200 N. Harbor Dr
 
@@ -269,13 +281,13 @@ General Maintenance handles routine work in-house, BUT:
 
 ### Scheels Project
 
-210,000 SF sporting goods store — one of largest retail projects in SE Wisconsin.
+210,000 SF sporting goods store -- one of largest retail projects in SE Wisconsin.
 
 | Metric | Data |
 |--------|------|
 | Opening | Spring 2027 |
 | Jobs | 500 employees |
-| Est. Painting | $400K–$800K |
+| Est. Painting | $400K-$800K |
 
 ---
 
@@ -321,15 +333,15 @@ General Maintenance handles routine work in-house, BUT:
 ## Action Items
 
 ### Week 1-2
-1. Contact Hines Milwaukee — US Bank Center vendor list
-2. Contact Colliers Wisconsin (Kim Guerrero) — 411 East Wisconsin
+1. Contact Hines Milwaukee -- US Bank Center vendor list
+2. Contact Colliers Wisconsin (Kim Guerrero) -- 411 East Wisconsin
 3. Register MMSD vendor portal
 4. Register Bid Express for airport
 
 ### Month 1
-5. Contact Cross Management Services — Northwestern Mutual SBE
-6. Monitor Scheels/Mayfair permits — Identify GC
-7. Meet with Wisconsin Center District — Post-expansion maintenance
+5. Contact Cross Management Services -- Northwestern Mutual SBE
+6. Monitor Scheels/Mayfair permits -- Identify GC
+7. Meet with Wisconsin Center District -- Post-expansion maintenance
 8. Request vendor application from Brookfield Properties
 
 ### Ongoing

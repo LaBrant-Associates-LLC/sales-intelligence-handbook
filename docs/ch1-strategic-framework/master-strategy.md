@@ -1,166 +1,148 @@
-# Master Strategy Plan
+# Master Strategy
 
-## B - Base goal
-Create a master strategy plan suitable for a ~2‑hour boardroom presentation (near-term quick hits + 5‑year growth), focused on diversifying beyond multifamily in Wisconsin while staying open‑shop.
-
-# REVIEW_LEGACY:
-- `LaBrant_WI_Diversification_Strategy.md` overlaps with this boardroom package. After the board meeting, choose one file to be the "single source of truth" and archive the other.
+_Part of [Chapter 1: Strategy](index.md) — defines the guardrails, time horizons, and 90-day execution plan._
 
 ---
 
-## Boardroom session agenda (120 minutes)
-1. **Context + constraints (10 min)** -- confirm guardrails and success definition.
-2. **Market signals (25 min)** -- where demand is moving in WI; what that means for open‑shop painters.
-3. **Competition (20 min)** -- low-bid volume cycles and bundled trades; what to stop doing.
-4. **Strategy (30 min)** -- segments + geographies + plays (Year 1 and Year 5).
-5. **Capabilities + resourcing (20 min)** -- people, process, tools, credibility.
-6. **KPIs + risks + 90‑day plan (15 min)** -- commit owners and dates.
+## Context
 
-**Deliverable:** a signed decision log + 90‑day sprint charter.
+This page assumes the definitions and scope established in [Chapter 1: Strategy](index.md). It does not restate tier systems, market definitions, or global guardrails.
 
 ---
 
-## Decision log (what the room must decide)
-1. **Year‑1 segment focus (pick 2 primary + 1 opportunistic lane):**
-   - A) Owner‑direct exterior repaints (hotels, condos/HOAs, mid-rise exteriors)
-   - B) Light industrial maintenance & coatings (warehouses, manufacturing, F&B)
-   - C) Senior living + private clinics (private, recurring refresh)
-   - D) Select municipal/county facilities (only when specs don't force union routes)
+## Guardrails
 
-2. **Geography tiers (commit footprint):**
-   - **Tier 1:** Milwaukee Metro + Madison/Dane (depth + repeatability)
-   - **Tier 2:** Fox Valley + Green Bay (industrial/commercial growth, controlled travel)
-   - **Tier 3:** North/West incl. Superior (only for high-value specialty / owner-direct)
+These are filters, not guidelines. Violating any guardrail requires leadership escalation.
 
-3. **Capacity allocation rule:**
-   - Set a **minimum weekly crew allocation** reserved for diversification work so it actually happens (without starving multifamily).
+1. **Open-shop first.** Work that requires union signatory commitments is out of scope unless explicitly approved by ownership. Union-signatory GCs are classified in [Chapter 2](../ch2-gc-intelligence/).
 
----
+2. **Wisconsin only.** We do not pursue out-of-state work. Geographic expansion outside Wisconsin has consistently destroyed margin. This is non-negotiable.
 
-## Guardrails (non‑negotiables)
-- **Open-shop first.** Avoid union‑dominant pipelines by default.
-- **Wisconsin only.** No Illinois or Minnesota expansion.
-- **Private is preferred.** Owners, developers, property managers, facility managers, open‑shop GCs.
-- **Multifamily remains the foundation** for the next decade; diversification stacks on top.
+3. **Private is preferred.** Priority is given to owners, developers, property managers, and open-shop GCs. Public work is pursued selectively where certification leverage applies, as detailed in [Chapter 3](../ch3-municipal/).
+
+4. **Multifamily remains the foundation.** Diversification stacks on top of multifamily; it does not replace it. Multifamily is the production base for the next decade.
+
+Geography follows the 5-tier system defined in the [Strategy Overview](index.md). This page references tiers but does not redefine them.
 
 ---
 
-## Strategy summary
-### Year 1 (quick hits)
-**Objective:** add repeatable, owner-direct work that reduces exposure to multifamily price wars.
+## Time Horizons
 
-**Primary plays (recommended):**
-1. **Owner-direct repaint program** (portfolio agreements):
-   - Hotels, HOAs/condos, property managers, light commercial portfolios.
-   - Lead with "certainty": schedule window + safety plan + closeout package.
+Strategy only works when time horizons are explicit and actionable.
 
-2. **Light industrial maintenance accounts**:
-   - Warehouses, manufacturing, F&B plants; sell shutdown readiness and coatings competence.
-   - Target recurring outage windows and maintenance budgets.
+### Year 1: Foundation
 
-**Opportunistic lane (only if scorecard passes):** senior living + private clinics (private, recurring refresh cycles).
+The objective is to maximize win rate and margin within Tiers 1–2 using proven partners and repeatable scopes. Year 1 is about tightening filters and enforcing discipline, not expanding reach.
 
-### Year 2-5 (becoming a larger player)
-**Objective:** become "the default repaint + coatings partner" for portfolios and facilities.
+### Priority Plays
 
-- Build **program agreements** (annual/portfolio) with 10-15 anchor accounts.
-- Expand multifamily reach into Tier 1 and Tier 2 markets (Madison + Fox Valley) to keep the base resilient.
-- Invest selectively in exterior/high-access capabilities where ROI is clear.
+1. **Owner-direct repaint programs.** Target hotels, HOAs, condominium associations, property managers, and light commercial portfolios within Tiers 1–2. Lead with schedule certainty, safety documentation, and clean closeout packages.
 
----
+2. **Light industrial maintenance accounts.** Target warehouses, manufacturing facilities, and food/beverage plants along the I-94 corridor and Fox Valley. Sell shutdown readiness and coatings competence. Focus on recurring outage windows and maintenance budgets.
 
-## Competitive response plan (what to do differently)
-### 1) Volume low-bid cycles (e.g., Craftmaster)
-- **Don't chase the price floor.** Hold a minimum margin rule.
-- **Change the evaluation:** schedule certainty, QA documentation, change-order discipline, "no-surprises" closeout.
-- **Bid less, sell more:** focus negotiated or semi-negotiated paths where possible.
+3. **Senior living and private clinics (opportunistic).** Pursue only when the opportunity passes all guardrails and the GC is already classified as a strategic partner in [Chapter 2](../ch2-gc-intelligence/).
 
-### 2) Bundled drywall/paint (e.g., States + Suburban paint divisions)
-- Treat as **structural pricing pressure** on new-build interiors.
-- Counter with:
-  - **Owner-direct** work (repaints and programs)
-  - **Specialty scopes** (coatings, exterior systems, shutdown work)
-  - **Partner when it's strategic** (when drywall is already locked and they want a specialist painter).
+4. **Repeat GC interior renovation work.** Focus on projects with known scope patterns that reward sequencing discipline and crew continuity.
 
-### 3) Exterior specialists (e.g., Dublin benchmark)
-- Decide what to emulate (access planning, safety documentation, equipment strategy).
-- Don't copy everything; copy **the profitable parts**.
+### Years 2–5: Scale
 
-### 4) Union signatories (avoid by default)
-- Treat union-GC institutional work as a **default "no"** unless owner-direct carve-out economics are exceptional.
+The objective is to earn optionality without diluting the core. No new market, segment, or geography is pursued at scale without prior validation inside the core.
+
+### Expansion Plays
+
+1. **Program agreements.** Target 10–15 anchor accounts with annual or portfolio-based contracts. Prioritize property management firms, regional hotel operators, and senior living operators with multi-site footprints.
+
+2. **Geographic expansion.** Extend multifamily and senior living presence into Tier 2 (Madison) and selectively into Tier 3 (Fox Valley, Green Bay) only with partners that have already proven performance in Tier 1.
+
+3. **Capability investment.** Add exterior access capabilities such as swing stage and aerial lift ownership only when ROI is validated by repeat demand. Do not speculate on equipment.
 
 ---
 
-## Go-to-market operating system (simple + repeatable)
-1. **Target list (Top 60):** 20 owners/developers, 20 property managers/HOA managers, 20 facility/plant managers (split by segment + geography).
-2. **Warm intros first:** each anchor relationship yields 2 referrals.
-3. **Productized offers:** exterior refresh, shutdown paint, unit-turn program.
-4. **Proof package:** 2 case studies (Hyatt exterior + industrial/coatings example), safety plan narrative, references.
-5. **Bid gate:** if it fails the gate, you pass.
+## 90-Day Sprint
+
+The next 90 days are about alignment and discipline, not growth. If nothing changes in 90 days, the strategy is not being enforced.
+
+### Weeks 1–4: Foundation
+
+1. Reclassify all active pipeline opportunities by tier, GC status, and segment.
+2. Kill any bids that violate guardrails.
+3. Enforce GC qualification before estimating begins.
+4. Build the Top-60 target list: 20 owners/developers, 20 property managers/HOA managers, 20 facility/plant managers—split by segment and geography.
+5. Define bid gate criteria. If an opportunity fails the gate, pass without estimating.
+6. Create three productized offers aligned to core segments: exterior refresh, shutdown paint, and unit-turn program.
+7. Produce two case studies with closeout documentation supporting those offers.
+
+**Deliverable:** Clean, qualified pipeline aligned to doctrine.
+
+### Weeks 5–8: Execution
+
+1. Launch outreach cadence: 15 warm touches and 10 cold touches per week.
+2. Schedule at least 12 relationship meetings with decision-makers from the Top-60 list.
+3. Bid only gated work—no speculative bids outside Tiers 1–2.
+4. Win 1–2 pilot projects and push each toward a program or portfolio conversation.
+
+**Deliverable:** Concentrated effort on winnable work with supporting sales assets.
+
+### Weeks 9–12: Lock
+
+1. Review win rate and margin against baseline.
+2. Identify which guardrails prevented losses.
+3. Refine scope templates and estimate narratives based on pilot learnings.
+4. Lock the next-quarter pipeline with explicit tier and segment classifications.
+5. Formalize what stays, what stops, and what escalates.
+6. Hand off metric definitions to [Chapter 7](../ch7-sales-system.md) for ongoing tracking.
+
+**Deliverable:** Strategy enforcement validated by results.
 
 ---
 
-## Capabilities roadmap (what to build)
+## Capabilities Roadmap
+
+Execution requires deliberate capability build-out. Capabilities exist to support discipline, not complexity.
+
 ### People
-- Assign an **Account Captain** per chosen segment.
-- Identify a **coatings lead** (spec review + crew training).
+
+1. Assign an Account Captain per priority segment: hospitality, senior living, and industrial.
+2. Identify a coatings lead responsible for spec review and crew training.
+3. Clarify ownership of key GC and developer relationships.
 
 ### Process
-- Weekly **CO review cadence** (capture rate as a KPI).
-- Standard scope templates by segment.
 
-### Tools/Equipment
-- Exterior access plan (rent -> own decision rules).
-- Containment/surface prep equipment as needed for coatings.
+1. Establish a weekly change-order review cadence with capture rate as a tracked metric.
+2. Develop standard scope templates by segment to reduce estimating variance.
+3. Formalize no-bid and escalation documentation.
+4. Build a proof package: two case studies (one exterior repaint, one industrial/coatings), a safety plan narrative, and three references.
+5. Develop closeout package standards that document schedule adherence and quality.
 
-### Credibility
-- Case studies and closeout packages.
-- Safety narrative + jobsite documentation standards.
+### Tools
 
----
-
-## KPI dashboard (leading indicators)
-- Targets touched/week (by segment)
-- Qualified opportunities in pipeline
-- Proposal-to-award cycle time
-- % negotiated vs hard-bid
-- Win rate by segment
-- CO capture rate
-- Schedule adherence
-- Rework/defect incidents
+1. Create an exterior access plan with rent-vs-own decision rules based on project frequency.
+2. Acquire containment and surface prep equipment as needed for coatings work.
+3. Develop standardized estimating packages for core scopes.
+4. Build exterior access and logistics planning templates.
 
 ---
 
-## 90-day sprint charter (owners + dates)
-- **Weeks 1-2:** lock segments + tiers; define crew allocation rule; define bid gate.
-- **Weeks 2-4:** build Top‑60 list; create 3 offers; produce 2 case studies.
-- **Weeks 4-6:** outreach cadence; schedule 12 relationship meetings; bid only gated work.
-- **Weeks 6-10:** win 1-2 pilot projects; push for program/portfolio conversation.
-- **Weeks 10-12:** KPI review; refine templates; lock next-quarter pipeline.
+## Validation Scenarios
+
+These scenarios test whether the strategy is being followed. If expected outcomes are not achieved, investigate guardrail violations or execution gaps.
+
+1. **Senior living (Tiers 1–3).** Identify 12 decision-makers at senior living operators or developers. Conduct 4 refresh or new-build bids. Expected outcome: 1 award with a short cycle of 30 days or less and low administrative burden, converting to an annual maintenance agreement.
+
+2. **Hospitality (Tiers 1–2).** Identify 10 target hotels or HOAs in Milwaukee Metro or Madison. Complete 20 introductions and 6 site walks. Expected outcome: 2 proposals accepted within 90 days, with at least 1 converting to a repeat-cycle agreement.
+
+3. **Industrial (Tier 3, selective).** Identify 15 plants or warehouses in Fox Valley or I-94 corridor. Complete 10 facility manager meetings and 3 shutdown window bids. Expected outcome: 1 pilot shutdown job awarded with coatings spec compliance documented and margin meeting the minimum threshold.
+
+4. **Competitive defense.** When a competitor undercuts by 10–15% on a multifamily interior, the expected response is to decline or reframe with an alternate scope or schedule premium. Do not chase the price floor unless the margin rule holds. This scenario tests enforcement of guardrails; detailed competitive response tactics live in [Diversification](diversification.md).
 
 ---
 
-## Validation scenarios (to keep the plan honest)
-### Segment A -- Owner-direct exterior repaints
-**Scenario:** 10 target hotels/HOAs in Tier 1; 20 intros; 6 site walks.
-- Expected: 2 proposals accepted within 90 days; at least 1 converts to a repeat-cycle agreement.
+## Notes
 
-### Segment B -- Light industrial maintenance & coatings
-**Scenario:** 15 plants/warehouses; 10 facility manager meetings; 3 shutdown window bids.
-- Expected: 1 pilot shutdown job awarded; coatings spec compliance documented; margin meets minimum rule.
+This page defines doctrine and near-term execution. It does not contain market data, GC-specific intelligence, or financial metrics.
 
-### Segment C -- Senior living + private clinics (opportunistic)
-**Scenario:** 12 decision-maker meetings; 4 refresh bids.
-- Expected: 1 award with short award cycle (≤30 days) and low admin burden.
-
-### Competitive defense -- low-bid volume cycle
-**Scenario:** competitor undercuts by 10-15% on a multifamily interior.
-- Expected: you **decline or reframe** (alternate scope, schedule premium) unless margin rule holds.
+Competitive response strategy and segment-specific playbooks live in [Diversification](diversification.md). Market sizing assumptions live in [Market Sizing](market-sizing.md). GC names, performance data, and contact information live in [Chapter 2](../ch2-gc-intelligence/). Financial benchmarks and KPIs live in [Chapter 7](../ch7-sales-system.md).
 
 ---
 
-## Provenance (files + section tags)
-- `LaBrant_Master_Strategy_Deck.pptx` -- generated from `labrant_master_strategy_deck.js` (sections 1A-9A in slide notes).
-- `LaBrant_Master_Strategy_Plan.md` -- this document (sections align to deck flow).
-
-Assumptions: Multifamily remains the base workload; you have (or can assign) two sales/account-capable leaders; you can pursue owner-direct private work statewide; you maintain an intentional "avoid union pipeline" posture except for rare owner-direct carve-outs.
+_Last updated: 2025-12-28_

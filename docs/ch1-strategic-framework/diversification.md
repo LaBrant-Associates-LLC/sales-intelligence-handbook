@@ -1,325 +1,222 @@
-# Diversification Strategy
+# Market Diversification
 
-**Scope (exact ask):** Identify Wisconsin market segments and geographies to pursue (next 12 months + 5 years) to diversify beyond multifamily, factoring non‑union constraints and local competitor behavior.
-
----
-
-## 1A) Executive summary -- where to go and what to sell
-### The thesis
-Keep **multifamily as the production base**, and add **repeatable, private‑owner, repaint/renovation and light‑industrial coatings** work that:
-- is less dominated by "bundle the drywall" competitors,
-- is less union‑saturated than heavy civil / major institutional,
-- rewards systems, scheduling discipline, and coating competence.
-
-### 12‑month priorities (quick wins)
-1. **Hospitality renovations + refresh cycles** (Milwaukee, Madison, Wisconsin Dells, Green Bay)
-2. **Senior living / assisted living** (SE WI + Fox Valley)
-3. **Light industrial & manufacturing maintenance coatings** (Fox Valley + I‑94 corridor)
-4. **HOA/condo association exterior repaint programs** (Milwaukee metro + lake country)
-5. **Selective municipal/county facility maintenance** (small-mid size, open‑shop friendly)
-
-### 5‑year priorities (becoming a larger player)
-1. **Own "occupied‑facility repaint/reno"** across hospitality, senior living, healthcare clinics, and commercial property portfolios
-2. **Build a dedicated industrial coatings lane** (plants/warehouses, shutdown work, corrosion control)
-3. **Win statewide repeat accounts** (property managers, facility management firms, franchisors, regional owner groups)
-4. **Selective capability expansion** (access systems, parking/striping if ROI pencils, specialty coatings)
-
-### What to avoid (given your model)
-- **UW System / union‑leaning institutional pipelines** unless you have a true carve‑out path
-- **Mega‑projects with explicit union labor expectations/PLAs** (e.g., some high‑profile data center builds have been described as predominantly union construction labor)
+_Part of [Chapter 1: Strategy](index.md) — defines when and how LaBrant diversifies work portfolio without diluting the core._
 
 ---
 
-## 1B) Market signals & why these segments are "real" in Wisconsin
-### Multifamily stays strong (base work)
-Madison has an explicit housing production goal of **15,000 new homes by 2030**, tracked publicly by the City. This keeps multifamily development/permit activity a durable base you can keep feeding from while you diversify.
-- City of Madison Housing Tracker / Housing Forward: https://www.cityofmadison.com/dpced/community-development/housing/housing-tracker
-- Housing Forward: https://www.cityofmadison.com/mayor/priorities/housing-forward
+## Context
 
-### Renovation spend is visible (hospitality)
-Major Milwaukee hotels have completed or announced large renovation programs, which is exactly the type of "high‑schedule‑sensitivity repaint/refresh" work where a disciplined specialty contractor can win.
-- Hilton Milwaukee $42M renovation completion (Dec 2025): https://onmilwaukee.com/articles/hilton-renovation-complete
-- Pfister Hotel lobby renovations completed early 2025: https://www.thepfisterhotel.com/renovations/
-- Marcus / downtown hotel renovation context: https://urbanmilwaukee.com/2025/09/18/marcus-reverses-course-on-hotel-closure/
-
-Wisconsin Dells continues adding/refreshing hospitality inventory (high repaint/turn scope potential).
-- Wisconsin Dells tourism "What's New 2025": https://www.wisdells.com/blog-stories/Whats-New-in-2025
-
-### Industrial investment is real (but choose the lane)
-Wisconsin continues seeing large industrial/tech investment. The *headline* builds may skew union; **your lane is the adjacent and follow‑on**: warehouses, offices, supplier facilities, ongoing repaint/maintenance, and industrial coatings work.
-- Foxconn/WEDC expansion announcement (Nov 2025): https://wedc.org/wedc-foxconn-announce-additional-569-million-investment-in-racine-county/
-- WPR coverage: https://www.wpr.org/news/foxconn-expansion-racine-county-wisconsin-jobs
-- Reuters on Microsoft Wisconsin data center investment (Sep 2025): https://www.reuters.com/business/microsoft-boosts-wisconsin-data-center-spending-7-billion-2025-09-18/
-
-### Public work: prevailing wage is a moving target (plan for it)
-Wisconsin's **state prevailing wage** was repealed (state‑funded highway projects) per WisDOT; **federal Davis‑Bacon** can still apply on federally funded projects. Also, proposed legislation has sought to re‑strengthen prevailing wage enforcement, which could change your public‑work economics over a 5‑year horizon.
-- WisDOT prevailing wage compliance page: https://wisconsindot.gov/Pages/doing-bus/civil-rights/labornwage/prevailing-wage-compliance.aspx
-- 2025 WI Legislature bill text examples: https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB490.pdf
+This page assumes the guardrails and tier doctrine established in [Chapter 1: Strategy](index.md). All geographic references follow the 5-tier system defined there; this page enforces, but does not redefine, tiers.
 
 ---
 
-## 2A) Geography -- where to expand inside Wisconsin
-### Tier 1 (0-12 months): "Drive‑time density" -- best ROI
-**Milwaukee Metro + I‑94 Corridor (Milwaukee -> Madison)**
-- Why: dense property inventory, renovation cycles, multifamily, senior living, healthcare clinics, and owner/operator concentration.
-- Target buyer groups: hotel asset managers, property managers, REIT/regional owners, senior living operators, local developers.
+## Diversification Thesis
 
-### Tier 2 (0-24 months): "Second production pod"
-**Madison / Dane County**
-- Why: sustained housing production focus (City goal + public tracker) and a steady private development pipeline.
-- Watch‑out: government/state campus work can be more union‑leaning; aim private development, private education, healthcare clinics.
+Diversification is a **risk-management and margin-protection mechanism**, not a growth strategy on its own. It exists to smooth cycles, introduce repeat work, and add scopes competitors avoid—**on top of** a stable multifamily foundation.
 
-### Tier 3 (12-36 months): "Industrial + growth corridor"
-**Fox Valley (Appleton/Oshkosh/Neenah/Menasha/Kaukauna) + Green Bay**
-- Why: manufacturing base, distribution, and steady commercial growth; senior living developments are visible in this corridor.
-- Example senior living development signal: Fox Cities Chamber announcement for a 75‑unit assisted living development (Fox Crossing): https://foxcitieschamber.com/blog/copperstone-assisted-living-memory-care-announces-new-75-unit-assisted-living-development-in-fox-crossing-wisconsin/
-
-### Tier 4 (opportunistic): "Tourism repaint engine"
-**Wisconsin Dells**
-- Why: high room turnover + constant refresh. You can build repeat repaint programs with a handful of owner groups.
-
-### Tier 5 (specialty only): "Statewide travel jobs"
-**Superior / Northern Wisconsin (only for the right coating/access job)**
-- Why: travel is expensive; do it only when margin + uniqueness (industrial coating, access complexity) justify it.
+Diversification does **not** justify footprint expansion, novelty chasing, or relaxing estimating discipline.
 
 ---
 
-## 3A) Segment targets -- what to pursue in the next 12 months
+## Preconditions
 
-### Segment 1 -- Hospitality renovations & refresh (private)
-**Why it fits:** Tight schedules, occupied environments, high expectation for clean punchlists and coordination. Renovation activity is visible in Milwaukee and statewide tourism nodes.
+No diversification initiative proceeds unless **all** conditions are met.
 
-**What you sell (positioning):**
-- "Occupied‑facility production painting": night work, rapid floor‑by‑floor turns, zero‑surprise scheduling.
-- "Scope clarity that protects reopening dates."
+1. **Multifamily performance is stable.** Crews are loaded, margins are protected, and estimating discipline is intact.
 
-**Primary buyers:** hotel ownership groups, asset managers, facilities directors, renovation GCs who can use open‑shop subs.
+2. **Tier discipline holds (Tiers 1–3 only).** Diversification never justifies Tier 4–5 work except for Tier 4 hospitality when elevated margin thresholds and explicit owner approval are met.
 
-**Competitive angle:** integrated drywall/paint firms don't always want the disruption risk; union painters can be more expensive.
+3. **Entry is partner-led, not bid-led.** GC/owner relationships are proven. Classification rules live in [Chapter 2: GC Intelligence](../ch2-gc-intelligence/).
 
-**Proof points you already have:** large exterior repaint experience (Hyatt Regency exterior repaint) -- perfect credibility anchor.
+4. **Scope fits existing strengths.** Sequencing control, occupied-space execution, coatings competence, or shutdown readiness must be advantages.
 
-**Validation scenario (pilot):**
-- Win 1 hotel refresh package (e.g., 80-200 room repaint scope) with a hard reopen date; deliver within schedule with <2% punchlist rework and documented daily production.
-
-Sources (renovation signal):
-- Hilton Milwaukee renovation completion (Dec 2025): https://onmilwaukee.com/articles/hilton-renovation-complete
-- Pfister lobby renovations (early 2025): https://www.thepfisterhotel.com/renovations/
+If any precondition fails, diversification is deferred.
 
 ---
 
-### Segment 2 -- Senior living / assisted living / memory care (private)
-**Why it fits:** A mix of new build + steady repaint/refresh; operators value reliability, cleanliness, and resident disruption control.
+## Diversification Guardrails
 
-**What you sell:**
-- "Healthcare‑lite standards without healthcare‑bid headaches": containment, odor control, night/weekend scheduling.
-- Multi‑phase repaint programs.
+These rules are **mandatory** and enforceable. Exceeding any guardrail requires owner approval and triggers formal review.
 
-**Primary buyers:** owner/operators, development firms, facility managers, design‑build teams.
+1. **Revenue cap.** Diversification segments may not exceed **40% of total revenue** without owner approval.
 
-**Where to aim:** SE WI + Fox Valley (multiple projects/signals).
+2. **Concurrent segment cap.** No more than **three** active diversification segments (outside multifamily) at any time.
 
-**Validation scenario (pilot):**
-- Land 1 new‑build senior living + 1 occupied repaint program within 12 months; convert to annual facility paint maintenance agreement.
+3. **Estimating bandwidth cap.** No more than **30% of estimating hours** may be allocated to diversification work in any rolling 30-day period.
 
-Sources (project signals):
-- Fox Crossing senior living development announcement: https://foxcitieschamber.com/blog/copperstone-assisted-living-memory-care-announces-new-75-unit-assisted-living-development-in-fox-crossing-wisconsin/
-- Pewaukee senior living expansion (PHS): https://preshomes.org/news/phs-news/kirkland-crossings-breaks-ground-on-new-development/
+4. **Segment exit criteria.** A segment is removed from the approved list after **two consecutive quarters** of below-threshold margin or sustained loss rates, pending owner review.
+
+5. **Escalation authority.** **Owner approval** is required to pause, resume, expand, or exit diversification segments.
 
 ---
 
-### Segment 3 -- Light industrial & manufacturing maintenance coatings
-**Why it fits:** You already have crews with industrial background and two‑component/epoxy experience. Plants need scheduled shutdown work, corrosion control, and durable coatings.
+## Approved Segments
 
-**What you sell:**
-- "Plant‑safe coatings execution": safety compliance, pre‑task planning, surface prep discipline.
-- "Shutdown painting that doesn't extend downtime."
+These segments are approved for active pursuit. All other segments require owner approval before estimating begins.
 
-**Primary buyers:** facility managers, plant engineers, maintenance managers, OEMs, industrial property owners.
+### Hospitality Renovations and Refresh
 
-**Where to aim:**
-- Fox Valley + Green Bay (manufacturing density)
-- I‑94 corridor (Racine/Kenosha/Waukesha) for industrial parks and supplier facilities
+Hospitality fits because tight schedules, occupied environments, and high expectations for clean punchlists reward disciplined execution. Renovation activity is visible in Milwaukee, Madison, Wisconsin Dells, and Green Bay.
 
-**Validation scenario (pilot):**
-- Secure a 2‑site annual maintenance coating contract (even small) with documented coating specs, inspection sign‑offs, and a repeatable shutdown playbook.
+**Positioning:** Occupied-facility production painting with night work capability, rapid floor-by-floor turns, zero-surprise scheduling, and scope clarity that protects reopening dates.
 
-Sources (industrial investment signals):
-- WEDC Foxconn expansion announcement (Nov 2025): https://wedc.org/wedc-foxconn-announce-additional-569-million-investment-in-racine-county/
-- Reuters on Microsoft WI investment (Sep 2025): https://www.reuters.com/business/microsoft-boosts-wisconsin-data-center-spending-7-billion-2025-09-18/
+**Primary buyers:** Hotel ownership groups, asset managers, facilities directors, renovation GCs using open-shop subcontractors.
 
----
+**Competitive advantage:** Integrated drywall/paint firms often avoid disruption risk. Union painters can be more expensive for schedule-sensitive work.
 
-### Segment 4 -- Condo/HOA + multifamily exterior repaint programs (private)
-**Why it fits:** High repeat potential, less "new build bid day" bloodbath, and it leverages your multifamily credibility. Exterior repaints also reduce dependence on new‑construction cycles.
+**Proof point:** Hyatt Regency exterior repaint demonstrates large-scale occupied-facility credibility.
 
-**What you sell:**
-- Multi‑building phased repaint programs
-- Warranty clarity + predictable production
-- Resident communication templates
+**Tier guidance:** Primary in Tiers 1–2. Opportunistic in Tier 3. Tier 4 (Wisconsin Dells) considered only when elevated margin thresholds and explicit owner approval are met.
 
-**Primary buyers:** HOA boards, property management firms, condo associations, multifamily owners.
+### Senior Living and Assisted Living
 
-**Validation scenario (pilot):**
-- Close 1 HOA portfolio agreement covering 3+ buildings with a 2-3 year rolling repaint plan and a defined annual budget.
+Senior living fits because operators value reliability, cleanliness, and resident disruption control. The segment offers a mix of new build and steady repaint/refresh cycles.
 
----
+**Positioning:** Healthcare-lite standards without healthcare-bid headaches. Containment, odor control, night/weekend scheduling, and multi-phase repaint programs.
 
-### Segment 5 -- Select municipal/county facility maintenance (careful selection)
-**Why it fits:** Steady work if you can access it without triggering union issues; many are smaller projects where performance and responsiveness win.
+**Primary buyers:** Owner/operators, development firms, facility managers, design-build teams.
 
-**What you sell:**
-- Fast response maintenance painting
-- After‑hours scheduling for public safety buildings, libraries, admin offices
+**Geographic focus:** SE Wisconsin and Fox Valley, where multiple projects are visible.
 
-**Primary buyers:** facilities directors, building managers, county maintenance teams.
+**Tier guidance:** Primary in Tiers 1–2. Selective in Tier 3 with proven partners.
 
-**Rules of engagement:**
-- Avoid union‑heavy agencies/campuses by default (e.g., UW system)
-- Watch funding source (federal dollars can invoke Davis‑Bacon)
+### Light Industrial and Manufacturing Maintenance
 
-**Validation scenario (pilot):**
-- Win 2 small municipal "task order" style projects (under 60 days) and convert to an on‑call paint maintenance contract.
+Light industrial fits because it rewards coatings competence, shutdown readiness, and safety program depth. Bundling pressure is lower than new-build commercial work.
 
-Source (prevailing wage context):
-- WisDOT prevailing wage compliance: https://wisconsindot.gov/Pages/doing-bus/civil-rights/labornwage/prevailing-wage-compliance.aspx
+**Positioning:** Corrosion control, equipment and structural steel coatings, tank linings, and shutdown/turnaround execution with minimal production disruption.
+
+**Primary buyers:** Plant managers, facility directors, maintenance supervisors, industrial property owners.
+
+**Geographic focus:** Fox Valley manufacturing corridor and I-94 logistics nodes.
+
+**Tier guidance:** Selective in Tiers 2–3 only. Never volume-driven.
+
+### Repeat GC Interior Renovation
+
+Repeat GC interior work fits because known scope patterns reward sequencing discipline and crew continuity. This segment reinforces existing relationships rather than requiring new market entry.
+
+**Positioning:** Reliable interior renovation execution with predictable production rates, minimal rework, and schedule adherence.
+
+**Primary buyers:** Strategic GC partners already classified in [Chapter 2: GC Intelligence](../ch2-gc-intelligence/).
+
+**Tier guidance:** Allowed across Tiers 1–3 when GC performance is proven.
 
 ---
 
-## 3B) Optional adjacency plays (only if the ROI is proven)
-### Traffic markings / striping (parking lots, garages)
-- **Upside:** Pairs naturally with parking facilities repaint scopes (many painters list parking facilities work, but striping is a separate niche).
-- **Downside:** seasonal scheduling + spec/municipal compliance learning curve.
-- **Recommendation:** start by **subcontracting** or renting equipment for 2-3 jobs before buying gear.
+## Segments Explicitly De-Prioritized
 
-### Epoxy floor coatings
-You said you don't do epoxy floors today, but you *can*. Consider only if you repeatedly see:
-- warehouse/industrial clients asking for floors, or
-- parking structures needing coatings.
+These segments are not approved for active pursuit. Estimating time should not be allocated without explicit owner approval.
 
----
+1. **K-12 public schools.** Union-dominated GC landscape and prevailing wage friction.
 
-## 4A) Competitor landscape -- what they do and the gap you can exploit
+2. **Data centers.** Major builds operate under PLAs with union labor requirements.
 
-### Craftmaster Painting (local competitor; broad service menu)
-- Markets served include commercial categories like manufacturing/warehouses, senior & multi‑unit housing, hotels, parking facilities, schools and more (broad footprint; often competes on volume/coverage).
-  - Services list: https://cmpaint.com/services
-  - About page examples of project types (hotels, schools, etc.): https://cmpaint.com/about-us
-  - Procore listing: https://www.procore.com/network/p/craftmaster-painting-llc-franklin
+3. **Retail tenant improvement churn.** Low margin, high administrative burden, unpredictable scheduling. Acceptable as filler only, not a diversification pillar.
 
-**Strategic response:** Don't out‑volume them. Win on **risk control** (estimate narratives, schedule credibility, occupied‑facility execution) and **repeat owner programs**.
+4. **Out-of-state work.** Violates Wisconsin-only guardrail. Historical margin destruction.
 
-### States Drywall & Painting (bundle advantage)
-- Offers both drywall and painting (bundle undercut risk).
-  - BBB profile: https://www.bbb.org/us/wi/oak-creek/profile/drywall-contractors/states-drywall-painting-inc-0694-1000000196
-  - Blue Book listing: https://www.thebluebook.com/iProView/1443682/states-drywall-painting-inc/subcontractors/
-
-**Strategic response:** Move share away from "new build bundle bidding" into **repaints/renos/industrial coatings** where bundling is less decisive.
-
-### Suburban Drywall (finishing platform with painting)
-- Provides drywall, framing, insulation **and painting/staining** services; shows multifamily projects including painting scope.
-  - Company site: https://suburbandrywall.com/
-  - Painting service page: https://suburbandrywall.com/services/painting-staining/
-  - Multifamily project example (includes painting): https://suburbandrywall.com/ourwork/multi-family/
-
-**Strategic response:** Keep your strong working relationship where they remain the drywall contractor and you remain the specialty painter. If they bundle, compete with:
-- **spec‑driven coating performance**, and
-- **tight schedule delivery** they can't resource.
-
-### Dublin Contractors (benchmark for access/exterior capability)
-- Positions in commercial/industrial/institutional and highlights ownership of swing stages/aerial lifts and coating breadth.
-  - Company overview: https://dublincontractorsinc.com/
-
-**Strategic response:** If you want more high‑rise/exterior work, either:
-- invest in access capabilities (swing stage + training), or
-- partner with access providers while you own coatings execution.
-
-### Sanchez Painting Contractors (commercial/industrial)
-- Positions as commercial & industrial painting.
-  - Company site: https://sanchezptg.com/
-  - BBB profile: https://www.bbb.org/us/wi/milwaukee/profile/painting-contractors/sanchez-painting-contractors-inc-0694-14000699
-  - Procore sectors include commercial/healthcare/industrial: https://www.procore.com/network/p/sanchez-painting-contractors-inc-milwaukee
-
-**Strategic response:** Differentiate on **programmatic repaint**, **owner‑direct relationships**, and **estimate transparency** (narratives + production assumptions).
-
-### Programmed Painting (commercial/healthcare/institutional mix)
-- Procore listing indicates commercial/healthcare/institutional/residential sectors.
-  - Procore listing: https://www.procore.com/network/p/programmed-painting-milwaukee
-
-**Strategic response:** Treat as a competitor in healthcare/institutional repaint scopes; verify union expectations per project, but don't assume.
+5. **UW System and union-leaning institutional work.** Unless a true carve-out path exists with owner-direct economics.
 
 ---
 
-## 5A) 12‑month go‑to‑market plan (tactical)
+## Competitive Response Patterns
 
-### Step 1 -- Build 4 vertical "hit lists" (2 weeks)
-1. Hospitality owners/asset managers (Milwaukee, Madison, Dells, Green Bay)
-2. Senior living operators/developers (SE WI + Fox Valley)
-3. Industrial park owners + facility managers (Fox Valley + I‑94)
-4. Property management firms (HOA/condo + multifamily owners)
+Diversification success depends on how LaBrant responds when competitors apply pressure.
 
-**Output:** 25-40 targets per vertical with named decision makers.
+### Volume Undercutting
 
-### Step 2 -- Create 3 capability one‑pagers (1 week)
-- Occupied facility repaint/reno
-- Industrial coatings & shutdown work
-- Exterior access & envelope coatings (even if partnered initially)
+When competitors bid aggressively to win volume (10–15% below your number), do not chase the price floor. Respond by reframing the opportunity around schedule certainty, QA documentation, change-order discipline, and no-surprises closeout. If margin rules cannot hold, decline.
 
-### Step 3 -- Run 90‑day outreach sprints (repeatable)
-- Weekly cadence: 15 warm touches + 10 cold touches + 3 in‑person site walks
-- Convert to **site walk -> budget number -> scoped proposal**
+### Drywall Bundling
 
-### Step 4 -- Protect your base from Craftmaster's low‑bid cycle
-- Bid gate: pursue only multifamily jobs where you can win by schedule certainty, QA, and relationship--not by being the lowest number.
-- Keep 10-15% capacity reserved for higher‑margin repaint/reno.
+When drywall contractors package painting to compress pricing, treat this as structural pressure on new-build interiors. Respond by shifting pursuit toward owner-direct repaints, specialty scopes (coatings, exterior systems, shutdown work), or partnering strategically when drywall is locked and they need a specialist painter.
 
----
+### Schedule Compression
 
-## 5B) 5‑year growth plan (how you become a larger player)
+When competitors underbid schedule-sensitive work or accept compressed timelines without compensation, respond by emphasizing occupied-facility execution capability, documented production rates, and risk transfer. Position LaBrant as the contractor who protects reopening dates. Price schedule risk explicitly or walk.
 
-### Year 1-2: "Second lane" without breaking ops
-- Add repeat accounts in hospitality/senior living/industrial maintenance.
-- Build templates: estimate narratives, shutdown playbooks, occupied‑work checklists.
+### One-Off Specials
 
-### Year 2-3: "Second production pod" in Madison
-- Stand up a small Madison crew/lead (not necessarily an office) once revenue is consistent.
-- Goal: reduce travel friction and win more private Madison work.
+When opportunities arise outside repeat programs, decline unless conversion to program intent is explicit. One-off diversification work without a repeat path violates the thesis.
 
-### Year 3-5: "Statewide repeat accounts"
-- Land 2-3 statewide owner portfolios (property management, hospitality group, senior living operator).
-- Build maintenance contracts: quarterly/annual repaint cycles.
-
-### Capability investments (selective)
-- Access capability (swing stage training/equipment) if high‑rise exteriors become a consistent lane.
-- Traffic marking / striping only after 2-3 profitable pilots.
+Detailed competitor profiles live in [Competitive Intelligence Attachment](../attachments/competitor-profiles.md).
 
 ---
 
-## 6A) Risks / counter‑points (so you don't scale the wrong way)
-1. **Diversification dilutes estimating focus** -> Mitigate by limiting to 2-3 new verticals in year 1.
-2. **Travel destroys margin** -> Mitigate by tiered geography (Tier 1-3 first; Superior only for specialty).
-3. **Union friction / bid environment surprises** -> Mitigate by screening funding source and GC labor posture early.
-4. **Public work wage rules could shift** over 5 years -> Mitigate by tracking WI legislative changes and pricing contingencies.
+## Go-to-Market Execution
+
+### 12-Month Plan
+
+1. **Build vertical target lists (Weeks 1–2).** Create four lists: hospitality owners and asset managers, senior living operators and developers, industrial facility managers, and property management firms. Target 25–40 prospects per list with named decision-makers.
+
+2. **Create capability packages (Week 3).** Develop three one-pagers: occupied-facility repaint and renovation, industrial coatings and shutdown work, and exterior access and envelope coatings.
+
+3. **Run 90-day outreach sprints (ongoing).** Execute weekly cadence: 15 warm touches, 10 cold touches, 3 in-person site walks. Convert to site walk → budget number → scoped proposal.
+
+4. **Protect the base (ongoing).** Bid gate all multifamily work. Pursue only where LaBrant can win by schedule certainty, QA, and relationship—not lowest number. Reserve 10–15% capacity for higher-margin repaint and renovation work.
+
+5. **Convert pilots to programs.** Any diversification pilot that does not convert to a repeat program or maintenance agreement within 12 months is exited.
+
+### 5-Year Roadmap
+
+**Years 1–2: Second lane without breaking ops.** Add repeat accounts in hospitality, senior living, and industrial maintenance. Build templates: estimate narratives, shutdown playbooks, occupied-work checklists.
+
+**Years 2–3: Second production pod in Madison.** Stand up a small Madison crew or lead (not necessarily an office) once revenue is consistent. Goal: reduce travel friction and win more private Madison work.
+
+**Years 3–5: Statewide repeat accounts.** Land 2–3 statewide owner portfolios (property management, hospitality group, senior living operator). Build maintenance contracts with quarterly or annual repaint cycles.
+
+**Capability investments (selective).** Add access capability (swing stage training and equipment) only if high-rise exteriors become a consistent lane. Traffic marking and striping only after 2–3 profitable pilots.
 
 ---
 
-## 6B) Scorecard -- how you'll know it's working
-- % revenue outside multifamily (target: **+10-15%** within 12 months; **30-40%** by year 5)
-- Repeat revenue ratio (target: **>40%** of non‑multifamily from repeat accounts by year 3)
-- Gross margin by vertical (track separately; kill lanes that look "busy but broke")
-- Estimating hit rate by vertical (optimize where you're actually winning)
+## Risks
+
+Diversification creates specific risks that must be actively managed.
+
+1. **Estimating dilution.** Diversification spreads estimating focus. Mitigate by limiting to 2–3 new verticals in Year 1 and enforcing the 30% estimating bandwidth cap.
+
+2. **Travel margin destruction.** Distance erodes margin quickly. Mitigate by enforcing tier discipline and requiring Tier 4–5 work to meet elevated margin thresholds.
+
+3. **Union friction surprises.** Bid environment can shift unexpectedly. Mitigate by screening funding source and GC labor posture early in qualification.
+
+4. **Prevailing wage changes.** Wisconsin legislative environment may shift over 5 years. Mitigate by tracking proposed legislation and pricing contingencies into public work.
+
+5. **Core neglect.** Diversification can quietly starve multifamily. Mitigate by monitoring multifamily margin monthly and triggering automatic diversification pause if core performance degrades.
 
 ---
 
-## 6C) # REVIEW_LEGACY:
-- Any legacy approach of chasing volume when Craftmaster bids low (often creates margin stress).
-- Any habit of letting integrated drywall/paint firms force you into "lowest number wins" new‑build contests.
-- Any one‑off statewide travel job without a repeat‑account path.
+## Validation Scenarios
+
+These scenarios test whether diversification is being executed correctly. If expected outcomes are not achieved, investigate precondition failures, guardrail violations, or execution gaps.
+
+1. **Hospitality entry.** Identify 10 target hotels or HOAs in Tiers 1–2. Complete 20 introductions and 6 site walks. Expected outcome: 2 proposals accepted within 90 days, with at least 1 converting to a repeat-cycle agreement.
+
+2. **Senior living entry.** Identify 12 decision-makers at senior living operators or developers. Conduct 4 refresh or new-build bids. Expected outcome: 1 award within 30 days converting to annual maintenance agreement.
+
+3. **Industrial entry.** Identify 15 plants or warehouses in Tiers 2–3. Complete 10 facility manager meetings and 3 shutdown bids. Expected outcome: 1 pilot shutdown job meeting margin threshold with coatings compliance documented.
+
+4. **Repeat GC expansion.** Increase share of interior renovation work with top-tier GCs by 15% year-over-year while maintaining margin at or above threshold.
+
+5. **Diversification overload (failure mode).** If estimating hours on diversification exceed 30% for two consecutive months, or if multifamily margin drops below threshold while diversification is active, diversification must pause pending owner review.
 
 ---
 
-## Assumptions
-- You remain **non‑union** and prefer to minimize union conflict.
-- Multifamily remains your **production base** for the next decade.
-- You can invest in equipment/training, but only when there is **validated demand**.
-- You prefer **private owner / developer** routes and only selectively pursue public work.
+## Notes
+
+This page defines diversification policy and enforcement. It does not contain GC-specific intelligence, financial metrics, or segment-level playbook detail beyond what is needed for qualification.
+
+Diversification performance is measured using KPIs defined in [Chapter 7: Sales System](../ch7-sales-system.md). GC classifications and partner tiers live in [Chapter 2: GC Intelligence](../ch2-gc-intelligence/). Detailed segment execution playbooks live in [Chapter 5: Market Segments](../ch5-market-segments/).
+
+**Market signal sources:**
+
+1. City of Madison Housing Tracker (housing production goals): cityofmadison.com/dpced/community-development/housing/housing-tracker
+2. Hilton Milwaukee renovation completion (December 2025): onmilwaukee.com
+3. Pfister Hotel lobby renovations (early 2025): thepfisterhotel.com/renovations
+4. Fox Crossing senior living development: foxcitieschamber.com
+5. Foxconn/WEDC expansion announcement (November 2025): wedc.org
+6. Wisconsin prevailing wage compliance: wisconsindot.gov
+
+---
+
+_Last updated: 2025-12-28_

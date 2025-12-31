@@ -1,6 +1,13 @@
 # Flooring Market Entry: Research Gaps & Market Opportunity Analysis
 **LaBrant & Associates LLC**  
-**Date:** December 30, 2024 | **Revision:** 1.0
+**Date:** December 30, 2024 | **Revision:** 1.1
+
+**Changelog (Rev 1.1):**
+- Updated FLOOR360 gap to reflect confirmed vs. still-missing intelligence
+- Confirmed FLOOR360 company size ($12.5-15M, 56-69 employees, in-house crews)
+- Confirmed CertaPro is NOT a soft flooring competitor (epoxy/coatings only)
+- Added reference to competitive analysis document for detailed profiles
+- Clarified priority sequencing for intelligence gathering
 
 ---
 
@@ -16,21 +23,36 @@ After reviewing all project files and working memory, the following areas requir
 
 ### Critical Gaps (Address Before First Flooring Bid)
 
-**1. FLOOR360 Deep Dive - Incomplete**
-Current knowledge: Basic company profile, contacts (Matt Nelson, Bob Blake), confirmation they serve multifamily
-Missing: Their specific SE Wisconsin project history with your target GCs (McShane, Fiduciary, Greenfire, Stevens), their pricing structure, whether they subcontract installation or use employees, their capacity/backlog, financial stability verification
+**1. FLOOR360 GC Relationships and Pricing - PARTIALLY RESOLVED**
 
-**2. Which Flooring Subs Are Actually Bidding Your GC Projects**
+| Confirmed | Still Missing |
+|-----------|---------------|
+| Revenue: $12.5-15M | Which SE WI GCs they work with |
+| Employees: 56-69 | Specific project history (McShane, Fiduciary, Greenfire) |
+| In-house installation crews | Typical bid pricing for multifamily |
+| Leadership: Ryan Koechel (President) | Capacity/backlog status |
+| Milwaukee office: 12500 W Silver Spring Dr | Financial stability verification |
+| No DBE/SBE certification | |
+
+**Next Step:** Call FLOOR360 Milwaukee (Matt Nelson or Bob Blake) under pretense of exploring subcontractor partnership. Learn their pricing, capacity, and which GCs they work with.
+
+**2. Which Flooring Subs Are Actually Bidding Your GC Projects - UNRESOLVED**
 Current knowledge: None
 Missing: Bid tabulation data showing which flooring contractors are winning McShane, Fiduciary, Greenfire, and Stevens multifamily work—and at what prices. This is the single most important intelligence gap.
 
-**3. Carpet/Tile Subcontractor Vetting for Hybrid Model**
+**Next Step:** Ask McShane estimator directly: "Who do you typically use for flooring on your multifamily projects? Are you happy with them?"
+
+**3. Carpet/Tile Subcontractor Vetting for Hybrid Model - UNRESOLVED**
 Current knowledge: BYCO identified as potential partner with DBE/SBE/MBE certs
 Missing: Verified pricing from BYCO, reference checks, insurance certificates, capacity confirmation. Also need 1-2 backup subcontractors identified and vetted.
 
-**4. Insurance and Workers' Comp Cost Differential**
+**Next Step:** Request meeting with BYCO (262-894-6995) to explore subcontractor partnership.
+
+**4. Insurance and Workers' Comp Cost Differential - UNRESOLVED**
 Current knowledge: NCCI Code 5437 exists for flooring at ~$4.05-5.00 per $100
 Missing: Actual quotes from your carrier showing premium impact of adding flooring classification. Need dollar figure before finalizing margin calculations.
+
+**Next Step:** Contact insurance broker for quote on adding NCCI 5437 flooring classification.
 
 ### Important Gaps (Address Within 60 Days)
 
@@ -64,23 +86,24 @@ Missing: Their approximate pricing to understand union/non-union delta in the ma
 
 ## Part 2: FLOOR360 Competitive Intelligence
 
-### Company Profile
+### Company Profile - VERIFIED
 
 FLOOR360 is larger and more sophisticated than initial research suggested. They represent the primary non-union flooring competitor in the Wisconsin multifamily market.
 
-| Attribute | Details |
-|-----------|---------|
-| Headquarters | 5117 Verona Rd, Madison, WI 53711 |
-| Milwaukee Office | 12500 W Silver Spring Dr (opened 2019) |
-| Phone | 608-274-2500 (Madison), Milwaukee TBD |
-| Founded | 1998 (26+ years) |
-| Ownership | Laurie and Bob Tobe (founders); Ryan Koechel (President) |
-| CFO | Robert Richter |
-| Revenue | **$12.5-15 million** |
-| Employees | **56-69 employees** |
-| Union Status | Non-union |
+| Attribute | Details | Verification Status |
+|-----------|---------|---------------------|
+| Headquarters | 5117 Verona Rd, Madison, WI 53711 | Confirmed |
+| Milwaukee Office | 12500 W Silver Spring Dr (opened 2019) | Confirmed |
+| Phone | 608-274-2500 (Madison) | Confirmed |
+| Founded | 1998 (26+ years) | Confirmed |
+| Ownership | Laurie and Bob Tobe (founders); Ryan Koechel (President) | Confirmed |
+| CFO | Robert Richter | Confirmed |
+| Revenue | **$12.5-15 million** | Confirmed (multiple sources) |
+| Employees | **56-69 employees** | Confirmed (multiple sources) |
+| Union Status | Non-union | Confirmed |
+| DBE/SBE Certification | **None identified** | Verified - significant LaBrant advantage |
 
-### Installation Model: In-House Teams (NOT Subcontractors)
+### Installation Model: In-House Teams (NOT Subcontractors) - VERIFIED
 
 FLOOR360 explicitly states "Installation teams from FLOOR360 have the knowledge and skillsets to complete even the most challenging installations." Their Indeed career page confirms they employ installers directly. This is significant because:
 
@@ -89,7 +112,7 @@ FLOOR360 explicitly states "Installation teams from FLOOR360 have the knowledge 
 3. They have invested in training and retention
 4. They are NOT a "broker" model like some competitors
 
-### Market Focus Confirmation
+### Market Focus Confirmation - VERIFIED
 
 Their commercial portfolio page explicitly lists:
 - Senior Housing
@@ -132,14 +155,15 @@ They completed The Adria apartments in downtown Madison—confirming active mult
 - No painting capability (cannot offer Division 9 package)
 - Milwaukee office is secondary market
 - Residential-heavy portfolio may limit commercial focus
+- **No DBE/SBE certification** - significant disadvantage on WHEDA and municipal projects
 
-**Strategic Implication:** FLOOR360 is a formidable flooring competitor but cannot match LaBrant's potential painting+flooring package. They could also be a subcontractor partner if LaBrant wants to sub flooring initially while building capability.
+**Strategic Implication:** FLOOR360 is a formidable flooring competitor but cannot match LaBrant's potential painting+flooring package. Their lack of certification is exploitable on diversity-focused projects. They could also be a subcontractor partner if LaBrant wants to sub flooring initially while building capability.
 
 ---
 
 ## Part 3: CertaPro Painters - Flooring Analysis
 
-### Finding: NOT a Soft Flooring Competitor
+### Finding: NOT a Soft Flooring Competitor - VERIFIED
 
 CertaPro Painters of Milwaukee offers flooring services, but they are limited to **epoxy and polyurea coatings only**—garage floors, industrial floors, pool decks, and patios. This is essentially an extension of their painting/coatings business, not soft flooring.
 
@@ -160,6 +184,8 @@ CertaPro Painters of Milwaukee offers flooring services, but they are limited to
 ### Competitive Implication
 
 CertaPro is NOT competing in the multifamily flooring space. Their flooring offering is industrial/garage coating work—completely different market segment. They remain a competitor only in residential and light commercial painting (they are a franchise broker model, not a direct competitor for commercial construction).
+
+**This gap is CLOSED.** No further research needed on CertaPro flooring capabilities.
 
 ---
 
@@ -245,6 +271,8 @@ From the WHEDA 2025 data:
 
 On virtually every accessible WHEDA project, LaBrant's certifications create competitive advantage. Adding flooring doubles the dollar value that counts toward GC participation goals.
 
+**Competitive Advantage Over FLOOR360:** Despite their $12-15M revenue and 56-69 employees, FLOOR360 has NO DBE/SBE certification. On diversity-focused projects, LaBrant's combined painting+flooring package with certifications beats FLOOR360's flooring-only offering without certifications.
+
 ---
 
 ## Part 6: Recommended Next Steps
@@ -276,9 +304,18 @@ On virtually every accessible WHEDA project, LaBrant's certifications create com
 
 ## Conclusion
 
-The research validates flooring expansion as a high-potential opportunity. FLOOR360 is a capable competitor but lacks painting capability and DBE/SBE certification. CertaPro is not competing in this space. The WHEDA 2025 pipeline alone represents **$3.7M in flooring opportunity**, of which LaBrant could realistically capture **$560K-$1.3M annually** while simultaneously making the company more valuable to GCs through certification stacking.
+The research validates flooring expansion as a high-potential opportunity. FLOOR360 is a capable competitor but lacks painting capability and DBE/SBE certification. CertaPro is not competing in this space (confirmed—epoxy/coatings only). The WHEDA 2025 pipeline alone represents **$3.7M in flooring opportunity**, of which LaBrant could realistically capture **$560K-$1.3M annually** while simultaneously making the company more valuable to GCs through certification stacking.
 
 The critical path forward is closing the intelligence gaps on (1) which flooring subs are currently winning your GCs' work, and (2) verified pricing from potential subcontractor partners. These two pieces of information will determine go/no-go timing and pricing strategy.
+
+---
+
+## Related Documents
+
+For detailed competitive profiles and operational guidance, see:
+- SE Wisconsin Flooring Market Entry Analysis (Rev 1.1) - Full competitive landscape
+- Flooring Market Entry Operational Guide (Rev 1.1) - Pricing, equipment, risk factors
+- Painting & Flooring Operational Synergies (Rev 1.1) - Cross-trade efficiencies
 
 ---
 

@@ -1,7 +1,15 @@
 # SE Wisconsin Flooring Market Entry Analysis for LaBrant & Associates
-**Date:** December 30, 2024 | **Revision:** 1.0  
+**Date:** December 30, 2024 | **Revision:** 1.1  
 **Purpose:** Competitive Intelligence for Flooring Services Expansion  
 **Market Focus:** Multifamily Construction, SE Wisconsin 100-Mile Radius
+
+**Changelog (Rev 1.1):**
+- Updated FLOOR360 profile with verified company size ($12.5-15M revenue, 56-69 employees, in-house crews)
+- Added FLOOR360 Milwaukee office address and leadership contacts
+- Added CertaPro analysis (NOT a soft flooring competitor—epoxy/coatings only)
+- Added WHEDA 2025 market opportunity quantification ($3.7M flooring, $6.9M combined)
+- Added certification stacking value proposition section
+- Confirmed installation model differences between competitors
 
 ---
 
@@ -10,6 +18,48 @@
 LaBrant & Associates has identified a strategic opportunity to package flooring services with painting in multifamily construction—mirroring how Suburban Drywall packages drywall and painting. Deep competitive research reveals **the SE Wisconsin flooring subcontractor market is fragmented with no dominant non-union player specializing in multifamily.** Union contractors dominate institutional and hospitality work, while the multifamily segment has gaps that a merit-shop painting contractor with flooring capabilities could exploit.
 
 **Key Finding:** Only one regional competitor—IOC Construction (Chicago-based)—currently offers painting + flooring as a package for multifamily. Thomas A. Mason, Wisconsin's largest painting contractor, offers flooring but operates union-only and focuses on institutional work rather than multifamily apartments.
+
+**Market Opportunity:** The 2025 WHEDA Housing Tax Credit awards alone represent **$3.7M in flooring opportunity** and **$6.9M in combined painting+flooring opportunity** across 1,067 accessible units. LaBrant's DBE/SBE certifications create multiplicative value through certification stacking on diversity-focused projects.
+
+---
+
+## WHEDA 2025 Market Opportunity Summary
+
+| Metric | Value |
+|--------|-------|
+| Accessible Projects | 13 projects |
+| Total Units | 1,067 units |
+| Painting Opportunity | $3,201,000 @ $3,000/unit |
+| Flooring Opportunity | $3,734,500 @ $3,500/unit |
+| **Combined Division 9** | **$6,935,500 @ $6,500/unit** |
+
+**Realistic Capture Scenarios:**
+
+| Capture Rate | Painting Only | Flooring Only | Combined | Incremental from Flooring |
+|--------------|---------------|---------------|----------|---------------------------|
+| 15% | $480,150 | $560,175 | $1,040,325 | +$560,175 |
+| 25% | $800,250 | $933,625 | $1,733,875 | +$933,625 |
+| 35% | $1,120,350 | $1,307,075 | $2,427,425 | +$1,307,075 |
+
+---
+
+## Certification Stacking Value Proposition
+
+Combining painting + flooring under one DBE/SBE contractor creates multiplicative value for GCs on diversity-focused projects.
+
+**Example: 100-unit WHEDA project in Milwaukee**
+- Total construction cost: $25 million
+- 25% SBE participation goal: $6.25 million required
+- LaBrant painting-only bid: $300,000 (counts toward goal)
+- LaBrant painting+flooring bid: $650,000 (counts toward goal)
+
+**Value to GC:** By awarding both trades to LaBrant, the GC gets **$650,000 toward their $6.25M goal from a single subcontractor relationship** instead of managing two separate certified subs.
+
+**Certification leverage by project type:**
+- Milwaukee City: 25% SBE goal + 10% bid preference on combined scope
+- Milwaukee County: 25% TBE goal (DBE = TBE recognition)
+- WHEDA-funded: Diversity requirements on all HTC projects
+- RPP: Combined scope = more Milwaukee resident workforce hours
 
 ---
 
@@ -91,6 +141,24 @@ LaBrant & Associates has identified a strategic opportunity to package flooring 
 
 ---
 
+### NOT a Competitor: CertaPro Painters
+
+**Finding: Epoxy/Coatings Only — NOT Soft Flooring**
+
+CertaPro Painters of Milwaukee offers flooring services, but they are limited to **epoxy and polyurea coatings only**—garage floors, industrial floors, pool decks, and patios. This is essentially an extension of their painting/coatings business, not soft flooring.
+
+| CertaPro Offers | CertaPro Does NOT Offer |
+|-----------------|------------------------|
+| Epoxy floor coatings | LVP/LVT installation |
+| Polyurea coatings (Citadel brand) | Carpet installation |
+| Concrete staining | Sheet vinyl |
+| Garage floor finishing | Tile installation |
+| Industrial floor coatings | Any "soft" flooring |
+
+**Competitive Implication:** CertaPro is NOT competing in the multifamily flooring space. Their flooring offering is industrial/garage coating work—completely different market segment. They remain a competitor only in residential and light commercial painting (they are a franchise broker model, not a direct competitor for commercial construction).
+
+---
+
 ### Tier 2: Commercial Flooring Specialists (Flooring Only)
 
 #### Lippert Flooring & Tile
@@ -117,17 +185,25 @@ LaBrant & Associates has identified a strategic opportunity to package flooring 
 ---
 
 #### FLOOR360
-**Threat Level: MODERATE — Active in multifamily but flooring-only**
+**Threat Level: MODERATE-HIGH — Active in multifamily, well-resourced**
 
 | Attribute | Details |
 |-----------|---------|
 | Headquarters | 5117 Verona Rd, Madison, WI 53711 |
-| Milwaukee Office | Yes (opened 2019) |
+| Milwaukee Office | **12500 W Silver Spring Dr** (opened 2019) |
 | Phone | 608-274-2500 (Madison) |
-| Founded | 1998 |
+| Founded | 1998 (26+ years) |
+| **Revenue** | **$12.5-15 million** |
+| **Employees** | **56-69 employees** |
 | Union Status | Non-union |
+| **Installation Model** | **In-house crews (NOT subcontractors)** |
 
-**Milwaukee Contacts:**
+**Leadership:**
+- Laurie and Bob Tobe (Founders/Owners)
+- Ryan Koechel (President)
+- Robert Richter (CFO)
+
+**Milwaukee Commercial Contacts:**
 - Matt Nelson: mnelson@floor360.com
 - Bob Blake: bblake@floor360.com
 
@@ -136,19 +212,36 @@ LaBrant & Associates has identified a strategic opportunity to package flooring 
 - Travis Lindhardt: tlindhardt@floor360.com
 - Jeff Rathsack: jrathsack@floor360.com
 
-**Market Focus:** Explicitly lists "Senior Housing, Student & Low Income Housing, Apartments, Condominiums" in their commercial portfolio. They completed The Adria apartments in downtown Madison.
+**Market Focus (Confirmed):** Explicitly lists "Senior Housing, Student & Low Income Housing, Apartments, Condominiums" in their commercial portfolio. They completed The Adria apartments in downtown Madison.
 
 **Capabilities:**
-- Carpet and carpet tile
-- LVT/LVP installation
+- Carpet and carpet tile (in-house)
+- LVT/LVP installation (in-house)
 - Tile (through subcontract)
 - Certified payrolls, prevailing wage capable
 - Performance bonding capacity
 - AIA payment applications
 
-**Why They Matter:** FLOOR360 is actively pursuing the same multifamily segment LaBrant targets. However, they offer flooring only—not painting. A packaged painting + flooring solution would compete directly while offering GCs single-source convenience.
+**Key Intelligence: In-House Installation Model**
 
-**Competitive Consideration:** Could become a subcontractor partner rather than competitor if LaBrant wants to sub out flooring while building capability.
+FLOOR360 employs installers directly—they are NOT a broker model. Their Indeed career page confirms they hire floor layers as employees. This means:
+1. They control quality directly (no subcontractor variability)
+2. They have scheduling flexibility with employee crews
+3. They have invested significantly in training and retention
+4. They are a more formidable competitor than initially assessed
+
+**Competitive Assessment:**
+
+| FLOOR360 Strengths | FLOOR360 Weaknesses |
+|-------------------|---------------------|
+| 26-year track record | Madison-headquartered (60 mi from MKE) |
+| In-house installation teams | No painting capability |
+| Milwaukee presence since 2019 | Cannot offer Division 9 package |
+| Performance bonding capacity | Milwaukee is secondary market |
+| $12.5-15M annual revenue | Residential-heavy portfolio |
+| **No DBE/SBE certification** | May limit commercial focus |
+
+**Strategic Implication:** FLOOR360 is a formidable flooring competitor but cannot match LaBrant's potential painting+flooring package. Their lack of DBE/SBE certification is a significant disadvantage on WHEDA and municipal projects. They could also be a subcontractor partner if LaBrant wants to sub flooring initially while building capability.
 
 ---
 
@@ -264,12 +357,13 @@ Serves Wisconsin market per Procore. Focus on residential and commercial floorin
 - No Milwaukee-based merit-shop contractor offers both trades
 
 **Gap 2: Fragmented Flooring Subcontractor Market**
-- No single dominant player in multifamily flooring
+- FLOOR360 is largest non-union player but Madison-based
 - Many contractors are union (Lippert, United, Orlandini)
 - Non-union players are either residential-focused or Madison-based
 
 **Gap 3: Certification Leverage Untapped**
 - BYCO is only identified flooring sub with DBE/SBE
+- FLOOR360 has NO DBE/SBE certification
 - LaBrant's certifications + flooring = unique positioning
 - WHEDA projects require diversity participation
 
@@ -285,16 +379,15 @@ Serves Wisconsin market per Procore. Focus on residential and commercial floorin
 Market LaBrant as the only Milwaukee-based merit-shop contractor offering both painting AND flooring for multifamily—exactly what Suburban Drywall does with drywall + painting.
 
 ### Position 2: Certification Stacking
-Combine DBE/SBE status with flooring to increase value on diversity-focused projects. WHEDA, City of Milwaukee, and Milwaukee County projects all have participation requirements that flooring scope helps satisfy.
+Combine DBE/SBE status with flooring to increase value on diversity-focused projects. WHEDA, City of Milwaukee, and Milwaukee County projects all have participation requirements that flooring scope helps satisfy. Combined scope means GCs get **double the participation credit** from a single subcontractor relationship.
 
 ### Position 3: Target GC Relationships First
 Start with existing strong relationships: McShane, Fiduciary, Greenfire, Stevens, VJS. Offer flooring as add-on scope to jobs already won for painting.
 
-### Position 4: Differentiate from IOC
-- Local presence (Milwaukee vs. Batavia)
-- Certification advantages (DBE/SBE)
-- Established GC relationships
-- Lower overhead structure
+### Position 4: Differentiate from Competitors
+- vs. IOC: Local presence (Milwaukee vs. Batavia), certification advantages, established GC relationships
+- vs. FLOOR360: Painting capability, DBE/SBE certification, Division 9 package offering
+- vs. Thomas A. Mason: Merit-shop pricing, multifamily focus
 
 ---
 
@@ -305,7 +398,7 @@ If LaBrant pursues a hybrid model (self-perform LVP, sub-out carpet/tile), these
 | Company | Specialty | Certification | Union | Notes |
 |---------|-----------|---------------|-------|-------|
 | BYCO Tile and Floor | Full service | DBE, SBE, MBE | No | Certification stacking potential |
-| FLOOR360 | LVT, carpet | None | No | Active in multifamily, Madison-based |
+| FLOOR360 | LVT, carpet | None | No | $12-15M, in-house crews, capable but no certs |
 | Adair Commercial | Full service | None | Mixed | Verify financial standing |
 
 **Avoid for subcontracting:**
@@ -345,11 +438,11 @@ If LaBrant pursues a hybrid model (self-perform LVP, sub-out carpet/tile), these
 
 ## Competitive Intelligence Gaps Requiring Further Research
 
-1. **Bid tabulation review** — Which flooring subs are actually bidding McShane, Fiduciary, Greenfire multifamily projects?
+1. **FLOOR360 pricing and GC relationships** — Which GCs do they work with? What are their typical bid prices for multifamily LVP/carpet?
 
-2. **GC preference interviews** — Direct conversations with estimators at target GCs about current flooring sub performance and pain points
+2. **Bid tabulation review** — Which flooring subs are actually bidding McShane, Fiduciary, Greenfire multifamily projects?
 
-3. **Pricing benchmarks** — Collect actual bid pricing from recent multifamily projects to establish market rates
+3. **GC preference interviews** — Direct conversations with estimators at target GCs about current flooring sub performance and pain points
 
 4. **IOC Construction deep dive** — Their Milwaukee project history, which property managers they serve, pricing structure
 
@@ -363,11 +456,13 @@ If LaBrant pursues a hybrid model (self-perform LVP, sub-out carpet/tile), these
 1. Contact Sherwin-Williams FloorCovering (Waukesha) to establish material relationship
 2. Request meeting with BYCO to explore subcontractor partnership
 3. Discuss flooring add-on with McShane, Fiduciary on current pipeline projects
+4. Ask McShane estimator: "Who do you use for flooring? Are you happy with them?"
 
 **Month 1:**
 1. Identify 2-3 flooring subs currently bidding McShane/Fiduciary work
 2. Obtain equipment quotes for LVP self-performance
 3. Send key personnel to LVP installation training
+4. Get insurance quote for adding NCCI 5437 flooring classification
 
 **Quarter 1:**
 1. Bid first flooring package with existing painting scope

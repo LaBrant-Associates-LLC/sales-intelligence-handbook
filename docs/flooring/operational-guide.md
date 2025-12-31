@@ -1,7 +1,40 @@
 # Flooring Market Entry: Operational Guide & Pricing Reference
 **LaBrant & Associates LLC**  
-**Date:** December 30, 2024 | **Revision:** 1.0  
+**Date:** December 30, 2024 | **Revision:** 1.1  
 **Purpose:** Pricing, Estimating, Scope Definitions, Equipment, and Risk Factors
+
+**Changelog (Rev 1.1):**
+- Added WHEDA 2025 market opportunity context ($3.7M flooring, $6.9M combined)
+- Added certification stacking value proposition section
+- Added synergies with existing painting QC processes
+- Added CertaPro clarification (epoxy only, not soft flooring competitor)
+- Updated competitive landscape context from market research
+
+---
+
+## Market Opportunity Context
+
+### WHEDA 2025 Pipeline
+
+The 2025 WHEDA Housing Tax Credit awards represent significant flooring opportunity within LaBrant's service area:
+
+| Metric | Value |
+|--------|-------|
+| Accessible Projects | 13 projects, 1,067 units |
+| Flooring Opportunity | $3,734,500 @ $3,500/unit |
+| Combined Painting+Flooring | $6,935,500 @ $6,500/unit |
+| Realistic Capture (25%) | $933,625 flooring / $1,733,875 combined |
+
+This represents WHEDA projects only—additional opportunity exists with existing GC relationships on non-WHEDA multifamily work.
+
+### Certification Stacking Advantage
+
+Combining painting + flooring under one DBE/SBE contractor creates multiplicative value for GCs. On a 100-unit Milwaukee project with 25% SBE participation goal:
+
+- Painting-only bid ($300K) = $300K toward goal
+- Combined bid ($650K) = $650K toward goal from single sub
+
+This reduces GC administrative burden while making participation goals easier to achieve.
 
 ---
 
@@ -23,6 +56,24 @@ Flooring falls under **CSI Division 09 - Finishes**, the same division as painti
 | 09 68 16 | Sheet Carpeting | Broadloom carpet (bedrooms) |
 | 09 90 00 | Painting and Coating | **Current core scope** |
 | 09 30 00 | Tiling | Ceramic/porcelain (separate trade) |
+
+---
+
+## Synergies with Existing Painting Operations
+
+LaBrant's painting QC processes already address several flooring requirements. These existing practices transfer directly:
+
+### Environmental Monitoring (Already Done)
+LaBrant's daily QC reports already capture relative humidity and temperature readings. Flooring manufacturers require the same 65-85°F range and similar RH thresholds. **If the space isn't ready for paint, it isn't ready for flooring.** This documentation discipline transfers directly.
+
+### Substrate Inspection (Same Mindset)
+Before painting, crews inspect walls for cracks, holes, moisture damage. The same inspection mindset applies to floor substrates—the documentation habit is already embedded.
+
+### AIA Billing (Identical Process)
+G702/G703 payment applications, percentage complete tracking, progress photography—all transfer directly to flooring scope with no new systems required.
+
+### Safety Culture (Already Built)
+OSHA 10 certifications, weekly safety meetings, PPE requirements, hazard communication—all apply equally to flooring work. Only flooring-specific hazards (knee strain, adhesive ventilation) need to be added.
 
 ---
 
@@ -115,6 +166,8 @@ This is not finish carpentry scope. Finish carpenters handle wood trim, baseboar
 - Commercial kitchens (quarry tile)
 - Mechanical rooms (epoxy or sheet vinyl)
 
+**Note on Epoxy:** CertaPro Painters offers epoxy/polyurea floor coatings in the Milwaukee market, but they do NOT offer soft flooring (LVP, carpet, sheet vinyl). Their "flooring" services are industrial/garage coatings only—a completely different market segment.
+
 ---
 
 ## Pricing Benchmarks: SE Wisconsin Market
@@ -179,6 +232,8 @@ This is not finish carpentry scope. Finish carpenters handle wood trim, baseboar
 | 2BR | 1,000 | $1,800-3,000 | $3,300-5,000 | $5,000-9,000 |
 | 3BR | 1,250 | $2,200-3,800 | $4,000-6,500 | $6,500-11,000 |
 
+**WHEDA/Workforce Housing:** Use $3,500/unit as mid-range estimate for typical affordable housing projects.
+
 ### Typical Material Split (Market-Rate Unit)
 
 Assuming 900 SF 1BR unit:
@@ -225,140 +280,50 @@ Assuming 900 SF 1BR unit:
 
 ### Carpet Installation (Phase 2)
 
-**Essential Equipment — $2,500-5,000:**
+**Essential Equipment — $2,500-5,000 Total:**
 
 | Tool | Purpose | Cost |
 |------|---------|------|
-| Power stretcher | Stretching broadloom | $600-1,000 |
-| Knee kicker | Initial stretch/positioning | $100-335 |
+| Power stretcher | Carpet stretching | $600-1,000 |
+| Knee kicker | Edge stretching | $100-335 |
+| Carpet cutter | Straight cuts | $50-100 |
 | Seaming iron | Heat-bond seams | $100-225 |
 | Stair tool | Tucking into corners | $25-50 |
-| Wall trimmer | Edge trimming | $75-150 |
-| Row finder | Pattern matching | $30-50 |
-| Carpet knife | Cutting | $25-50 |
-| Seam roller | Setting seams | $30-50 |
+| Carpet tucker | Wall edges | $15-30 |
+| Row finder | Pattern matching | $20-40 |
+| Roberts 10-752 Deluxe Kit | 22-piece tool set | $400-500 |
 
-**Professional Kit (Roberts 10-752 Deluxe): $400-500**
-Contains 22 essential carpet tools.
-
-**Total Carpet Startup Investment: $2,500-5,000**
+**Recommendation:** Do not self-perform carpet until volume justifies equipment investment and training. The skill gap (especially power stretching and seaming) is significant. Sub out carpet initially while building LVP expertise.
 
 ---
 
-## Training & Certification Requirements
+## Material Suppliers & Credit Terms
 
-### LVP/LVT Training (Recommended)
+### Key Suppliers
 
-**Options:**
-
-| Program | Duration | Cost | Notes |
-|---------|----------|------|-------|
-| CFI Basic Floor Laying | 2-3 days | $850-1,500 | Entry certification |
-| Manufacturer training (Shaw, Mohawk) | 1-2 days | Often free | Product-specific |
-| FCEF scholarships | Varies | 50% off | Available through industry foundation |
-
-**Learning Curve:**
-- Basic proficiency: 2-3 weeks hands-on
-- Production-level speed: 1-3 months
-- Herringbone/pattern work: 3-6 months
-
-### Carpet Training (Required Before Self-Performing)
-
-**Minimum recommended:**
-- 2-week formal training program
-- Apprenticeship with experienced installer
-- Certification before warranty work
-
-**Why Carpet is Harder:**
-- Power stretcher technique takes months to master
-- Seaming skill separates professionals from amateurs
-- Pattern matching on patterned carpet is complex
-- Physical demands are significant (knee injuries common)
-
-### Certification Bodies
-
-| Organization | Certification | Requirements |
-|--------------|---------------|--------------|
-| CFI | Certified Flooring Installer | 2 years experience, exam |
-| CFI | Master Installer | 10+ years, advanced exam |
-| INSTALL | Union apprenticeship | 5-year program |
-| CTEF | Certified Tile Installer | For tile work only |
-
----
-
-## Material Supplier Relationships
-
-### Sherwin-Williams FloorCovering Division
-
-**Important: Different Business Model Than Paint Division**
-
-| Aspect | Paint Division | FloorCovering Division |
-|--------|---------------|----------------------|
-| Business model | Material supply only | Supply + installation coordination |
-| Credit terms | Pay-when-paid available | Flexible terms (verify specifics) |
-| Installation | Customer arranges | SW arranges through independent contractors |
-| GC relationship | Customer manages | SW can manage if desired |
-
-**SE Wisconsin Location:**
-- N16W23390 Stone Ridge Dr, Waukesha, WI
+**Sherwin-Williams FloorCovering Center (Waukesha)**
+- Location: N16W23390 Stone Ridge Dr
 - Phone: 262-549-9007
+- Model: Wholesale supply with installation coordination
+- Products: Carpet, LVT/LVP, sheet vinyl, laminate, accessories
 
-**Products Available:**
-- Carpet (all types)
-- LVT/LVP
-- Sheet vinyl
-- Laminate
-- Accessories
+**Nonn's Commercial Division**
+- New Berlin: 262-446-6810
+- Menomonee Falls: 262-255-1400
+- Starnet member, provides installation crews if needed
 
-**Key Question for LaBrant:** Do you want SW-FC as a material supplier only (you self-perform), or as an installation partner (they find installers)? The latter is their default model but you can likely negotiate material-only supply with contractor terms.
+**Tarkett Wisconsin Rep**
+- Phone: 414-299-0156 (Wauwatosa area)
 
-### Nonn's Commercial Division
+### Credit Terms Comparison
 
-**Starnet Worldwide Member**
+| Aspect | Paint (SW) | Flooring (Typical) |
+|--------|------------|-------------------|
+| Payment terms | Net 30-60, pay-when-paid available | Net 30-60 only |
+| Credit application | Already established | New application required |
+| Trade references | On file | May require personal guarantee |
 
-| Location | Phone |
-|----------|-------|
-| New Berlin | 262-446-6810 |
-| Menomonee Falls | 262-255-1400 |
-| Madison (Middleton) | 608-442-8100 |
-
-**Services:**
-- Material supply
-- Dedicated installation crews
-- On-site project managers
-- PlanGrid technology integration
-
-**Consideration:** Nonn's both supplies AND installs. They could be a competitor or a subcontractor depending on relationship structure.
-
-### Direct Manufacturer Accounts
-
-| Manufacturer | Wisconsin Rep/Contact | Notes |
-|--------------|----------------------|-------|
-| Tarkett | 414-299-0156 (Wauwatosa) | LVT, sheet vinyl, linoleum |
-| Shaw Contract | Request via shawcontract.com | Carpet, LVT |
-| Mohawk Group | 1-800-554-6637 | Carpet, LVT |
-| Mannington | Schmidt Custom Floors (Waukesha) | LVT, sheet vinyl |
-
----
-
-## Credit Terms: Paint vs. Flooring Comparison
-
-### Sherwin-Williams Paint (Current Relationship)
-- Pay-when-paid terms available
-- Net 30-60 standard
-- Material rebates based on volume
-- Long-standing credit relationship
-
-### Flooring Material Credit (Industry Standard)
-- **Net 30-60 typical** — Not pay-when-paid
-- Credit application required (new account)
-- May require personal guarantee initially
-- Trade references checked
-
-**Cash Flow Impact:**
-Industry average time to payment for flooring subs: **83 days**
-
-This is significantly longer than painting and requires capital planning. Flooring material is often more expensive than paint per-job, meaning larger working capital requirements.
+**Cash Flow Impact:** Industry average time to payment for flooring subs: **83 days**. This is significantly longer than painting and requires capital planning. Flooring material is often more expensive than paint per-job, meaning larger working capital requirements.
 
 **Recommendation:** Negotiate terms with existing SW relationship first. Your paint purchase history should provide leverage for favorable flooring terms.
 
@@ -376,8 +341,7 @@ This is significantly longer than painting and requires capital planning. Floori
 | ASTM F1869 (Calcium Chloride) | Older method | 3-5 lbs/1000 SF/24 hrs |
 | ASTM F2659 (pH Test) | Alkalinity check | pH 7-10 |
 
-**Critical Contract Language:**
-The GC/owner must provide substrate that meets manufacturer's moisture requirements. If you install over wet concrete and it fails, you own the liability.
+**Critical Contract Language:** The GC/owner must provide substrate that meets manufacturer's moisture requirements. If you install over wet concrete and it fails, you own the liability.
 
 **Document Everything:**
 - Date and time of testing
@@ -409,6 +373,8 @@ The GC/owner must provide substrate that meets manufacturer's moisture requireme
 | Material acclimation | 48-72 hours in conditioned space |
 
 **New Construction Risk:** HVAC may not be operational. Require written confirmation of climate control before mobilizing.
+
+**Synergy Note:** LaBrant's daily QC reports already capture temperature and RH readings. If the space fails paint specs, it will fail flooring specs too—same conditions apply.
 
 ### Pattern Work Premium
 
@@ -449,16 +415,16 @@ The GC/owner must provide substrate that meets manufacturer's moisture requireme
 
 **Hidden Scope That Shows Up on Every Multifamily Job:**
 
-1. **Elevator cab flooring** — Often overlooked in initial scope
-2. **Model units** — Upgraded materials, faster turnaround
-3. **Amenity spaces** — Different material than units
-4. **Stairwells** — Carpet + nosings, fire rating requirements
-5. **Transition strips** — More than expected at door openings
-6. **Closet flooring** — Same SF as unit but additional installation time
-7. **Mechanical rooms** — Sheet vinyl or painted concrete
-8. **Storage units** — May or may not be in scope
-9. **Garage connections** — Transition from exterior to interior
-10. **Balcony thresholds** — Weather transitions
+1. Elevator cab flooring — Often overlooked in initial scope
+2. Model units — Upgraded materials, faster turnaround
+3. Amenity spaces — Different material than units
+4. Stairwells — Carpet + nosings, fire rating requirements
+5. Transition strips — More than expected at door openings
+6. Closet flooring — Same SF as unit but additional installation time
+7. Mechanical rooms — Sheet vinyl or painted concrete
+8. Storage units — May or may not be in scope
+9. Garage connections — Transition from exterior to interior
+10. Balcony thresholds — Weather transitions
 
 ---
 
@@ -474,7 +440,7 @@ The GC/owner must provide substrate that meets manufacturer's moisture requireme
 | 5474 | Painting (interior) | $3.50-4.50 |
 | 5478 | Painting (exterior) | $5.00-7.00 |
 
-**Action Required:** Contact your WC carrier to add flooring classification before starting work.
+**Action Required:** Contact your WC carrier to add flooring classification before starting work. Get actual premium quote to verify margin calculations.
 
 ### General Liability
 
@@ -492,28 +458,28 @@ Your existing $5M bonding capacity should cover flooring work. Verify with bondi
 
 ### Information Required From GC
 
-□ Floor plans with square footage per room/area  
-□ Finish schedule specifying materials  
-□ Specification sections (09 65 00, 09 68 00)  
-□ Moisture testing responsibility assignment  
-□ HVAC completion timeline  
-□ Access schedule (when can flooring start?)  
-□ Elevator availability for material delivery  
-□ Material storage location on site  
-□ Protection requirements after installation  
-□ Punchlist and acceptance process  
+- [ ] Floor plans with square footage per room/area  
+- [ ] Finish schedule specifying materials  
+- [ ] Specification sections (09 65 00, 09 68 00)  
+- [ ] Moisture testing responsibility assignment  
+- [ ] HVAC completion timeline  
+- [ ] Access schedule (when can flooring start?)  
+- [ ] Elevator availability for material delivery  
+- [ ] Material storage location on site  
+- [ ] Protection requirements after installation  
+- [ ] Punchlist and acceptance process  
 
 ### Takeoff Items
 
-□ LVP/LVT square footage (by room type)  
-□ Carpet square footage (by room type)  
-□ Vinyl base linear footage  
-□ Transition strip locations and types  
-□ Stair treads and nosings  
-□ Pattern work locations (herringbone, etc.)  
-□ Special areas (elevator cabs, amenities)  
-□ Substrate conditions (known issues?)  
-□ Floor flatness requirements (1/8" in 10')  
+- [ ] LVP/LVT square footage (by room type)  
+- [ ] Carpet square footage (by room type)  
+- [ ] Vinyl base linear footage  
+- [ ] Transition strip locations and types  
+- [ ] Stair treads and nosings  
+- [ ] Pattern work locations (herringbone, etc.)  
+- [ ] Special areas (elevator cabs, amenities)  
+- [ ] Substrate conditions (known issues?)  
+- [ ] Floor flatness requirements (1/8" in 10')  
 
 ### Cost Build-Up
 
@@ -549,7 +515,7 @@ Your existing $5M bonding capacity should cover flooring work. Verify with bondi
 
 **Investment:** $1,500-3,000 equipment + training
 
-**Target:** Offer flooring add-on on 2-3 McShane/Fiduciary jobs in current pipeline
+**Target:** Offer flooring add-on on 2-3 McShane/Fiduciary jobs in current pipeline. Leverage DBE/SBE certification stacking on WHEDA projects.
 
 ### Phase 2: Add Glue-Down LVT (Months 6-12)
 
@@ -574,6 +540,7 @@ Your existing $5M bonding capacity should cover flooring work. Verify with bondi
 - Single-source Division 9 finishes (painting + flooring)
 - Package pricing for multifamily GCs
 - Certification leverage (DBE/SBE on full scope)
+- Double participation credit for GCs on diversity-focused projects
 
 ---
 

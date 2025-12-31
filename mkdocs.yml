@@ -33,14 +33,19 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Quick Reference: attachments/quick-reference.md
+
+  - Flooring:
+    - Overview: flooring/index.md
+    - Market Analysis: flooring/market-analysis.md
+    - Operational Guide: flooring/operational-guide.md
+    - Synergies: flooring/synergies.md
 
   - 1. Strategy:
     - Overview: ch1-strategic-framework/index.md
     - Master Strategy: ch1-strategic-framework/master-strategy.md
     - Market Sizing: ch1-strategic-framework/market-sizing.md
     - Diversification: ch1-strategic-framework/diversification.md
-    - "📎 SE Wisconsin Master Intel": attachments/se-wisconsin-market-intel.md
+    - "SE Wisconsin Master Intel": attachments/se-wisconsin-market-intel.md
 
   - 2. GC Intelligence:
     - Overview: ch2-gc-intelligence/index.md
@@ -49,10 +54,10 @@ nav:
     - Growth Targets: ch2-gc-intelligence/growth-targets.md
     - Key Contacts: ch2-gc-intelligence/contacts.md
     - Avoid List: ch2-gc-intelligence/avoid-list.md
-    - "📎 GC Landscape Research": attachments/gc-landscape-research.md
-    - "📎 GC Pipeline Intelligence": attachments/gc-pipeline-intelligence.md
-    - "📎 Competitor Intelligence": attachments/att-f-competitors.md
-    - "📎 Data Centers (Avoid)": attachments/att-g-data-centers.md
+    - "GC Landscape Research": attachments/gc-landscape-research.md
+    - "GC Pipeline Intelligence": attachments/gc-pipeline-intelligence.md
+    - "Competitor Intelligence": attachments/att-f-competitors.md
+    - "Data Centers (Avoid)": attachments/att-g-data-centers.md
 
   - 3. Municipal Markets:
     - Overview: ch3-municipal/index.md
@@ -62,18 +67,18 @@ nav:
     - Milwaukee County: ch3-municipal/milwaukee-county.md
     - Other Municipalities: ch3-municipal/other-municipalities.md
     - Action Items: ch3-municipal/action-items.md
-    - "📎 Municipal Opportunities": attachments/municipal-opportunities.md
-    - "📎 Municipal Deep Dive": attachments/municipal-deep-dive.md
-    - "📎 WisDOT Recurring": attachments/wisdot-recurring.md
-    - "📎 Water Towers": attachments/att-d-water-towers.md
-    - "📎 Public Facilities": attachments/public-facilities.md
+    - "Municipal Opportunities": attachments/municipal-opportunities.md
+    - "Municipal Deep Dive": attachments/municipal-deep-dive.md
+    - "WisDOT Recurring": attachments/wisdot-recurring.md
+    - "Water Towers": attachments/att-d-water-towers.md
+    - "Public Facilities": attachments/public-facilities.md
 
   - 4. Private Development:
     - Overview: ch4-private-development.md
-    - "📎 Developers Multifamily": attachments/developers-multifamily.md
-    - "📎 Multifamily Operators": attachments/multifamily-operators.md
-    - "📎 Senior Living Part 1": attachments/att-b-senior-living-1.md
-    - "📎 Senior Living Part 2": attachments/att-c-senior-living-2.md
+    - "Developers Multifamily": attachments/developers-multifamily.md
+    - "Multifamily Operators": attachments/multifamily-operators.md
+    - "Senior Living Part 1": attachments/att-b-senior-living-1.md
+    - "Senior Living Part 2": attachments/att-c-senior-living-2.md
 
   - 5. Untapped Markets:
     - Overview: ch5-market-segments/index.md
@@ -85,18 +90,18 @@ nav:
     - Private Schools: ch5-market-segments/private-schools.md
     - Country Clubs: ch5-market-segments/country-clubs.md
     - New Markets: ch5-market-segments/new-markets.md
-    - "📎 Retail & Student Housing": attachments/retail-student-housing.md
-    - "📎 New Market Development": attachments/new-market-development.md
-    - "📎 Industrial Private": attachments/industrial-private.md
+    - "Retail & Student Housing": attachments/retail-student-housing.md
+    - "New Market Development": attachments/new-market-development.md
+    - "Industrial Private": attachments/industrial-private.md
 
   - 6. Large Facilities Owners:
     - Overview: ch6-large-owners.md
-    - "📎 Large Property Owners": attachments/large-property-owners.md
-    - "📎 Facility Maintenance": attachments/facility-maintenance.md
+    - "Large Property Owners": attachments/large-property-owners.md
+    - "Facility Maintenance": attachments/facility-maintenance.md
 
   - 7. Historical Sales Data & CRM:
     - Overview: ch7-sales-system.md
-    - "📎 Financial Analysis": attachments/att-a-financial.md
+    - "Financial Analysis": attachments/att-a-financial.md
 
   - Topic Index: topic-index.md
 

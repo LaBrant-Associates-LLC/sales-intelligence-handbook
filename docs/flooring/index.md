@@ -23,6 +23,11 @@ Analysis of operational overlap between painting and flooring trades, identifyin
 
 - [Painting & Flooring Synergies](synergies.md)
 
+### Research Gaps & Market Opportunity
+Intelligence gaps to address, FLOOR360/CertaPro competitive analysis, WHEDA market sizing ($560K-$1.3M opportunity), and certification stacking value proposition.
+
+- [Research Gaps & Market Opportunity](research-gaps.md)
+
 ---
 
 ## Strategic Summary

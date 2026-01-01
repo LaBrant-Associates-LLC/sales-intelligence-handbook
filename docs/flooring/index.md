@@ -2,28 +2,30 @@
 
 **LaBrant & Associates LLC — Division 9 Finishes Strategy**
 
-**Document:** LAB-STR-FLOOR-001 | **Revision:** 1.0 | **Date:** December 31, 2024
-**Status:** Controlled Pilot Only | **Next Review:** March 31, 2025
+**Revision:** 1.0 | **Date:** December 31, 2024
+**Status:** Under review by team
 
 ---
 
 ## Why This Chapter Exists
 
-This chapter governs LaBrant's entry into flooring. It exists for one reason: to ensure that expanding into flooring does not compromise the discipline, documentation, and trust that define our painting operation.
+To ensure that expanding into flooring does not compromise the discipline, documentation, and trust that define our painting operation.
 
-Flooring introduces a materially different risk profile than painting. Failures are often latent, responsibility is frequently contested after the fact, and correction typically requires removal and replacement rather than repair. Because of this, flooring cannot be approached as a casual scope addition.
+Flooring introduces a materially different risk profile than painting. Failures are often not obvious at first, responsibility is frequently contested after the fact, and correction typically requires removal and replacement rather than repair. Because of this, flooring cannot be approached as a casual scope addition!
 
 **This chapter is authoritative.** All flooring-related decisions—bids, pilot selection, execution standards, and GC conversations—are governed by the doctrine contained here.
 
 ---
 
-## The Strategic Case (Summary)
+## The Strategic Case
 
 **Market Gap:** No Milwaukee-based merit-shop contractor currently bundles painting + LVP/carpet flooring for multifamily construction. [See full analysis →](strategy.md)
 
-**Certification Leverage:** DBE/SBE status on combined scope doubles GC participation credit on WHEDA and municipal projects.
+**Certification Leverage:** DBE/SBE status on combined scope doubles GC participation credit on WHEDA and municipal projects. Scopes are often similiar in cost -> $300k painting scope + $300k flooring scope = $600k towards DBE goal for GC. Painting typically 5% of DBE goal, adding flooring bumps that to 10% and GC only has to manage one instead of two subs for same volumn of work. WIN-WIN. Certs are BIG here.
 
-**Revenue Opportunity:** The 2025 WHEDA pipeline alone represents $6.9M in combined Division 9 opportunity. At 25% capture, flooring adds ~$934K incremental revenue. [See market sizing →](market-opportunity.md)
+**Divisions:** 09 60 00 Flooring + 09 70 00 Wallcoverings + 09 90 00 Painting and Coatings
+
+**Revenue Opportunity:** The 2025 WHEDA pipeline alone represents $9.9M in combined Division 9600 ($5.2M) + 9700 ($400k) + 9900 (4.3M) opportunities. [See market sizing →](market-opportunity.md)
 
 ---
 
@@ -43,15 +45,15 @@ Flooring introduces a materially different risk profile than painting. Failures 
 
 ## The Rules (Non-Negotiable)
 
-1. **One pilot project at a time.** No parallel flooring projects until post-install review is complete.
+1. **Pilot project with MSP required.** No additional or parallel flooring projects until post-mortem project review as a team is complete.
 
 2. **No installation without documented acceptance.** Substrate, moisture, environment, and scope must be confirmed in writing before work begins.
 
-3. **Walk-away authority is mandatory.** If preconditions fail, we do not install. Schedule pressure does not override readiness.
+3. **Walk-away authority not only granted but mandatory.** If preconditions fail, we do not install. Schedule pressure does not override readiness.
 
-4. **Flooring lives inside QC-001.** No parallel QC system. If it's not documented with photos, it didn't happen.
+4. **Flooring Quality added to manual: Document QC-001.** No parallel QC system. If it's not documented with photos, it didn't happen.
 
-5. **Failure of any gate halts the strategy.** This is not an obligation to scale—it's permission to try under strict controls.
+5. **Failure in any above item halts the growth strategy.** This is not an obligation to scale—it's permission to try under strict controls.
 
 ---
 
@@ -94,5 +96,5 @@ Flooring introduces a materially different risk profile than painting. Failures 
 |---------|------|---------|
 | 1.0 | 12/31/2024 | Initial consolidated version from 13 source documents |
 
-**Owner:** Tyler LaBrant
+**Owner:** Tyler
 **Distribution:** Internal — Sales Team, Project Managers, Superintendents

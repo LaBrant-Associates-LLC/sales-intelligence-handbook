@@ -10,6 +10,8 @@ We currently derive most revenue from less than 10 GC relationships. This resear
 
 **Goal:** Diversify work portfolio across other markets while expanding multifamily bidding.
 
+**New Market Expansion:** [Division 9 — Flooring](flooring/index.md) | Controlled pilot for painting + flooring bundling. $6.9M WHEDA opportunity, $560K-$1.3M incremental at realistic capture.
+
 ---
 
 ## Handbook Chapter Summary

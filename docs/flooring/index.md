@@ -9,11 +9,13 @@
 
 ## Why This Chapter Exists
 
-Flooring failures can appear months after demobilization. When they do, it's all or nothing—there's no touch-up, no re-painting. It's full removal and replacement.Paint either passes or fails at occupancy—it doesn't blow up six months later. Flooring does and QC documentation during install is our only protection.
+To ensure that expanding into flooring does not compromise client trust in our painting operation. 
 
-Quality documentation during installation is our only protection warranty claims or litigation. No documentation, no exit strategy other than full blown insurance claim.
+## Flooring Risk
 
-This chapter exists to ensure that expanding into flooring does not compromise client trust in our painting operation and our business for that matter.
+Flooring failures can appear months after demobilization and the fix is full removal and replacement.
+
+Quality documentation during installation will be our only protection against warranty claims or litigation several months into warranty period. 
 
 **This chapter is authoritative.** All flooring-related decisions: bids, pilot selection, execution standards, risk mitigation measures through QAQC documentation and GC conversations are governed by the doctrine in this chapter.
 

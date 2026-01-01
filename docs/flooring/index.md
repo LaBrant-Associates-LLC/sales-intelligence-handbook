@@ -29,13 +29,13 @@ Flooring introduces a materially different risk profile than painting. Failures 
 
 ## The Competitive Landscape (Summary)
 
-| Competitor | Why Not Direct Competition |
-|------------|---------------------------|
-| Thomas A. Mason | Painting + flooring, but **union-only** |
-| IOC Construction | Painting + flooring, but **Chicago-based** (90 miles) |
-| FLOOR360 | Flooring only, **no painting**, no certifications |
-| QBC | Carpentry + flooring, **no painting** |
-| Suburban Drywall | Drywall + painting, **no flooring** |
+| Competitor | What They Do | Gap |
+|------------|--------------|-----|
+| Thomas A. Mason | Painting + flooring | **Union-only** |
+| IOC Construction | Painting + flooring | **Chicago-based** (90 mi) |
+| FLOOR360 | Flooring only | No painting, no certs |
+| QBC | Carpentry + flooring | No painting |
+| Suburban Drywall | Drywall + painting | No flooring |
 
 [See full competitor profiles →](attachments/competitor-profiles.md)
 

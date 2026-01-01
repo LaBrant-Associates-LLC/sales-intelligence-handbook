@@ -36,20 +36,22 @@ nav:
 
   - Flooring:
     - Overview: flooring/index.md
-    - FY2026 Launch Strategy: flooring/launch-strategy.md
-    - Market Analysis: flooring/market-analysis.md
-    - Scope Bundling Analysis: flooring/scope-bundling.md
-    - Competitive Intelligence: flooring/competitive-intel.md
-    - Operational Guide: flooring/operational-guide.md
-    - Synergies: flooring/synergies.md
-    - Subcontractor & Training: flooring/subcontractor-vetting.md
-    - Research Gaps & Opportunity: flooring/research-gaps.md
-    - Research Validation: flooring/rebuttals.md
-    - Pilot Controls: flooring/pilot-controls.md
-    - GC One-Pager: flooring/gc-one-pager.md
-    - QC Integration: flooring/qc-integration.md
-    - Forms Package: flooring/forms-readme.md
-    - Daily Log Addendum: flooring/daily-log-addendum.md
+    - Strategy & Rationale: flooring/strategy.md
+    - Market Opportunity: flooring/market-opportunity.md
+    - Scope & Pricing: flooring/scope-pricing.md
+    - Operations & Risk: flooring/operations-risk.md
+    - Pilot Execution: flooring/pilot-execution.md
+    - Implementation Timeline: flooring/implementation.md
+    - Tools:
+      - GC One-Pager: flooring/gc-one-pager.md
+      - Daily Log Addendum: flooring/daily-log-addendum.md
+    - Reference:
+      - Competitor Profiles: flooring/attachments/competitor-profiles.md
+      - Pricing Tables: flooring/attachments/pricing-tables.md
+      - Subcontractor & Training: flooring/attachments/subcontractor-training.md
+      - Research Validation: flooring/attachments/research-validation.md
+      - Conversation Scripts: flooring/attachments/conversation-scripts.md
+      - Contacts & Forms: flooring/attachments/contacts-forms.md
 
   - 1. Strategy:
     - Overview: ch1-strategic-framework/index.md

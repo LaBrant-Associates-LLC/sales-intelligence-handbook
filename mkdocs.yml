@@ -42,16 +42,16 @@ nav:
     - Operations & Risk: flooring/operations-risk.md
     - Pilot Execution: flooring/pilot-execution.md
     - Implementation Timeline: flooring/implementation.md
+    - Reference:
+      - Competitor Profiles: flooring/attachments/competitor-profiles.md
+      - Estimating Resources: flooring/attachments/pricing-tables.md
+      - Subcontractor & Training: flooring/attachments/subcontractor-training.md
+      - Conversation Scripts: flooring/attachments/conversation-scripts.md
+      - Contacts & Forms: flooring/attachments/contacts-forms.md
+      - Research Validation: flooring/attachments/research-validation.md
     - Tools:
       - GC One-Pager: flooring/gc-one-pager.md
       - Daily Log Addendum: flooring/daily-log-addendum.md
-    - Reference:
-      - Competitor Profiles: flooring/attachments/competitor-profiles.md
-      - Pricing Tables: flooring/attachments/pricing-tables.md
-      - Subcontractor & Training: flooring/attachments/subcontractor-training.md
-      - Research Validation: flooring/attachments/research-validation.md
-      - Conversation Scripts: flooring/attachments/conversation-scripts.md
-      - Contacts & Forms: flooring/attachments/contacts-forms.md
 
   - 1. Strategy:
     - Overview: ch1-strategic-framework/index.md
